@@ -1,0 +1,27 @@
+name: Deploy GitHub pages with traffic stats
+
+on:
+  - push
+
+jobs:
+  build-n-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+    - name: Build GitHub stats pages
+      uses: astrochun/github-stats-pages@latest
+      with:
+        username: ${{ github.actor }}
+        token: ${{ secrets.GH_TOKEN }}
+        test: true
+        exclude-repos: "2018-09-01-steward"
+    - name: Upload data to main
+      run: |
+        git add data/
+        git commit -m "Update data: ${{ steps.date.outputs.date }}"
+        git push origin main
