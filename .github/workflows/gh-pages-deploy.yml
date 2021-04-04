@@ -31,3 +31,13 @@ jobs:
         message: "Update data: ${{ steps.date.outputs.date }}"
         author_name: github-actions
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
+    - name: Upload static files to gh-pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.GH_TOKEN }}
+        publish_dir: ./public
+        keep_files: false
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
+        publish_branch: gh-pages
+        commit_message: "Update static pages: ${{ steps.date.outputs.date }}"
