@@ -20,8 +20,14 @@ jobs:
         token: ${{ secrets.GH_TOKEN }}
         test: true
         exclude-repos: "2018-09-01-steward"
-    - name: Upload data to main
+    - name: List contents
       run: |
-        git add data/
-        git commit -m "Update data: ${{ steps.date.outputs.date }}"
-        git push origin main
+        ls -ltrh
+    - name: Upload data to main branch
+      uses: EndBug/add-and-commit@v7.0.0
+      with:
+        add: 'data'
+        branch: main
+        message: "Update data: ${{ steps.date.outputs.date }}"
+        author_name: github-actions
+        author_email: 41898282+github-actions[bot]@users.noreply.github.com
