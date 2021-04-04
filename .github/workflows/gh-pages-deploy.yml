@@ -18,8 +18,6 @@ jobs:
       with:
         username: ${{ github.actor }}
         token: ${{ secrets.GH_TOKEN }}
-        test: true
-        exclude-repos: "2018-09-01-steward"
     - name: List contents
       run: |
         ls -ltRh
@@ -35,6 +33,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         personal_token: ${{ secrets.GH_TOKEN }}
+        external_repository: astrochun/github-stats
         publish_dir: ./public
         keep_files: false
         user_name: 'github-actions[bot]'
