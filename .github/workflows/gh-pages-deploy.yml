@@ -15,7 +15,7 @@ jobs:
       id: date
       run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
     - name: Build GitHub stats pages
-      uses: astrochun/github-stats-pages@v0.3.2
+      uses: astrochun/github-stats-pages@latest
       with:
         username: ${{ github.actor }}
         token: ${{ secrets.GH_TOKEN }}
