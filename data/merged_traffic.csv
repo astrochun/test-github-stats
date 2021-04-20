@@ -77,6 +77,7 @@ Metallicity_Stack_Commons,2021-04-09,1,1
 Metallicity_Stack_Commons,2021-04-10,2,1
 Metallicity_Stack_Commons,2021-04-12,5,1
 Metallicity_Stack_Commons,2021-04-14,6,1
+Metallicity_Stack_Commons,2021-04-19,20,1
 PeakFlows,2021-03-11,1,1
 PyEmLineFit,2021-03-16,1,1
 PyEmLineFit,2021-03-29,2,1
@@ -116,6 +117,7 @@ Zcalbase_gal,2021-04-06,54,2
 Zcalbase_gal,2021-04-08,1,1
 Zcalbase_gal,2021-04-10,1,1
 Zcalbase_gal,2021-04-11,13,2
+Zcalbase_gal,2021-04-19,1,1
 academic-ads-bibtex,2021-01-03,3,1
 academic-ads-bibtex,2021-01-04,7,2
 academic-ads-bibtex,2021-01-05,4,1
@@ -164,6 +166,8 @@ chun_codes,2021-02-23,3,1
 chun_codes,2021-03-16,4,1
 containeraction,2021-03-25,10,1
 containeraction,2021-03-27,4,1
+figshare_actions2,2021-04-19,1,1
+figshare_autosync_check,2021-04-19,21,2
 github-stats,2021-03-31,3,1
 github-stats,2021-04-04,8,1
 github-stats,2021-04-05,3,1
@@ -214,6 +218,7 @@ github-stats-pages,2021-04-14,19,1
 github-stats-pages,2021-04-15,4,1
 github-stats-pages,2021-04-16,29,1
 github-stats-pages,2021-04-17,4,1
+github-stats-pages,2021-04-19,4,1
 simplenodeapp,2021-03-25,1,1
 site-hugo-academic,2021-02-21,8,1
 site-hugo-academic,2021-03-17,1,1
