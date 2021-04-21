@@ -1,0 +1,13 @@
+name: README Repos List
+on: push
+
+jobs:
+  readme-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run readme-repos-list
+        uses: koj-co/readme-repos-list@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          query: "uses:astrochun/github-stats-pages language:yml in:file"
+          max: 1000
