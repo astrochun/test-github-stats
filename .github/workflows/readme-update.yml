@@ -11,5 +11,6 @@ jobs:
         uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GH_TOKEN }}
-          query: "uses:astrochun/github-stats-pages language:yml in:file"
+          # query: "uses:astrochun/github-stats-pages language:yml in:file"
+          query: "topic:github-stats-pages"
           max: 1000
