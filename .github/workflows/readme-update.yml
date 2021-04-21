@@ -14,3 +14,4 @@ jobs:
           # query: "uses:astrochun/github-stats-pages language:yml in:file"
           query: "topic:github-stats-pages"
           max: 1000
+          one-per-owner: true
