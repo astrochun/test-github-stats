@@ -5,6 +5,8 @@ jobs:
   readme-list:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
       - name: Run readme-repos-list
         uses: koj-co/readme-repos-list@master
         with:
