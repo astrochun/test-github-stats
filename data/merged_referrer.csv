@@ -18,7 +18,9 @@ chun_codes,github.com,1,1
 containeraction,github.com,4,1
 figshare_actions2,github.com,1,1
 figshare_autosync_check,github.com,2,1
+github-stats,gather.town,1,1
 github-stats,github.com,1,1
+github-stats-pages,gather.town,1,1
 github-stats-pages,github.com,1,1
 github-stats-pages,pypi.org,1,1
 github-stats-pages,yandex.ru,1,1
@@ -26,11 +28,13 @@ simplenodeapp,github.com,1,1
 site-hugo-academic,Google,1,1
 site-hugo-academic,github.com,1,1
 test-github-stats,github.com,1,1
+test-stats,github.com,1,1
 voxcharta-my-voting-record,bath.voxcharta.org,1,1
 voxcharta-my-voting-record,cefca.voxcharta.org,1,1
 voxcharta-my-voting-record,chicago-kicp.voxcharta.org,1,1
 voxcharta-my-voting-record,cos.voxcharta.org,1,1
 voxcharta-my-voting-record,dawn-cph.voxcharta.org,1,1
+voxcharta-my-voting-record,general-cu.voxcharta.org,1,1
 voxcharta-my-voting-record,github.com,1,1
 voxcharta-my-voting-record,harvard.voxcharta.org,10,8
 voxcharta-my-voting-record,ialp-fcaglp.voxcharta.org,1,1
