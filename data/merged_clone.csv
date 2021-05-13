@@ -23,6 +23,7 @@ Evolution-of-Galaxies,2021-05-05,2,2
 Evolution-of-Galaxies,2021-05-11,2,2
 Extract1D,2021-03-14,1,1
 Extract1D,2021-04-28,1,1
+Extract1D,2021-05-12,1,1
 GNIRSLongSlit,2021-03-14,1,1
 GNIRSLongSlit,2021-05-10,1,1
 IntroPythonAstronomy,2021-03-12,1,1
@@ -98,6 +99,7 @@ Zcalbase_gal,2021-05-03,2,2
 Zcalbase_gal,2021-05-05,1,1
 Zcalbase_gal,2021-05-06,2,2
 Zcalbase_gal,2021-05-11,2,2
+Zcalbase_gal,2021-05-12,9,6
 academic-ads-bibtex,2021-01-06,5,4
 academic-ads-bibtex,2021-01-09,1,1
 academic-ads-bibtex,2021-01-11,1,1
@@ -190,6 +192,7 @@ github-stats,2021-05-08,3,3
 github-stats,2021-05-09,3,3
 github-stats,2021-05-10,3,3
 github-stats,2021-05-11,3,3
+github-stats,2021-05-12,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -244,6 +247,7 @@ github-stats-pages,2021-05-02,46,8
 github-stats-pages,2021-05-07,1,1
 github-stats-pages,2021-05-09,1,1
 github-stats-pages,2021-05-11,4,1
+github-stats-pages,2021-05-12,35,4
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -293,6 +297,7 @@ test-github-stats,2021-05-08,3,3
 test-github-stats,2021-05-09,4,4
 test-github-stats,2021-05-10,3,3
 test-github-stats,2021-05-11,2,2
+test-github-stats,2021-05-12,2,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 voxcharta-my-voting-record,2021-01-04,2,2
