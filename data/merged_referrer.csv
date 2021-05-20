@@ -22,6 +22,7 @@ chun_codes,github.com,1,1
 containeraction,github.com,4,1
 figshare_actions2,github.com,1,1
 figshare_autosync_check,github.com,2,1
+figshare_autosync_check_queue,github.com,1,1
 github-stats,gather.town,1,1
 github-stats,github.com,1,1
 github-stats-pages,Google,1,1
