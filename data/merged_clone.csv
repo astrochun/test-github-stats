@@ -43,6 +43,7 @@ MMTtools,2021-03-13,1,1
 MMTtools,2021-03-25,1,1
 MMTtools,2021-04-03,1,1
 MMTtools,2021-05-08,1,1
+MMTtools,2021-05-24,1,1
 MZEnv,2021-05-08,1,1
 MZEvolve,2021-05-05,1,1
 Metallicity_Stack_Commons,2021-01-09,1,1
@@ -162,6 +163,7 @@ chun_codes,2021-03-12,3,2
 chun_codes,2021-04-28,1,1
 chun_codes,2021-05-09,1,1
 chun_codes,2021-05-17,1,1
+chun_codes,2021-05-24,1,1
 containeraction,2021-04-28,1,1
 containeraction,2021-05-21,1,1
 figshare_actions,2021-02-27,1,1
@@ -231,6 +233,7 @@ github-stats,2021-05-20,2,2
 github-stats,2021-05-21,4,4
 github-stats,2021-05-22,4,4
 github-stats,2021-05-23,3,3
+github-stats,2021-05-24,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -353,6 +356,7 @@ test-github-stats,2021-05-20,3,3
 test-github-stats,2021-05-21,4,4
 test-github-stats,2021-05-22,6,6
 test-github-stats,2021-05-23,4,4
+test-github-stats,2021-05-24,4,4
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
