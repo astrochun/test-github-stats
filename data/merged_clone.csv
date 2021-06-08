@@ -207,6 +207,7 @@ figshare_autosync_check_queue,2021-05-18,3,3
 figshare_autosync_check_queue,2021-05-21,1,1
 figshare_autosync_check_queue,2021-06-01,1,1
 figshare_autosync_check_queue,2021-06-02,1,1
+figshare_autosync_check_queue,2021-06-07,7,6
 figshare_test,2021-02-19,1,1
 figshare_test,2021-03-06,1,1
 figshare_test,2021-06-01,1,1
@@ -278,6 +279,7 @@ github-stats,2021-06-03,2,2
 github-stats,2021-06-04,3,3
 github-stats,2021-06-05,3,3
 github-stats,2021-06-06,2,2
+github-stats,2021-06-07,2,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -418,6 +420,7 @@ test-github-stats,2021-06-03,4,4
 test-github-stats,2021-06-04,3,3
 test-github-stats,2021-06-05,4,4
 test-github-stats,2021-06-06,2,2
+test-github-stats,2021-06-07,2,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
