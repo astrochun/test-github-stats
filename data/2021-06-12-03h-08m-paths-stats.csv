@@ -1,0 +1,37 @@
+date,path,title,count,uniques
+2021-06-12,/astrochun/figshare_autosync_check_queue,astrochun/figshare_autosync_check_queue: Figshare GitHub integration testing ...,7,3
+2021-06-12,/astrochun/figshare_autosync_check_queue/commits/main,Commits · astrochun/figshare_autosync_check_queue,4,1
+2021-06-12,/astrochun/figshare_autosync_check_queue/actions,Actions · astrochun/figshare_autosync_check_queue,3,1
+2021-06-12,/astrochun/figshare_autosync_check_queue/actions/workflows/create_release.yml,Actions · astrochun/figshare_autosync_check_queue,3,1
+2021-06-12,/astrochun/figshare_autosync_check_queue/releases,Releases · astrochun/figshare_autosync_check_queue,3,1
+2021-06-12,/astrochun/figshare_autosync_check_queue/commit/1696bfba2b280e9d68b7c6e9e19025becc505b3e,Update: 2020-08-25 · astrochun/figshare_autosync_check_queue@1696bfb,2,1
+2021-06-12,/astrochun/figshare_autosync_check_queue/tags,Tags · astrochun/figshare_autosync_check_queue,1,1
+2021-06-12,/astrochun/github-stats/pull/4,Fix getting of the bot name and email from env variables by insolor · Pull Re...,12,2
+2021-06-12,/astrochun/github-stats,astrochun/github-stats: My GitHub stats,10,2
+2021-06-12,/astrochun/github-stats/pulls,Pull requests · astrochun/github-stats,6,2
+2021-06-12,/astrochun/github-stats/pull/4/files,Fix getting of the bot name and email from env variables by insolor · Pull Re...,5,2
+2021-06-12,/astrochun/github-stats/blob/main/.github/workflows/gh-pages-deploy.yml,github-stats/gh-pages-deploy.yml at main · astrochun/github-stats,3,1
+2021-06-12,/astrochun/github-stats/tree/main/.github/workflows,github-stats/.github/workflows at main · astrochun/github-stats,3,1
+2021-06-12,/astrochun/github-stats/commit/676467745ecbdf16ec16b151700a2d67e3c09863,Use env variable for Action simplicity · astrochun/github-stats@6764677,2,2
+2021-06-12,/astrochun/github-stats/compare/main...insolor:patch-1,Comparing astrochun:main...insolor:patch-1 · astrochun/github-stats,1,1
+2021-06-12,/astrochun/github-stats/edit/main/.github/workflows/gh-pages-deploy.yml,Editing github-stats/gh-pages-deploy.yml at main · astrochun/github-stats,1,1
+2021-06-12,/astrochun/github-stats/pull/4/commits,Fix getting of the bot name and email from env by insolor · Pull Request #4 ·...,1,1
+2021-06-12,/astrochun/github-stats-pages,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,6,1
+2021-06-12,/astrochun/github-stats-pages/issues,Issues · astrochun/github-stats-pages,5,1
+2021-06-12,/astrochun/github-stats-pages/blob/main/github_stats_pages/stats_plots.py,github-stats-pages/stats_plots.py at main · astrochun/github-stats-pages,2,1
+2021-06-12,/astrochun/github-stats-pages/issues/18,Add CHANGELOG.md · Issue #18 · astrochun/github-stats-pages,2,1
+2021-06-12,/astrochun/github-stats-pages/tree/main/github_stats_pages,github-stats-pages/github_stats_pages at main · astrochun/github-stats-pages,2,1
+2021-06-12,/astrochun/github-stats-pages/blob/main/action.yml,github-stats-pages/action.yml at main · astrochun/github-stats-pages,1,1
+2021-06-12,/astrochun/github-stats-pages/blob/main/Dockerfile,github-stats-pages/Dockerfile at main · astrochun/github-stats-pages,1,1
+2021-06-12,/astrochun/github-stats-pages/blob/main/entrypoint.sh,github-stats-pages/entrypoint.sh at main · astrochun/github-stats-pages,1,1
+2021-06-12,/astrochun/github-stats-pages/blob/main/github_stats_pages/repo_list.py,github-stats-pages/repo_list.py at main · astrochun/github-stats-pages,1,1
+2021-06-12,/astrochun/github-stats-pages/tree/main/.github,github-stats-pages/.github at main · astrochun/github-stats-pages,1,1
+2021-06-12,/astrochun/Metallicity_Stack_Commons/pulls,Pull requests · astrochun/Metallicity_Stack_Commons,4,2
+2021-06-12,/astrochun/Metallicity_Stack_Commons/issues,Issues · astrochun/Metallicity_Stack_Commons,3,2
+2021-06-12,/astrochun/Metallicity_Stack_Commons,astrochun/Metallicity_Stack_Commons: Set of common codes used in metallicity ...,1,1
+2021-06-12,/astrochun/Metallicity_Stack_Commons/issues/121,Bug: Fix OIII4363 limits for non-detections · Issue #121 · astrochun/Metallic...,1,1
+2021-06-12,/astrochun/Metallicity_Stack_Commons/network,Network Graph · astrochun/Metallicity_Stack_Commons,1,1
+2021-06-12,/astrochun/Metallicity_Stack_Commons/pulse,Pulse · astrochun/Metallicity_Stack_Commons,1,1
+2021-06-12,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,1,1
+2021-06-12,/astrochun/MMTtools/blob/master/Documentation_for_mmirs_pipeline_taskfile.pdf,MMTtools/Documentation_for_mmirs_pipeline_taskfile.pdf at master · astrochun/...,1,1
+2021-06-12,/astrochun/MMTtools/blob/master/README.md,MMTtools/README.md at master · astrochun/MMTtools · GitHub,1,1
