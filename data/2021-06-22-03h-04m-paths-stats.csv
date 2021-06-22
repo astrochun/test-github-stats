@@ -1,0 +1,84 @@
+date,path,title,count,uniques
+2021-06-22,/astrochun/academic-ads-bibtex,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,1,1
+2021-06-22,/astrochun/astrochun,astrochun/astrochun,1,1
+2021-06-22,/astrochun/astrochun.github.io,astrochun/astrochun.github.io: Professional website hosted by GitHub pages,1,1
+2021-06-22,/astrochun/figshare-actions-publish-test/actions,Actions · astrochun/figshare-actions-publish-test,29,2
+2021-06-22,/astrochun/figshare-actions-publish-test,astrochun/figshare-actions-publish-test: This is a simple repo to test Figsha...,12,1
+2021-06-22,/astrochun/figshare-actions-publish-test/actions/workflows/create_release_upload.yml,Actions · astrochun/figshare-actions-publish-test,5,1
+2021-06-22,/astrochun/figshare-actions-publish-test/actions/runs/926403895,Add data.csv to upload folder · astrochun/figshare-actions-publish-test@18852a9,2,1
+2021-06-22,/astrochun/figshare-actions-publish-test/actions/runs/958710001,Minor change to if statement in workflow (again) · astrochun/figshare-actions...,2,1
+2021-06-22,/astrochun/figshare-actions-publish-test/actions/runs/958716858,Missing parenthesis · astrochun/figshare-actions-publish-test@8f7d995,2,1
+2021-06-22,/astrochun/figshare-actions-publish-test/blob/main/.github/workflows/create_release_upload.yml,figshare-actions-publish-test/create_release_upload.yml at main · astrochun/f...,2,1
+2021-06-22,/astrochun/figshare-actions-publish-test/releases,Releases · astrochun/figshare-actions-publish-test,2,1
+2021-06-22,/astrochun/figshare-actions-publish-test/tree/main/.github/workflows,figshare-actions-publish-test/.github/workflows at main · astrochun/figshare-...,2,1
+2021-06-22,/astrochun/figshare-actions-publish-test/actions/runs/926413909,Add inputs required for create_release step · astrochun/figshare-actions-publ...,1,1
+2021-06-22,/astrochun/figshare_autosync_check_queue,astrochun/figshare_autosync_check_queue: Figshare GitHub integration testing ...,5,2
+2021-06-22,/astrochun/figshare_autosync_check_queue/actions/workflows/create_release.yml,Actions · astrochun/figshare_autosync_check_queue,3,1
+2021-06-22,/astrochun/figshare_autosync_check_queue/commits/main,Commits · astrochun/figshare_autosync_check_queue,2,1
+2021-06-22,/astrochun/figshare_autosync_check_queue/actions,Actions · astrochun/figshare_autosync_check_queue,1,1
+2021-06-22,/astrochun/github-stats,astrochun/github-stats: My GitHub stats,10,2
+2021-06-22,/astrochun/github-stats/issues/5,github-stats deploy failed · Issue #5 · astrochun/github-stats,8,2
+2021-06-22,/astrochun/github-stats/pulls,Pull requests · astrochun/github-stats,7,2
+2021-06-22,/astrochun/github-stats/issues,Issues · astrochun/github-stats,6,2
+2021-06-22,/astrochun/github-stats/pull/4,Fix getting of the bot name and email from env variables by insolor · Pull Re...,6,2
+2021-06-22,/astrochun/github-stats/branches,Branches · astrochun/github-stats,1,1
+2021-06-22,/astrochun/github-stats/commit/676467745ecbdf16ec16b151700a2d67e3c09863,Use env variable for Action simplicity · astrochun/github-stats@6764677,1,1
+2021-06-22,/astrochun/github-stats/commits,Commits · astrochun/github-stats,1,1
+2021-06-22,/astrochun/github-stats/commits/main,Commits · astrochun/github-stats,1,1
+2021-06-22,/astrochun/github-stats/issues/new,New Issue · astrochun/github-stats,1,1
+2021-06-22,/astrochun/github-stats-pages/issues,Issues · astrochun/github-stats-pages,14,1
+2021-06-22,/astrochun/github-stats-pages,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,13,4
+2021-06-22,/astrochun/github-stats-pages/actions,Actions · astrochun/github-stats-pages,9,1
+2021-06-22,/astrochun/github-stats-pages/milestones,Milestones - astrochun/github-stats-pages,6,1
+2021-06-22,/astrochun/github-stats-pages/pulls,Pull requests · astrochun/github-stats-pages,4,1
+2021-06-22,/astrochun/github-stats-pages/commits/main,Commits · astrochun/github-stats-pages,3,2
+2021-06-22,/astrochun/github-stats-pages/actions/runs/958858099,Update requirements.txt · astrochun/github-stats-pages@c088230,3,1
+2021-06-22,/astrochun/github-stats-pages/blob/main/github_stats_pages/stats_plots.py,github-stats-pages/stats_plots.py at main · astrochun/github-stats-pages,2,1
+2021-06-22,/astrochun/github-stats-pages/labels,Labels · astrochun/github-stats-pages,2,1
+2021-06-22,/astrochun/github-stats-pages/pull/60,Bug: Dependency update prevents Docker action from running by astrochun · Pul...,2,1
+2021-06-22,/astrochun/GNIRSLongSlit,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,1,1
+2021-06-22,/astrochun/IntroPythonAstronomy,GitHub - astrochun/IntroPythonAstronomy,3,3
+2021-06-22,/astrochun/Metallicity_Stack_Commons/pulls,Pull requests · astrochun/Metallicity_Stack_Commons,5,2
+2021-06-22,/astrochun/Metallicity_Stack_Commons/issues,Issues · astrochun/Metallicity_Stack_Commons,3,2
+2021-06-22,/astrochun/Metallicity_Stack_Commons/pull/122,hotfix/1.4.9 by astrochun · Pull Request #122 · astrochun/Metallicity_Stack_C...,3,2
+2021-06-22,/astrochun/Metallicity_Stack_Commons,astrochun/Metallicity_Stack_Commons: Set of common codes used in metallicity ...,3,1
+2021-06-22,/astrochun/Metallicity_Stack_Commons/pull/122/files,hotfix/1.4.9 by astrochun · Pull Request #122 · astrochun/Metallicity_Stack_C...,2,2
+2021-06-22,/astrochun/Metallicity_Stack_Commons/issues/121,Bug: Fix OIII4363 limits for non-detections · Issue #121 · astrochun/Metallic...,1,1
+2021-06-22,/astrochun/Metallicity_Stack_Commons/network,Network Graph · astrochun/Metallicity_Stack_Commons,1,1
+2021-06-22,/astrochun/Metallicity_Stack_Commons/pulse,Pulse · astrochun/Metallicity_Stack_Commons,1,1
+2021-06-22,/astrochun/MZEnv,astrochun/MZEnv: Python 2.7 repository for environmental study of the M-Z rel...,4,1
+2021-06-22,/astrochun/MZEnv/graphs/traffic,Traffic · astrochun/MZEnv,2,1
+2021-06-22,/astrochun/MZEnv/pulse,Pulse · astrochun/MZEnv,2,1
+2021-06-22,/astrochun/MZEnv/tree/master/plotting,MZEnv/plotting at master · astrochun/MZEnv,1,1
+2021-06-22,/astrochun/test-github-stats,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,7,1
+2021-06-22,/astrochun/test-github-stats/actions,Actions · astrochun/test-github-stats,7,1
+2021-06-22,/astrochun/test-github-stats/actions/runs/955735935,Update data: 2021-06-13 · astrochun/test-github-stats@9f4e20b,3,1
+2021-06-22,/astrochun/test-github-stats/actions/runs/930437164,:pencil: Update repositories in README [skip ci] · astrochun/test-github-stat...,2,1
+2021-06-22,/astrochun/test-github-stats/blob/main/.github/workflows/gh-pages-deploy.yml,test-github-stats/gh-pages-deploy.yml at main · astrochun/test-github-stats,2,1
+2021-06-22,/astrochun/test-github-stats/actions/runs/934433398,Update data: 2021-06-13 · astrochun/test-github-stats@9f4e20b,1,1
+2021-06-22,/astrochun/test-github-stats/actions/runs/937901632,Update data: 2021-06-13 · astrochun/test-github-stats@9f4e20b,1,1
+2021-06-22,/astrochun/test-github-stats/actions/runs/941445578,Update data: 2021-06-13 · astrochun/test-github-stats@9f4e20b,1,1
+2021-06-22,/astrochun/test-github-stats/edit/main/.github/workflows/gh-pages-deploy.yml,Editing test-github-stats/gh-pages-deploy.yml at main · astrochun/test-github...,1,1
+2021-06-22,/astrochun/test-github-stats/tree/main/data,test-github-stats/data at main · astrochun/test-github-stats,1,1
+2021-06-22,/astrochun/uarizona-salary-app,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,42,21
+2021-06-22,/astrochun/uarizona-salary-app/issues,Issues · astrochun/uarizona-salary-app,33,4
+2021-06-22,/astrochun/uarizona-salary-app/graphs/traffic,Traffic · astrochun/uarizona-salary-app,10,1
+2021-06-22,/astrochun/uarizona-salary-app/projects,Projects · astrochun/uarizona-salary-app · GitHub,7,2
+2021-06-22,/astrochun/uarizona-salary-app/pull/49,Add other salary data; Update About page for data views by astrochun · Pull R...,7,1
+2021-06-22,/astrochun/uarizona-salary-app/pulls,Pull requests · astrochun/uarizona-salary-app,7,1
+2021-06-22,/astrochun/uarizona-salary-app/pull/49/files,Add other salary data by astrochun · Pull Request #49 · astrochun/uarizona-sa...,6,1
+2021-06-22,/astrochun/uarizona-salary-app/pulse,Pulse · astrochun/uarizona-salary-app,5,2
+2021-06-22,/astrochun/uarizona-salary-app/issues/48,Add other salary data · Issue #48 · astrochun/uarizona-salary-app,5,1
+2021-06-22,/astrochun/uarizona-salary-app/projects/1,UArizona-Salary-App board · GitHub,4,2
+2021-06-22,/astrochun/voxcharta-my-voting-record,astrochun/voxcharta-my-voting-record: A Python tool to extract information fr...,3,1
+2021-06-22,/astrochun/voxcharta-my-voting-record/issues,Issues · astrochun/voxcharta-my-voting-record,3,1
+2021-06-22,/astrochun/Zcalbase_gal/pull/102,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,8,2
+2021-06-22,/astrochun/Zcalbase_gal/pulls,Pull requests · astrochun/Zcalbase_gal,3,2
+2021-06-22,/astrochun/Zcalbase_gal,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,3,1
+2021-06-22,/astrochun/Zcalbase_gal/pull/102/files,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,3,1
+2021-06-22,/astrochun/zcalbase_gal,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
+2021-06-22,/astrochun/Zcalbase_gal/blob/feature/lac_curvefit/analysis/deep2_r23_o32/plotting/plot_difference_curvefit.py,Zcalbase_gal/plot_difference_curvefit.py at feature/lac_curvefit · astrochun/...,1,1
+2021-06-22,/astrochun/Zcalbase_gal/blob/master/analysis/deep2_r23_o32/calibration_plots.py,Zcalbase_gal/calibration_plots.py at master · astrochun/Zcalbase_gal,1,1
+2021-06-22,/astrochun/Zcalbase_gal/pull/102/commits,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,1,1
+2021-06-22,/astrochun/Zcalbase_gal/pull/102/commits/353ca1a2df473453d0aab9294af00f7a7b51962b,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,1,1
+2021-06-22,/astrochun/Zcalbase_gal/pull/102/commits/470e90120e80a4836f80963c454d8c2a14a24ea1,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,1,1
