@@ -1,0 +1,11 @@
+date,path,title,count,uniques
+2021-07-03,/astrochun/figshare-actions-publish-test/actions,Actions · astrochun/figshare-actions-publish-test,31,1
+2021-07-03,/astrochun/figshare-actions-publish-test,astrochun/figshare-actions-publish-test: This is a simple repo to test Figsha...,14,1
+2021-07-03,/astrochun/figshare-actions-publish-test/blob/main/.github/workflows/create_release_upload.yml,figshare-actions-publish-test/create_release_upload.yml at main · astrochun/f...,5,1
+2021-07-03,/astrochun/figshare-actions-publish-test/tree/main/.github/workflows,figshare-actions-publish-test/.github/workflows at main · astrochun/figshare-...,5,1
+2021-07-03,/astrochun/figshare-actions-publish-test/actions/runs/958764782,Do not use env settings · astrochun/figshare-actions-publish-test@7bfb5f9,3,1
+2021-07-03,/astrochun/figshare-actions-publish-test/actions/runs/972296238,Update: 2020-08-18 · astrochun/figshare-actions-publish-test@9e519a4,3,1
+2021-07-03,/astrochun/figshare-actions-publish-test/actions/runs/972350615,Fix curl for submission for review · astrochun/figshare-actions-publish-test@...,3,1
+2021-07-03,/astrochun/figshare-actions-publish-test/actions/runs/958710001,Minor change to if statement in workflow (again) · astrochun/figshare-actions...,2,1
+2021-07-03,/astrochun/figshare-actions-publish-test/actions/runs/958716858,Missing parenthesis · astrochun/figshare-actions-publish-test@8f7d995,2,1
+2021-07-03,/astrochun/figshare-actions-publish-test/actions/runs/972334737,Adjust parsing of AUTH and URL as strings for curl · astrochun/figshare-actio...,2,1
