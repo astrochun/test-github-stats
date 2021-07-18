@@ -1,0 +1,51 @@
+date,path,title,count,uniques
+2021-07-18,/astrochun/figshare_autosync_check,astrochun/figshare_autosync_check,2,1
+2021-07-18,/astrochun/github-stats,astrochun/github-stats: My GitHub stats,1,1
+2021-07-18,/astrochun/github-stats-pages,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,15,7
+2021-07-18,/astrochun/github-stats-pages/issues,Issues · astrochun/github-stats-pages,5,2
+2021-07-18,/astrochun/github-stats-pages/pull/64,Bug: Failed run due to IndexError by astrochun · Pull Request #64 · astrochun...,3,1
+2021-07-18,/astrochun/github-stats-pages/releases/tag/v0.4.3,Release v0.4.3 · astrochun/github-stats-pages,3,1
+2021-07-18,/astrochun/github-stats-pages/tree/main/scripts,github-stats-pages/scripts at main · astrochun/github-stats-pages,3,1
+2021-07-18,/astrochun/github-stats-pages/blob/main/scripts/get_repo_list,github-stats-pages/get_repo_list at main · astrochun/github-stats-pages,2,1
+2021-07-18,/astrochun/github-stats-pages/pulls,Pull requests · astrochun/github-stats-pages,2,1
+2021-07-18,/astrochun/github-stats-pages/releases/edit/v0.4.3,Edit release · astrochun/github-stats-pages,2,1
+2021-07-18,/astrochun/github-stats-pages/actions,Actions · astrochun/github-stats-pages · GitHub,1,1
+2021-07-18,/astrochun/github-stats-pages/blob/5b812bfb96e5b72737bd0c016eb7e8d2c085d578/github_stats_pages/repo_list.py,github-stats-pages/repo_list.py at 5b812bfb96e5b72737bd0c016eb7e8d2c085d578 ·...,1,1
+2021-07-18,/astrochun/IntroPythonAstronomy,astrochun/IntroPythonAstronomy,1,1
+2021-07-18,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,8,6
+2021-07-18,/astrochun/MMTtools/issues,Issues · astrochun/MMTtools · GitHub,5,2
+2021-07-18,/astrochun/MMTtools/issues/24,mmirs_pipeline_taskfile: Changes to work with python 3 · Issue #24 · astrochu...,2,2
+2021-07-18,/astrochun/MMTtools/blob/master/Documentation_for_mmirs_pipeline_taskfile.pdf,MMTtools/Documentation_for_mmirs_pipeline_taskfile.pdf at master · astrochun/...,1,1
+2021-07-18,/astrochun/MMTtools/blob/master/setup.py,MMTtools/setup.py at master · astrochun/MMTtools,1,1
+2021-07-18,/astrochun/MMTtools/issues/1,Handling of double sources in daofind catalog · Issue #1 · astrochun/MMTtools,1,1
+2021-07-18,/astrochun/MMTtools/issues/2,Point source search affected by cosmic rays · Issue #2 · astrochun/MMTtools,1,1
+2021-07-18,/astrochun/MMTtools/network/members,Forks · astrochun/MMTtools,1,1
+2021-07-18,/astrochun/MMTtools/pulls,Pull requests · astrochun/MMTtools · GitHub,1,1
+2021-07-18,/astrochun/MMTtools/watchers,Watchers · astrochun/MMTtools,1,1
+2021-07-18,/astrochun/MZEvolve,astrochun/MZEvolve: Python 2.7 codes to examine the M-Z relation from DEEP2 a...,1,1
+2021-07-18,/astrochun/MZEvolve/branches,Branches · astrochun/MZEvolve,1,1
+2021-07-18,/astrochun/old_website_nightsky,astrochun/old_website_nightsky: Research-based website using a CSS-based temp...,1,1
+2021-07-18,/astrochun/site-hugo-academic,astrochun/site-hugo-academic,6,1
+2021-07-18,/astrochun/site-hugo-academic/blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,2,1
+2021-07-18,/astrochun/site-hugo-academic/commit/e1b9f44cb685269512c1eaa55b6ea5f56d7984e6,Update static files: 2021-07-06 · astrochun/site-hugo-academic@e1b9f44,1,1
+2021-07-18,/astrochun/uarizona-salary-app,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,19,6
+2021-07-18,/astrochun/uarizona-salary-app/pulls,Pull requests · astrochun/uarizona-salary-app,8,1
+2021-07-18,/astrochun/uarizona-salary-app/issues,Issues · astrochun/uarizona-salary-app · GitHub,7,2
+2021-07-18,/astrochun/uarizona-salary-app/commits/main,Commits · astrochun/uarizona-salary-app,6,1
+2021-07-18,/astrochun/uarizona-salary-app/issues/59,Use unique identifier for individuals for user-based views · Issue #59 · astr...,6,1
+2021-07-18,/astrochun/uarizona-salary-app/pulse,Pulse · astrochun/uarizona-salary-app,5,1
+2021-07-18,/astrochun/uarizona-salary-app/graphs/traffic,Traffic · astrochun/uarizona-salary-app,4,1
+2021-07-18,/astrochun/uarizona-salary-app/pull/60,Use unique identifier for individuals for user-based views by astrochun · Pul...,4,1
+2021-07-18,/astrochun/uarizona-salary-app/blob/main/salary_app/main.py,uarizona-salary-app/main.py at main · astrochun/uarizona-salary-app,3,1
+2021-07-18,/astrochun/uarizona-salary-app/graphs/commit-activity,Commit Activity · astrochun/uarizona-salary-app,3,1
+2021-07-18,/astrochun/voxcharta-my-voting-record,"voxcharta-my-voting-record,从 VoxCharta 我的投票记录 HTML 中提取信息的 Python 工具,下载voxchar...",4,4
+2021-07-18,/astrochun/Zcalbase_gal/pull/102,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,4,2
+2021-07-18,/astrochun/Zcalbase_gal/pulls,Pull requests · astrochun/Zcalbase_gal,4,2
+2021-07-18,/astrochun/Zcalbase_gal,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,3,1
+2021-07-18,/astrochun/Zcalbase_gal/blob/master/analysis/deep2_r23_o32/zoom_and_gauss_general.py,Zcalbase_gal/zoom_and_gauss_general.py at master · astrochun/Zcalbase_gal,1,1
+2021-07-18,/astrochun/Zcalbase_gal/commit/0796089ae96147121c286b8cd4731b3b44933efb,committing requested changes · astrochun/Zcalbase_gal@0796089,1,1
+2021-07-18,/astrochun/Zcalbase_gal/commit/70f14c372a0fa93c54d1ec4989d7aeebc35777d5,added error bars to differenced plots · astrochun/Zcalbase_gal@70f14c3,1,1
+2021-07-18,/astrochun/Zcalbase_gal/pull/102/files,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,1,1
+2021-07-18,/astrochun/Zcalbase_gal/pull/102/files/c5a4a487d4053525c9aa7a11b912f159a7a47bb1..0796089ae96147121c286b8cd4731b3b44933efb,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,1,1
+2021-07-18,/astrochun/Zcalbase_gal/pull/103,develop -> master by Reagen · Pull Request #103 · astrochun/Zcalbase_gal,1,1
+2021-07-18,/astrochun/Zcalbase_gal/pull/103/commits,develop -> master by Reagen · Pull Request #103 · astrochun/Zcalbase_gal,1,1
