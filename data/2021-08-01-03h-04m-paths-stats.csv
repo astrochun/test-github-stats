@@ -1,0 +1,54 @@
+date,path,title,count,uniques
+2021-08-01,/astrochun/academic-ads-bibtex,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,8,1
+2021-08-01,/astrochun/academic-ads-bibtex/search,Search · log_stdout,8,1
+2021-08-01,/astrochun/academic-ads-bibtex/tree/main/academic_ads_bibtex,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibtex,7,1
+2021-08-01,/astrochun/academic-ads-bibtex/blob/main/academic_ads_bibtex/converter.py,academic-ads-bibtex/converter.py at main · astrochun/academic-ads-bibtex,5,1
+2021-08-01,/astrochun/academic-ads-bibtex/tree/main/bin,academic-ads-bibtex/bin at main · astrochun/academic-ads-bibtex,4,1
+2021-08-01,/astrochun/academic-ads-bibtex/blob/27ba45c6835bcbc6b1a12858e68efc86f7999e27/academic_ads_bibtex/logger.py,academic-ads-bibtex/logger.py at 27ba45c6835bcbc6b1a12858e68efc86f7999e27 · a...,3,1
+2021-08-01,/astrochun/academic-ads-bibtex/blob/main/academic_ads_bibtex/logger.py,academic-ads-bibtex/logger.py at main · astrochun/academic-ads-bibtex,3,1
+2021-08-01,/astrochun/academic-ads-bibtex/blob/main/bin/academic_ads_bibtex,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibtex,3,1
+2021-08-01,/astrochun/academic-ads-bibtex/blob/27ba45c6835bcbc6b1a12858e68efc86f7999e27/academic_ads_bibtex/converter.py,academic-ads-bibtex/converter.py at 27ba45c6835bcbc6b1a12858e68efc86f7999e27 ...,2,1
+2021-08-01,/astrochun/academic-ads-bibtex/blob/main/academic_ads_bibtex/__init__.py,academic-ads-bibtex/__init__.py at main · astrochun/academic-ads-bibtex,2,1
+2021-08-01,/astrochun/astrochun.github.io,astrochun/astrochun.github.io: Professional website hosted by GitHub pages,3,1
+2021-08-01,/astrochun/astrochun.github.io/issues,Issues · astrochun/astrochun.github.io,1,1
+2021-08-01,/astrochun/Evolution-of-Galaxies,astrochun/Evolution-of-Galaxies: Research with Dr. Chun Ly. I am working with...,1,1
+2021-08-01,/astrochun/Evolution-of-Galaxies/commit/97e159ec2a3709e7d699724a787dd82b8865db6b,(PR #41 and Issue #42) Updated bin index npz name to valid_ind_sort (… · astr...,1,1
+2021-08-01,/astrochun/Evolution-of-Galaxies/commits/master,Commits · astrochun/Evolution-of-Galaxies,1,1
+2021-08-01,/astrochun/figshare-actions-publish-test,astrochun/figshare-actions-publish-test: This is a simple repo to test Figsha...,1,1
+2021-08-01,/astrochun/github-stats-pages,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,1,1
+2021-08-01,/astrochun/github-stats-pages/issues/52,Add popular content · Issue #52 · astrochun/github-stats-pages,1,1
+2021-08-01,/astrochun/GNIRSLongSlit/issues,Issues · astrochun/GNIRSLongSlit,2,1
+2021-08-01,/astrochun/GNIRSLongSlit,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data from Gemini...,1,1
+2021-08-01,/astrochun/GNIRSLongSlit/issues/1,Set up a logging approach to log all python information to stdout and to file...,1,1
+2021-08-01,/astrochun/Metallicity_Stack_Commons/tree/master/.github/workflows,Metallicity_Stack_Commons/.github/workflows at master · astrochun/Metallicity...,4,1
+2021-08-01,/astrochun/Metallicity_Stack_Commons,astrochun/Metallicity_Stack_Commons: Set of common codes used in metallicity ...,2,1
+2021-08-01,/astrochun/Metallicity_Stack_Commons/blob/master/.github/workflows/python-package.yml,Metallicity_Stack_Commons/python-package.yml at master · astrochun/Metallicit...,2,1
+2021-08-01,/astrochun/Metallicity_Stack_Commons/blob/master/.github/workflows/sphinx-build.yml,Metallicity_Stack_Commons/sphinx-build.yml at master · astrochun/Metallicity_...,1,1
+2021-08-01,/astrochun/MMTtools/issues,Issues · astrochun/MMTtools,6,1
+2021-08-01,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,2,2
+2021-08-01,/astrochun/MMTtools/issues/27,mmirs_pipeline_taskfile: Implement imaging data processing workflows · Issue ...,2,1
+2021-08-01,/astrochun/MMTtools/pulls,Pull requests · astrochun/MMTtools,2,1
+2021-08-01,/astrochun/MMTtools/issues/28,mmirs_qrp: Work with raw data · Issue #28 · astrochun/MMTtools,1,1
+2021-08-01,/astrochun/test-github-stats,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
+2021-08-01,/astrochun/test-github-stats/branches,Branches · astrochun/test-github-stats,1,1
+2021-08-01,/astrochun/uarizona-salary-app,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,22,15
+2021-08-01,/astrochun/uarizona-salary-app/releases/tag/v1.0.0,Release v1.0.0 · astrochun/uarizona-salary-app · GitHub,21,17
+2021-08-01,/astrochun/uarizona-salary-app/issues,Issues · astrochun/uarizona-salary-app · GitHub,19,4
+2021-08-01,/astrochun/uarizona-salary-app/pulls,Pull requests · astrochun/uarizona-salary-app · GitHub,4,2
+2021-08-01,/astrochun/uarizona-salary-app/branches,Branches · astrochun/uarizona-salary-app,3,1
+2021-08-01,/astrochun/uarizona-salary-app/graphs/traffic,Traffic · astrochun/uarizona-salary-app,2,1
+2021-08-01,/astrochun/uarizona-salary-app/issues/24,Feature: Add ability to select high earners by college · Issue #24 · astrochu...,2,1
+2021-08-01,/astrochun/uarizona-salary-app/issues/40,Cache about page · Issue #40 · astrochun/uarizona-salary-app,2,1
+2021-08-01,/astrochun/uarizona-salary-app/tree/41_employment_level,astrochun/uarizona-salary-app at 41_employment_level,2,1
+2021-08-01,/astrochun/uarizona-salary-app/actions,Actions · astrochun/uarizona-salary-app,1,1
+2021-08-01,/astrochun/voxcharta-my-voting-record,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
+2021-08-01,/astrochun/Zcalbase_gal/pulls,Pull requests · astrochun/Zcalbase_gal,23,2
+2021-08-01,/astrochun/Zcalbase_gal,GitHub - astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration...,19,3
+2021-08-01,/astrochun/Zcalbase_gal/pull/102,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal · GitHub,9,3
+2021-08-01,/astrochun/Zcalbase_gal/issues,Issues · astrochun/Zcalbase_gal,6,2
+2021-08-01,/astrochun/Zcalbase_gal/branches,Branches · astrochun/Zcalbase_gal,5,1
+2021-08-01,/astrochun/Zcalbase_gal/pull/102/files,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,4,2
+2021-08-01,/astrochun/Zcalbase_gal/milestones,Milestones - astrochun/Zcalbase_gal,4,1
+2021-08-01,/astrochun/Zcalbase_gal/pull/102/files/4aec4a796cdb91439e18edcfab11ec964a4bb04a..ecf2d249947f10a0775ef742ce74e0e18eb95a3d,Curve Fitting by Reagen · Pull Request #102 · astrochun/Zcalbase_gal,4,1
+2021-08-01,/astrochun/Zcalbase_gal/tree/master/analysis,Zcalbase_gal/analysis at master · astrochun/Zcalbase_gal · GitHub,2,2
+2021-08-01,/astrochun/Zcalbase_gal/branches/stale,Branches · astrochun/Zcalbase_gal,2,1
