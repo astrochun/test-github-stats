@@ -47,6 +47,7 @@ GNIRSLongSlit,2021-05-10,1,1
 GNIRSLongSlit,2021-05-29,1,1
 GNIRSLongSlit,2021-06-14,1,1
 GNIRSLongSlit,2021-07-08,1,1
+GNIRSLongSlit,2021-08-02,1,1
 IntroPythonAstronomy,2021-03-12,1,1
 IntroPythonAstronomy,2021-05-18,1,1
 IntroPythonAstronomy,2021-07-07,1,1
@@ -68,6 +69,7 @@ MMTtools,2021-07-04,1,1
 MMTtools,2021-07-07,1,1
 MMTtools,2021-07-29,1,1
 MMTtools,2021-08-01,1,1
+MMTtools,2021-08-02,1,1
 MZEnv,2021-05-08,1,1
 MZEnv,2021-06-03,1,1
 MZEnv,2021-07-19,1,1
@@ -433,6 +435,7 @@ github-stats,2021-07-29,2,2
 github-stats,2021-07-30,2,2
 github-stats,2021-07-31,2,2
 github-stats,2021-08-01,3,3
+github-stats,2021-08-02,2,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -661,6 +664,7 @@ test-github-stats,2021-07-29,3,3
 test-github-stats,2021-07-30,2,2
 test-github-stats,2021-07-31,4,4
 test-github-stats,2021-08-01,5,5
+test-github-stats,2021-08-02,3,3
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
