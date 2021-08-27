@@ -1,0 +1,36 @@
+date,path,title,count,uniques
+2021-08-27,/astrochun/astrochun.github.io,astrochun/astrochun.github.io: Professional website hosted by GitHub pages,1,1
+2021-08-27,/astrochun/DevOps_guide,astrochun/DevOps_guide: A set of Markdown files providing quick tips and set-...,1,1
+2021-08-27,/astrochun/DevOps_guide/blob/main/gh-cli.md,DevOps_guide/gh-cli.md at main · astrochun/DevOps_guide,1,1
+2021-08-27,/astrochun/github-stats,astrochun/github-stats: My GitHub stats,6,2
+2021-08-27,/astrochun/github-stats/tree/gh-pages,astrochun/github-stats at gh-pages,3,1
+2021-08-27,/astrochun/github-stats/tree/gh-pages/repos,github-stats/repos at gh-pages · astrochun/github-stats,1,1
+2021-08-27,/astrochun/github-stats-pages,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,23,6
+2021-08-27,/astrochun/github-stats-pages/pulls,Pull requests · astrochun/github-stats-pages,6,1
+2021-08-27,/astrochun/github-stats-pages/tree/main/github_stats_pages,github-stats-pages/github_stats_pages at main · astrochun/github-stats-pages,4,2
+2021-08-27,/astrochun/github-stats-pages/releases/tag/v0.4.4,Release v0.4.4 · astrochun/github-stats-pages,3,2
+2021-08-27,/astrochun/github-stats-pages/actions,Actions · astrochun/github-stats-pages,3,1
+2021-08-27,/astrochun/github-stats-pages/blob/main/scripts/gts_run_all_repos,github-stats-pages/gts_run_all_repos at main · astrochun/github-stats-pages,3,1
+2021-08-27,/astrochun/github-stats-pages/pull/66,Do not include Archived projects by astrochun · Pull Request #66 · astrochun/...,3,1
+2021-08-27,/astrochun/github-stats-pages/pull/66/checks,Do not include Archived projects by astrochun · Pull Request #66 · astrochun/...,3,1
+2021-08-27,/astrochun/github-stats-pages/blob/main/.github/workflows/docker-action-check.yml,github-stats-pages/docker-action-check.yml at main · astrochun/github-stats-p...,2,2
+2021-08-27,/astrochun/github-stats-pages/blob/main/.github/workflows/python-package.yml,github-stats-pages/python-package.yml at main · astrochun/github-stats-pages ...,2,2
+2021-08-27,/astrochun/GNIRSLongSlit,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data from Gemini...,1,1
+2021-08-27,/astrochun/GNIRSLongSlit/issues/1,Set up a logging approach to log all python information to stdout and to file...,1,1
+2021-08-27,/astrochun/manifests_with_flux,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
+2021-08-27,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,1,1
+2021-08-27,/astrochun/MyExpressApp,GitHub - astrochun/MyExpressApp,1,1
+2021-08-27,/astrochun/test-github-stats,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
+2021-08-27,/astrochun/test-github-stats/actions,Actions · astrochun/test-github-stats,1,1
+2021-08-27,/astrochun/test-github-stats/actions/runs/1129671137,Update data: 2021-08-13 · astrochun/test-github-stats@fd832e0,1,1
+2021-08-27,/astrochun/uarizona-salary-app,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,13,4
+2021-08-27,/astrochun/uarizona-salary-app/issues,Issues · astrochun/uarizona-salary-app,3,1
+2021-08-27,/astrochun/uarizona-salary-app/milestones,Milestones - astrochun/uarizona-salary-app,3,1
+2021-08-27,/astrochun/uarizona-salary-app/actions,Actions · astrochun/uarizona-salary-app,2,1
+2021-08-27,/astrochun/uarizona-salary-app/issues/63,Add ability in Individual Search view to search by department · Issue #63 · a...,2,1
+2021-08-27,/astrochun/uarizona-salary-app/pull/64,Add ability in Individual Search view to search by department by astrochun · ...,2,1
+2021-08-27,/astrochun/uarizona-salary-app/pull/64/files,Add ability in Individual Search view to search by department by astrochun · ...,2,1
+2021-08-27,/astrochun/uarizona-salary-app/actions/runs/1133710298,Bump version: v1.0.0 -> v1.0.1 · astrochun/uarizona-salary-app@b78a9b6,1,1
+2021-08-27,/astrochun/uarizona-salary-app/deployments/activity_log,Deployments · astrochun/uarizona-salary-app,1,1
+2021-08-27,/astrochun/uarizona-salary-app/graphs/traffic,Traffic · astrochun/uarizona-salary-app,1,1
+2021-08-27,/astrochun/voxcharta-my-voting-record,astrochun/voxcharta-my-voting-record: A Python tool to extract information fr...,1,1
