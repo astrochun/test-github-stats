@@ -1,0 +1,32 @@
+date,path,title,count,uniques
+2021-08-29,/astrochun/astrochun.github.io,astrochun/astrochun.github.io: Professional website hosted by GitHub pages,1,1
+2021-08-29,/astrochun/closed-discussion-message,astrochun/closed-discussion-message,2,2
+2021-08-29,/astrochun/closed-discussion-message/releases,Releases · astrochun/closed-discussion-message,1,1
+2021-08-29,/astrochun/DevOps_guide,astrochun/DevOps_guide: A set of Markdown files providing quick tips and set-...,1,1
+2021-08-29,/astrochun/DevOps_guide/blob/main/gh-cli.md,DevOps_guide/gh-cli.md at main · astrochun/DevOps_guide,1,1
+2021-08-29,/astrochun/github-stats,astrochun/github-stats: My GitHub stats,4,2
+2021-08-29,/astrochun/github-stats/tree/gh-pages,astrochun/github-stats at gh-pages,1,1
+2021-08-29,/astrochun/github-stats-pages/actions,Actions · astrochun/github-stats-pages,15,1
+2021-08-29,/astrochun/github-stats-pages,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,10,4
+2021-08-29,/astrochun/github-stats-pages/tree/67_more_log_messages,astrochun/github-stats-pages at 67_more_log_messages,7,1
+2021-08-29,/astrochun/github-stats-pages/pulls,Pull requests · astrochun/github-stats-pages,5,1
+2021-08-29,/astrochun/github-stats-pages/releases/tag/v0.4.5,Release v0.4.5 · astrochun/github-stats-pages,3,2
+2021-08-29,/astrochun/github-stats-pages/tree/main/github_stats_pages,github-stats-pages/github_stats_pages at main · astrochun/github-stats-pages,3,1
+2021-08-29,/astrochun/github-stats-pages/issues,Issues · astrochun/github-stats-pages,2,1
+2021-08-29,/astrochun/github-stats-pages/issues/67,"Add more verbose messaging for completeness, troubleshooting · Issue #67 · as...",2,1
+2021-08-29,/astrochun/github-stats-pages/pull/69,"Add more verbose messaging for completeness, troubleshooting by astrochun · P...",2,1
+2021-08-29,/astrochun/github-stats-pages/actions/runs/1129496810,Bump version: v0.4.3 -> v0.4.4 · astrochun/github-stats-pages@6bb2c3f,1,1
+2021-08-29,/astrochun/GNIRSLongSlit,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data from Gemini...,1,1
+2021-08-29,/astrochun/GNIRSLongSlit/issues/1,Set up a logging approach to log all python information to stdout and to file...,1,1
+2021-08-29,/astrochun/manifests_with_flux,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
+2021-08-29,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,1,1
+2021-08-29,/astrochun/Telluric_Flux/graphs/traffic,Traffic · astrochun/Telluric_Flux,2,1
+2021-08-29,/astrochun/Telluric_Flux,astrochun/Telluric_Flux: Python 2.7 code to determine spectral sensitivity wi...,1,1
+2021-08-29,/astrochun/Telluric_Flux/pulse,Pulse · astrochun/Telluric_Flux,1,1
+2021-08-29,/astrochun/test-github-stats,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
+2021-08-29,/astrochun/test-github-stats/actions,Actions · astrochun/test-github-stats,1,1
+2021-08-29,/astrochun/test-github-stats/actions/runs/1168923732,Update data: 2021-08-25 · astrochun/test-github-stats@d64da3f,1,1
+2021-08-29,/astrochun/uarizona-salary-app,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,11,6
+2021-08-29,/astrochun/uarizona-salary-app/graphs/traffic,Traffic · astrochun/uarizona-salary-app,1,1
+2021-08-29,/astrochun/uarizona-salary-app/pulse,Pulse · astrochun/uarizona-salary-app,1,1
+2021-08-29,/astrochun/voxcharta-my-voting-record,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,2,2
