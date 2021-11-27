@@ -62,6 +62,7 @@ Extract1D,2021-09-03,1,1
 Extract1D,2021-10-21,1,1
 Extract1D,2021-11-02,1,1
 Extract1D,2021-11-10,1,1
+Extract1D,2021-11-26,1,1
 GNIRSLongSlit,2021-03-14,1,1
 GNIRSLongSlit,2021-05-10,1,1
 GNIRSLongSlit,2021-05-29,1,1
@@ -113,6 +114,7 @@ MZEnv,2021-08-16,1,1
 MZEnv,2021-09-03,1,1
 MZEnv,2021-10-21,1,1
 MZEnv,2021-11-02,1,1
+MZEnv,2021-11-26,1,1
 MZEvolve,2021-05-05,1,1
 MZEvolve,2021-05-26,1,1
 MZEvolve,2021-07-09,1,1
@@ -202,6 +204,7 @@ Telluric_Flux,2021-09-03,1,1
 Telluric_Flux,2021-10-02,1,1
 Telluric_Flux,2021-10-16,1,1
 Telluric_Flux,2021-10-21,1,1
+Telluric_Flux,2021-11-26,1,1
 Zcalbase,2021-04-25,1,1
 Zcalbase,2021-05-21,1,1
 Zcalbase,2021-07-11,1,1
@@ -730,6 +733,7 @@ github-stats,2021-11-22,3,2
 github-stats,2021-11-23,3,2
 github-stats,2021-11-24,3,2
 github-stats,2021-11-25,3,2
+github-stats,2021-11-26,4,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -843,6 +847,7 @@ github-stats-pages,2021-11-14,1,1
 github-stats-pages,2021-11-18,1,1
 github-stats-pages,2021-11-19,1,1
 github-stats-pages,2021-11-25,1,1
+github-stats-pages,2021-11-26,4,3
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -1137,6 +1142,7 @@ test-github-stats,2021-11-22,3,2
 test-github-stats,2021-11-23,4,3
 test-github-stats,2021-11-24,3,2
 test-github-stats,2021-11-25,3,2
+test-github-stats,2021-11-26,5,3
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
