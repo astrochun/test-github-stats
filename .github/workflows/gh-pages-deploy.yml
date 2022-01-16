@@ -8,8 +8,8 @@ jobs:
   build-n-publish:
     runs-on: ubuntu-latest
     env:
-      BOT_NAME: 'github-actions[bot]'
-      BOT_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
+      BOT_NAME: 'astrochun[bot]'
+      BOT_EMAIL: '20305734+astrochun@users.noreply.github.com'
 
     steps:
     - name: Checkout
