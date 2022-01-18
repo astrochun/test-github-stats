@@ -465,6 +465,7 @@ figshare-actions-publish-test,2021-10-20,1,1
 figshare-actions-publish-test,2021-10-22,1,1
 figshare-actions-publish-test,2021-11-05,1,1
 figshare-actions-publish-test,2021-12-21,1,1
+figshare-actions-publish-test,2022-01-17,2,1
 figshare_actions,2021-02-27,1,1
 figshare_actions,2021-03-22,1,1
 figshare_actions,2021-05-27,1,1
@@ -817,6 +818,7 @@ github-stats,2022-01-13,4,3
 github-stats,2022-01-14,3,2
 github-stats,2022-01-15,3,2
 github-stats,2022-01-16,4,3
+github-stats,2022-01-17,3,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -948,6 +950,7 @@ github-stats-pages,2022-01-01,2,1
 github-stats-pages,2022-01-07,2,2
 github-stats-pages,2022-01-10,2,1
 github-stats-pages,2022-01-14,3,2
+github-stats-pages,2022-01-17,1,1
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -1300,6 +1303,7 @@ test-github-stats,2022-01-13,1,1
 test-github-stats,2022-01-14,3,2
 test-github-stats,2022-01-15,3,2
 test-github-stats,2022-01-16,8,3
+test-github-stats,2022-01-17,4,3
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
