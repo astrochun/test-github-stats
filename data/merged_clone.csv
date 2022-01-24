@@ -67,6 +67,7 @@ Extract1D,2021-11-02,1,1
 Extract1D,2021-11-10,1,1
 Extract1D,2021-11-26,1,1
 Extract1D,2021-11-29,1,1
+Extract1D,2022-01-23,1,1
 GNIRSLongSlit,2021-03-14,1,1
 GNIRSLongSlit,2021-05-10,1,1
 GNIRSLongSlit,2021-05-29,1,1
@@ -197,6 +198,7 @@ PeakFlows,2021-10-21,1,1
 PeakFlows,2021-11-02,1,1
 PeakFlows,2021-11-27,1,1
 PeakFlows,2021-11-29,1,1
+PeakFlows,2022-01-23,1,1
 PyEmLineFit,2021-05-06,1,1
 PyEmLineFit,2021-05-21,1,1
 PyEmLineFit,2021-05-29,1,1
@@ -833,6 +835,7 @@ github-stats,2022-01-19,3,2
 github-stats,2022-01-20,4,3
 github-stats,2022-01-21,3,2
 github-stats,2022-01-22,3,2
+github-stats,2022-01-23,3,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -1326,6 +1329,7 @@ test-github-stats,2022-01-19,4,3
 test-github-stats,2022-01-20,4,3
 test-github-stats,2022-01-21,2,2
 test-github-stats,2022-01-22,2,2
+test-github-stats,2022-01-23,4,3
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
