@@ -553,6 +553,7 @@ figshare_actions,2021-11-10,1,1
 figshare_actions,2022-01-26,1,1
 figshare_actions,2022-02-08,1,1
 figshare_actions,2022-03-04,1,1
+figshare_actions,2022-03-07,1,1
 figshare_actions2,2021-03-03,1,1
 figshare_actions2,2021-03-27,1,1
 figshare_actions2,2021-04-28,1,1
@@ -960,6 +961,8 @@ github-stats,2022-03-02,3,2
 github-stats,2022-03-03,4,3
 github-stats,2022-03-04,4,3
 github-stats,2022-03-05,3,2
+github-stats,2022-03-06,4,3
+github-stats,2022-03-07,3,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -1520,6 +1523,7 @@ test-github-stats,2022-03-03,1,1
 test-github-stats,2022-03-04,2,2
 test-github-stats,2022-03-05,1,1
 test-github-stats,2022-03-06,3,2
+test-github-stats,2022-03-07,2,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
