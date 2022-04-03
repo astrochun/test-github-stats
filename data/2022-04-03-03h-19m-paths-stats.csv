@@ -1,0 +1,53 @@
+date,path,title,count,uniques
+2022-04-03,/astrochun/academic-ads-bibtex,GitHub - astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use...,3,3
+2022-04-03,/astrochun/academic-ads-bibtex/blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex · GitHub,3,1
+2022-04-03,/astrochun/academic-ads-bibtex/blob/main/bin/academic_ads_bibtex,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibt...,2,1
+2022-04-03,/astrochun/academic-ads-bibtex/tree/main/academic_ads_bibtex,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibt...,1,1
+2022-04-03,/astrochun/academic-ads-bibtex/tree/main/bin,academic-ads-bibtex/bin at main · astrochun/academic-ads-bibtex · GitHub,1,1
+2022-04-03,/astrochun/containeraction/commit/5f00e999a96a77609e06c27531af398834ff24d7,Create Dockerfile · astrochun/containeraction@5f00e99,1,1
+2022-04-03,/astrochun/Evolution-of-Galaxies,astrochun/Evolution-of-Galaxies: Research with Dr. Chun Ly. I am working with...,2,1
+2022-04-03,/astrochun/Evolution-of-Galaxies/issues,Issues · astrochun/Evolution-of-Galaxies,1,1
+2022-04-03,/astrochun/Evolution-of-Galaxies/projects,Projects · astrochun/Evolution-of-Galaxies,1,1
+2022-04-03,/astrochun/Evolution-of-Galaxies/projects/1,Implement common metallicity stacking code,1,1
+2022-04-03,/astrochun/Evolution-of-Galaxies/pulls,Pull requests · astrochun/Evolution-of-Galaxies,1,1
+2022-04-03,/astrochun/github-stats,GitHub - astrochun/github-stats: My GitHub stats,4,3
+2022-04-03,/astrochun/github-stats-pages,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,19,11
+2022-04-03,/astrochun/github-stats-pages/actions,Actions · astrochun/github-stats-pages,18,1
+2022-04-03,/astrochun/github-stats-pages/actions/runs/2038095451,Pin Jinja2 version · astrochun/github-stats-pages@9190787,9,1
+2022-04-03,/astrochun/github-stats-pages/actions/runs/2038116838,"Remove 3.9, add 3.10 #72 · astrochun/github-stats-pages@09bbad0",4,1
+2022-04-03,/astrochun/github-stats-pages/blob/main/Dockerfile,github-stats-pages/Dockerfile at main · astrochun/github-stats-pages,3,1
+2022-04-03,/astrochun/github-stats-pages/issues,Issues · astrochun/github-stats-pages,3,1
+2022-04-03,/astrochun/github-stats-pages/issues/71,Dependency bug with Jinja2 · Issue #71 · astrochun/github-stats-pages,2,2
+2022-04-03,/astrochun/github-stats-pages/pull/73,"Pin Jinja2, drop 3.7 support by astrochun · Pull Request #73 · astrochun/gith...",2,2
+2022-04-03,/astrochun/github-stats-pages/pull/73/files,"Pin Jinja2, drop 3.7 support by astrochun · Pull Request #73 · astrochun/gith...",2,2
+2022-04-03,/astrochun/github-stats-pages/actions/runs/2038143409,"Pin Jinja2, drop 3.7 support (#73) · astrochun/github-stats-pages@40fdf97",2,1
+2022-04-03,/astrochun/GNIRSLongSlit,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,2,1
+2022-04-03,/astrochun/GNIRSLongSlit/blob/master/README.md,GNIRSLongSlit/README.md at master · astrochun/GNIRSLongSlit · GitHub,1,1
+2022-04-03,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,10,3
+2022-04-03,/astrochun/MMTtools/blob/master/Documentation_for_mmirs_pipeline_taskfile.pdf,MMTtools/Documentation_for_mmirs_pipeline_taskfile.pdf at master · astrochun/...,5,3
+2022-04-03,/astrochun/MMTtools/blob/master/mmirs_pipeline_taskfile.py,MMTtools/mmirs_pipeline_taskfile.py at master · astrochun/MMTtools · GitHub,5,1
+2022-04-03,/astrochun/MMTtools/blob/master/README.md,MMTtools/README.md at master · astrochun/MMTtools · GitHub,3,1
+2022-04-03,/astrochun/MMTtools/blob/master/create_mmirs_obs_summary_table.py,MMTtools/create_mmirs_obs_summary_table.py at master · astrochun/MMTtools · G...,1,1
+2022-04-03,/astrochun/MMTtools/blob/master/mmirs_longslit_template.orig.txt,MMTtools/mmirs_longslit_template.orig.txt at master · astrochun/MMTtools · Gi...,1,1
+2022-04-03,/astrochun/site-hugo-academic/blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
+2022-04-03,/astrochun/test-github-stats/actions/runs/2037885841,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@6f8d75b,8,1
+2022-04-03,/astrochun/test-github-stats/actions,Actions · astrochun/test-github-stats,5,1
+2022-04-03,/astrochun/test-github-stats/runs/5686716685,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@6f8d75b,4,1
+2022-04-03,/astrochun/test-github-stats/actions/runs/2037885841/attempts/1,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@6f8d75b,3,1
+2022-04-03,/astrochun/test-github-stats/runs/5687120470,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@6f8d75b,3,1
+2022-04-03,/astrochun/test-github-stats,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
+2022-04-03,/astrochun/test-github-stats/actions/runs/2032028041,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@7d156a8,2,1
+2022-04-03,/astrochun/test-github-stats/runs/5670528808,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@7d156a8,2,1
+2022-04-03,/astrochun/test-github-stats/runs/5686457406,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@6f8d75b,2,1
+2022-04-03,/astrochun/test-stats,GitHub - astrochun/test-stats,1,1
+2022-04-03,/astrochun/uarizona-salary-app,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,3,1
+2022-04-03,/astrochun/voxcharta-my-voting-record,astrochun/voxcharta-my-voting-record: A Python tool to extract information fr...,5,1
+2022-04-03,/astrochun/voxcharta-my-voting-record/releases,Releases · astrochun/voxcharta-my-voting-record,5,1
+2022-04-03,/astrochun/voxcharta-my-voting-record/actions,Actions · astrochun/voxcharta-my-voting-record,4,1
+2022-04-03,/astrochun/voxcharta-my-voting-record/issues,Issues · astrochun/voxcharta-my-voting-record,4,1
+2022-04-03,/astrochun/voxcharta-my-voting-record/issues/17,Feature: Utilize Typer to build a better CLI app · Issue #17 · astrochun/voxc...,2,1
+2022-04-03,/astrochun/voxcharta-my-voting-record/milestones,Milestones - astrochun/voxcharta-my-voting-record,2,1
+2022-04-03,/astrochun/voxcharta-my-voting-record/pull/18,Feature: Utilize Typer to build a better CLI app by astrochun · Pull Request ...,2,1
+2022-04-03,/astrochun/voxcharta-my-voting-record/releases/edit/v0.3.0,Edit release · astrochun/voxcharta-my-voting-record,2,1
+2022-04-03,/astrochun/voxcharta-my-voting-record/tree/main/voxcharta_my_voting_record,voxcharta-my-voting-record/voxcharta_my_voting_record at main · astrochun/vox...,2,1
+2022-04-03,/astrochun/voxcharta-my-voting-record/actions/runs/2062645545,Change script to use Typer #17 · astrochun/voxcharta-my-voting-record@b2062f8,1,1

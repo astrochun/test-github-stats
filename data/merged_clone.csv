@@ -109,6 +109,7 @@ GNIRSLongSlit,2022-01-26,1,1
 GNIRSLongSlit,2022-02-10,1,1
 GNIRSLongSlit,2022-03-04,2,2
 GNIRSLongSlit,2022-03-15,2,1
+GNIRSLongSlit,2022-04-03,1,1
 IntroPythonAstronomy,2021-03-12,1,1
 IntroPythonAstronomy,2021-05-18,1,1
 IntroPythonAstronomy,2021-07-07,1,1
@@ -469,6 +470,7 @@ astrochun,2021-11-22,1,1
 astrochun,2022-01-26,1,1
 astrochun,2022-03-04,1,1
 astrochun,2022-03-13,1,1
+astrochun,2022-04-02,2,1
 astrochun.github.io,2021-02-23,1,1
 astrochun.github.io,2021-03-25,2,2
 astrochun.github.io,2021-03-26,1,1
@@ -631,6 +633,7 @@ figshare_autosync_check,2021-10-21,1,1
 figshare_autosync_check,2021-11-20,1,1
 figshare_autosync_check,2022-01-26,1,1
 figshare_autosync_check,2022-03-04,1,1
+figshare_autosync_check,2022-04-02,2,1
 figshare_autosync_check_queue,2021-02-24,1,1
 figshare_autosync_check_queue,2021-04-28,1,1
 figshare_autosync_check_queue,2021-05-18,3,3
@@ -1045,6 +1048,7 @@ github-stats,2022-03-29,3,2
 github-stats,2022-03-30,3,2
 github-stats,2022-03-31,3,2
 github-stats,2022-04-01,3,2
+github-stats,2022-04-02,3,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -1645,6 +1649,7 @@ test-github-stats,2022-03-29,4,3
 test-github-stats,2022-03-30,4,3
 test-github-stats,2022-03-31,4,3
 test-github-stats,2022-04-01,4,3
+test-github-stats,2022-04-02,3,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
