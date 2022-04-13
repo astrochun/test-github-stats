@@ -483,6 +483,7 @@ github-stats,2022-03-24,1,1
 github-stats,2022-03-25,2,2
 github-stats,2022-04-07,1,1
 github-stats,2022-04-08,1,1
+github-stats,2022-04-12,2,1
 github-stats-pages,2021-02-12,4,1
 github-stats-pages,2021-02-13,1,1
 github-stats-pages,2021-02-19,3,1
@@ -712,6 +713,7 @@ github-stats-pages,2022-04-08,5,3
 github-stats-pages,2022-04-09,83,1
 github-stats-pages,2022-04-10,1,1
 github-stats-pages,2022-04-11,1,1
+github-stats-pages,2022-04-12,2,2
 manifests_with_flux,2021-05-21,1,1
 manifests_with_flux,2021-08-21,1,1
 old_website_nightsky,2021-07-10,1,1
@@ -750,6 +752,7 @@ site-hugo-academic,2022-01-07,1,1
 site-hugo-academic,2022-01-23,2,1
 site-hugo-academic,2022-03-31,1,1
 site-hugo-academic,2022-04-05,1,1
+site-hugo-academic,2022-04-12,1,1
 system_profiler,2021-10-26,1,1
 system_profiler,2021-12-10,3,1
 test-github-stats,2021-04-03,19,1
@@ -1033,3 +1036,4 @@ voxcharta-my-voting-record,2022-04-06,22,1
 voxcharta-my-voting-record,2022-04-07,1,1
 voxcharta-my-voting-record,2022-04-09,13,1
 voxcharta-my-voting-record,2022-04-10,3,1
+voxcharta-my-voting-record,2022-04-12,40,8
