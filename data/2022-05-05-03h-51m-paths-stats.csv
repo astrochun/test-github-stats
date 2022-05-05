@@ -1,0 +1,38 @@
+date,path,title,count,uniques
+2022-05-05,/astrochun/academic-ads-bibtex,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,4,3
+2022-05-05,/astrochun/academic-ads-bibtex/tree/main/docs,academic-ads-bibtex/docs at main · astrochun/academic-ads-bibtex,2,1
+2022-05-05,/astrochun/academic-ads-bibtex/tree/main/docs/source,academic-ads-bibtex/docs/source at main · astrochun/academic-ads-bibtex,1,1
+2022-05-05,/astrochun/academic-ads-bibtex/tree/main/.github,academic-ads-bibtex/.github at main · astrochun/academic-ads-bibtex,1,1
+2022-05-05,/astrochun/academic-ads-bibtex/tree/main/.github/workflows,academic-ads-bibtex/.github/workflows at main · astrochun/academic-ads-bibtex,1,1
+2022-05-05,/astrochun/github-stats,GitHub - astrochun/github-stats: My GitHub stats,5,3
+2022-05-05,/astrochun/github-stats-pages/actions,Actions · astrochun/github-stats-pages,39,1
+2022-05-05,/astrochun/github-stats-pages,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,34,21
+2022-05-05,/astrochun/github-stats-pages/pulls,Pull requests · astrochun/github-stats-pages,15,1
+2022-05-05,/astrochun/github-stats-pages/issues,Issues · astrochun/github-stats-pages,8,1
+2022-05-05,/astrochun/github-stats-pages/pull/78,Chore: Migrate setup metadata to setup.cfg by astrochun · Pull Request #78 · ...,8,1
+2022-05-05,/astrochun/github-stats-pages/pull/78/files,Chore: Migrate setup metadata to setup.cfg by astrochun · Pull Request #78 · ...,7,1
+2022-05-05,/astrochun/github-stats-pages/pull/78/checks,Chore: Migrate setup metadata to setup.cfg by astrochun · Pull Request #78 · ...,4,1
+2022-05-05,/astrochun/github-stats-pages/actions/runs/2230831636,Add setup.cfg for metadata #76 · astrochun/github-stats-pages@55ef48d,3,1
+2022-05-05,/astrochun/github-stats-pages/runs/6144680322,Add GitHub actions for linting · astrochun/github-stats-pages@ed545bc,3,1
+2022-05-05,/astrochun/github-stats-pages/search,Search · python 3.10,3,1
+2022-05-05,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,1,1
+2022-05-05,/astrochun/site-hugo-academic/blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
+2022-05-05,/astrochun/test-github-stats/actions,Actions · astrochun/test-github-stats,10,1
+2022-05-05,/astrochun/test-github-stats,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,4,1
+2022-05-05,/astrochun/test-github-stats/actions/runs/2252143633,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@05a0be0,1,1
+2022-05-05,/astrochun/test-github-stats/actions/runs/2252143633/workflow,Update data: 2022-04-30 · astrochun/test-github-stats@05a0be0,1,1
+2022-05-05,/astrochun/test-github-stats/actions/runs/2255932232,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@50082bf,1,1
+2022-05-05,/astrochun/test-github-stats/runs/6252097893,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@50082bf,1,1
+2022-05-05,/astrochun/test-stats/blob/099393bfde74703d8d1ee1b0b120d3bf7ba4c8db/.github/workflows/gh-pages-deploy.yml,test-stats/gh-pages-deploy.yml at 099393bfde74703d8d1ee1b0b120d3bf7ba4c8db · ...,2,2
+2022-05-05,/astrochun/uarizona-salary-app,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,5,4
+2022-05-05,/astrochun/uarizona-salary-app/issues/80,"Update streamlit, pandas, etc · Issue #80 · astrochun/uarizona-salary-app",1,1
+2022-05-05,/astrochun/voxcharta-my-voting-record,astrochun/voxcharta-my-voting-record: A Python tool to extract information fr...,19,1
+2022-05-05,/astrochun/voxcharta-my-voting-record/issues,Issues · astrochun/voxcharta-my-voting-record,9,1
+2022-05-05,/astrochun/voxcharta-my-voting-record/pulls,Pull requests · astrochun/voxcharta-my-voting-record,5,1
+2022-05-05,/astrochun/voxcharta-my-voting-record/blob/main/pyproject.toml,voxcharta-my-voting-record/pyproject.toml at main · astrochun/voxcharta-my-vo...,4,1
+2022-05-05,/astrochun/voxcharta-my-voting-record/pull/27/files,Migrate from setup.py to use setup.cfg and pyproject.toml by astrochun · Pull...,4,1
+2022-05-05,/astrochun/voxcharta-my-voting-record/actions,Actions · astrochun/voxcharta-my-voting-record,3,1
+2022-05-05,/astrochun/voxcharta-my-voting-record/milestones,Milestones - astrochun/voxcharta-my-voting-record,3,1
+2022-05-05,/astrochun/voxcharta-my-voting-record/pull/27,Migrate from setup.py to use setup.cfg and pyproject.toml by astrochun · Pull...,3,1
+2022-05-05,/astrochun/voxcharta-my-voting-record/blob/main/.flake8,voxcharta-my-voting-record/.flake8 at main · astrochun/voxcharta-my-voting-re...,2,1
+2022-05-05,/astrochun/voxcharta-my-voting-record/blob/main/.github/workflows/linting.yml,voxcharta-my-voting-record/linting.yml at main · astrochun/voxcharta-my-votin...,2,1
