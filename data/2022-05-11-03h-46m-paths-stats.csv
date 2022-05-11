@@ -1,0 +1,49 @@
+date,path,title,count,uniques
+2022-05-11,/astrochun/github-stats,GitHub - astrochun/github-stats: My GitHub stats,5,3
+2022-05-11,/astrochun/github-stats-pages,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,42,24
+2022-05-11,/astrochun/github-stats-pages/actions,Actions · astrochun/github-stats-pages,22,1
+2022-05-11,/astrochun/github-stats-pages/pulls,Pull requests · astrochun/github-stats-pages,20,1
+2022-05-11,/astrochun/github-stats-pages/issues,Issues · astrochun/github-stats-pages,6,2
+2022-05-11,/astrochun/github-stats-pages/pull/81,Add pre-commit support with black and linting with flake8 by astrochun · Pull...,6,1
+2022-05-11,/astrochun/github-stats-pages/pull/78,Chore: Migrate setup metadata to setup.cfg by astrochun · Pull Request #78 · ...,5,1
+2022-05-11,/astrochun/github-stats-pages/pull/78/files,Chore: Migrate setup metadata to setup.cfg by astrochun · Pull Request #78 · ...,5,1
+2022-05-11,/astrochun/github-stats-pages/issues/77,Add pre-commit support with black and linting with flake8 · Issue #77 · astro...,4,1
+2022-05-11,/astrochun/github-stats-pages/blob/main/setup.cfg,github-stats-pages/setup.cfg at main · astrochun/github-stats-pages,3,1
+2022-05-11,/astrochun/github-stats-pages/pull/78/checks,Chore: Migrate setup metadata to setup.cfg by astrochun · Pull Request #78 · ...,3,1
+2022-05-11,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,4,1
+2022-05-11,/astrochun/MMTtools/blob/master/README.md,MMTtools/README.md at master · astrochun/MMTtools · GitHub,2,1
+2022-05-11,/astrochun/old_website_nightsky,astrochun/old_website_nightsky: Research-based website using a CSS-based temp...,2,1
+2022-05-11,/astrochun/site-hugo-academic/blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
+2022-05-11,/astrochun/test-github-stats/actions,Actions · astrochun/test-github-stats,11,1
+2022-05-11,/astrochun/test-github-stats,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,4,1
+2022-05-11,/astrochun/test-github-stats/actions/runs/2252143633,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@05a0be0,1,1
+2022-05-11,/astrochun/test-github-stats/actions/runs/2252143633/workflow,Update data: 2022-04-30 · astrochun/test-github-stats@05a0be0,1,1
+2022-05-11,/astrochun/test-github-stats/actions/runs/2255932232,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@50082bf,1,1
+2022-05-11,/astrochun/test-github-stats/actions/runs/2279547289,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@8de92a0,1,1
+2022-05-11,/astrochun/test-github-stats/runs/6252097893,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@50082bf,1,1
+2022-05-11,/astrochun/test-github-stats/runs/6317040568,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@8de92a0,1,1
+2022-05-11,/astrochun/test-stats/blob/099393bfde74703d8d1ee1b0b120d3bf7ba4c8db/.github/workflows/gh-pages-deploy.yml,test-stats/gh-pages-deploy.yml at 099393bfde74703d8d1ee1b0b120d3bf7ba4c8db · ...,2,2
+2022-05-11,/astrochun/uarizona-salary-app,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,8,5
+2022-05-11,/astrochun/uarizona-salary-app/runs/6300993043,Use Dropbox over Google Drive due to 403 error #82 · astrochun/uarizona-salar...,3,1
+2022-05-11,/astrochun/uarizona-salary-app/issues/80,"Update streamlit, pandas, etc · Issue #80 · astrochun/uarizona-salary-app · G...",2,2
+2022-05-11,/astrochun/uarizona-salary-app/actions/runs/2273761331,Use Dropbox over Google Drive due to 403 error #82 · astrochun/uarizona-salar...,2,1
+2022-05-11,/astrochun/uarizona-salary-app/search,Search · newrelic,2,1
+2022-05-11,/astrochun/uarizona-salary-app/stargazers,Stargazers · astrochun/uarizona-salary-app,2,1
+2022-05-11,/astrochun/uarizona-salary-app/actions,Actions · astrochun/uarizona-salary-app,1,1
+2022-05-11,/astrochun/uarizona-salary-app/blob/main/Procfile,uarizona-salary-app/Procfile at main · astrochun/uarizona-salary-app,1,1
+2022-05-11,/astrochun/uarizona-salary-app/projects,Projects · uarizona-salary-app · GitHub,1,1
+2022-05-11,/astrochun/uarizona-salary-app/tree/main/salary_app,uarizona-salary-app/salary_app at main · astrochun/uarizona-salary-app,1,1
+2022-05-11,/astrochun/voxcharta-my-voting-record,astrochun/voxcharta-my-voting-record: A Python tool to extract information fr...,8,1
+2022-05-11,/astrochun/voxcharta-my-voting-record/actions,Actions · astrochun/voxcharta-my-voting-record,5,1
+2022-05-11,/astrochun/voxcharta-my-voting-record/pulls,Pull requests · astrochun/voxcharta-my-voting-record,4,1
+2022-05-11,/astrochun/voxcharta-my-voting-record/pull/29,Ensure package is installable on different python versions by astrochun · Pul...,3,1
+2022-05-11,/astrochun/voxcharta-my-voting-record/runs/6337448070,Add other OS · astrochun/voxcharta-my-voting-record@03450ec,3,1
+2022-05-11,/astrochun/voxcharta-my-voting-record/blob/ci/28_build_test/LICENSE,voxcharta-my-voting-record/LICENSE at ci/28_build_test · astrochun/voxcharta-...,2,1
+2022-05-11,/astrochun/voxcharta-my-voting-record/blob/main/pyproject.toml,voxcharta-my-voting-record/pyproject.toml at main · astrochun/voxcharta-my-vo...,2,1
+2022-05-11,/astrochun/voxcharta-my-voting-record/blob/main/setup.cfg,voxcharta-my-voting-record/setup.cfg at main · astrochun/voxcharta-my-voting-...,2,1
+2022-05-11,/astrochun/voxcharta-my-voting-record/projects,Projects · astrochun/voxcharta-my-voting-record,2,1
+2022-05-11,/astrochun/voxcharta-my-voting-record/pull/29/files,Ensure package is installable on different python versions by astrochun · Pul...,2,1
+2022-05-11,/astrochun/Zcalbase_gal/blob/master/analysis/deep2_r23_o32/general.py,Zcalbase_gal/general.py at master · astrochun/Zcalbase_gal · GitHub,1,1
+2022-05-11,/astrochun/Zcalbase_gal/blob/master/analysis/deep2_r23_o32/zoom_and_gauss_general.py,Zcalbase_gal/zoom_and_gauss_general.py at master · astrochun/Zcalbase_gal · G...,1,1
+2022-05-11,/astrochun/Zcalbase_gal/issues/64,Reformat docstrings for all functions · Issue #64 · astrochun/Zcalbase_gal,1,1
+2022-05-11,/astrochun/Zcalbase_gal/tree/master/analysis/deep2_r23_o32,Zcalbase_gal/analysis/deep2_r23_o32 at master · astrochun/Zcalbase_gal · GitHub,1,1
