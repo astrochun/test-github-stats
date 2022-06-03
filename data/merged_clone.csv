@@ -98,6 +98,7 @@ Evolution-of-Galaxies,2022-05-11,2,1
 Evolution-of-Galaxies,2022-05-14,2,1
 Evolution-of-Galaxies,2022-05-15,2,1
 Evolution-of-Galaxies,2022-05-20,2,1
+Evolution-of-Galaxies,2022-06-02,1,1
 Extract1D,2021-03-14,1,1
 Extract1D,2021-04-28,1,1
 Extract1D,2021-05-12,1,1
@@ -123,6 +124,7 @@ Extract1D,2022-04-29,3,2
 Extract1D,2022-05-01,2,1
 Extract1D,2022-05-02,2,1
 Extract1D,2022-05-08,2,1
+Extract1D,2022-06-02,2,1
 GNIRSLongSlit,2021-03-14,1,1
 GNIRSLongSlit,2021-05-10,1,1
 GNIRSLongSlit,2021-05-29,1,1
@@ -213,6 +215,7 @@ MZEnv,2022-04-20,1,1
 MZEnv,2022-04-29,1,1
 MZEnv,2022-05-12,1,1
 MZEnv,2022-05-31,2,1
+MZEnv,2022-06-02,1,1
 MZEvolve,2021-05-05,1,1
 MZEvolve,2021-05-26,1,1
 MZEvolve,2021-07-09,1,1
@@ -655,6 +658,7 @@ chun_codes,2022-05-02,2,1
 chun_codes,2022-05-10,1,1
 chun_codes,2022-05-17,2,1
 chun_codes,2022-05-23,1,1
+chun_codes,2022-06-02,2,2
 closed-discussion-message,2021-08-28,6,5
 closed-discussion-message,2021-09-19,1,1
 closed-discussion-message,2021-09-21,1,1
@@ -1240,6 +1244,7 @@ github-stats,2022-05-29,3,2
 github-stats,2022-05-30,3,2
 github-stats,2022-05-31,3,2
 github-stats,2022-06-01,4,3
+github-stats,2022-06-02,3,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -1424,6 +1429,7 @@ github-stats-pages,2022-05-22,84,18
 github-stats-pages,2022-05-23,1,1
 github-stats-pages,2022-05-26,1,1
 github-stats-pages,2022-05-27,1,1
+github-stats-pages,2022-06-02,1,1
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -1964,6 +1970,7 @@ test-github-stats,2022-05-29,5,4
 test-github-stats,2022-05-30,5,4
 test-github-stats,2022-05-31,5,4
 test-github-stats,2022-06-01,4,3
+test-github-stats,2022-06-02,3,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
