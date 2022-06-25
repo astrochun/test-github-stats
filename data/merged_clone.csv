@@ -160,6 +160,7 @@ GNIRSLongSlit,2022-06-08,1,1
 GNIRSLongSlit,2022-06-16,1,1
 GNIRSLongSlit,2022-06-19,1,1
 GNIRSLongSlit,2022-06-20,1,1
+GNIRSLongSlit,2022-06-24,1,1
 IntroPythonAstronomy,2021-03-12,1,1
 IntroPythonAstronomy,2021-05-18,1,1
 IntroPythonAstronomy,2021-07-07,1,1
@@ -1315,6 +1316,7 @@ github-stats,2022-06-20,3,2
 github-stats,2022-06-21,3,2
 github-stats,2022-06-22,3,2
 github-stats,2022-06-23,3,2
+github-stats,2022-06-24,4,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -1509,6 +1511,7 @@ github-stats-pages,2022-06-15,9,3
 github-stats-pages,2022-06-17,4,3
 github-stats-pages,2022-06-18,64,6
 github-stats-pages,2022-06-19,1,1
+github-stats-pages,2022-06-24,31,7
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -2082,6 +2085,7 @@ test-github-stats,2022-06-20,4,3
 test-github-stats,2022-06-21,2,2
 test-github-stats,2022-06-22,5,4
 test-github-stats,2022-06-23,3,3
+test-github-stats,2022-06-24,5,4
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,5,5
 test-stats,2021-05-13,7,7
