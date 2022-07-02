@@ -15441,3 +15441,43 @@
 2022-07-01,/astrochun/uarizona-salary-app,astrochun/uarizona-salary-app: Streamlit app to illustrate University of Ariz...,1,1
 2022-07-01,/astrochun/uarizona-salary-app/stargazers,Stargazers · astrochun/uarizona-salary-app,2,1
 2022-07-01,/astrochun/uarizona-salary-app/stargazers/you_know,Stargazers · astrochun/uarizona-salary-app,1,1
+2022-07-02,/astrochun/GNIRSLongSlit,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,1,1
+2022-07-02,/astrochun/GNIRSLongSlit/tree/master/GNIRSLongSlit,GNIRSLongSlit/GNIRSLongSlit at master · astrochun/GNIRSLongSlit · GitHub,1,1
+2022-07-02,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,4,3
+2022-07-02,/astrochun/MMTtools/blob/master/Documentation_for_mmirs_pipeline_taskfile.pdf,MMTtools/Documentation_for_mmirs_pipeline_taskfile.pdf at master · astrochun/...,5,2
+2022-07-02,/astrochun/MMTtools/blob/master/README.md,MMTtools/README.md at master · astrochun/MMTtools · GitHub,1,1
+2022-07-02,/astrochun/MMTtools/blob/master/__init__.py,MMTtools/__init__.py at master · astrochun/MMTtools,1,1
+2022-07-02,/astrochun/MMTtools/blob/master/mmirs_longslit_template.txt,MMTtools/mmirs_longslit_template.txt at master · astrochun/MMTtools,1,1
+2022-07-02,/astrochun/Metallicity_Stack_Commons,astrochun/Metallicity_Stack_Commons: Set of common codes used in metallicity ...,1,1
+2022-07-02,/astrochun/academic-ads-bibtex,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,6,2
+2022-07-02,/astrochun/academic-ads-bibtex/blob/main/academic_ads_bibtex/converter.py,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibtex,1,1
+2022-07-02,/astrochun/academic-ads-bibtex/blob/main/bin/academic_ads_bibtex,academic-ads-bibtex/bin at main · astrochun/academic-ads-bibtex,1,1
+2022-07-02,/astrochun/academic-ads-bibtex/blob/main/setup.py,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,1,1
+2022-07-02,/astrochun/academic-ads-bibtex/pull/16,feature/pypi by astrochun · Pull Request #16 · astrochun/academic-ads-bibtex ...,1,1
+2022-07-02,/astrochun/academic-ads-bibtex/stargazers,Stargazers · astrochun/academic-ads-bibtex,2,1
+2022-07-02,/astrochun/academic-ads-bibtex/tree/main/academic_ads_bibtex,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,1,1
+2022-07-02,/astrochun/academic-ads-bibtex/tree/main/bin,academic-ads-bibtex/bin at main · astrochun/academic-ads-bibtex,2,1
+2022-07-02,/astrochun/github-stats,astrochun/github-stats: My GitHub stats,2,2
+2022-07-02,/astrochun/github-stats-pages,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,22,18
+2022-07-02,/astrochun/github-stats-pages/actions,Actions · astrochun/github-stats-pages,17,1
+2022-07-02,/astrochun/github-stats-pages/actions/runs/2558520015,Add migrate_to_sqlite script · astrochun/github-stats-pages@18e1981,3,1
+2022-07-02,/astrochun/github-stats-pages/actions/runs/2558520081,Feature: Add sqlite3 support with SQLModel · astrochun/github-stats-pages@18e...,2,1
+2022-07-02,/astrochun/github-stats-pages/actions/runs/2564882315,stats_plots: Load data from sqlite · astrochun/github-stats-pages@f87ac42,2,1
+2022-07-02,/astrochun/github-stats-pages/actions/runs/2564910396,Ensure that dict_df has all tables even if empty · astrochun/github-stats-pag...,2,1
+2022-07-02,/astrochun/github-stats-pages/actions/runs/2564910479,Feature: Add sqlite3 support with SQLModel · astrochun/github-stats-pages@bb2...,2,1
+2022-07-02,/astrochun/github-stats-pages/issues,Issues · astrochun/github-stats-pages,5,1
+2022-07-02,/astrochun/github-stats-pages/issues/89,Feature: Switch from CSV to sqlite3 · Issue #89 · astrochun/github-stats-pages,3,1
+2022-07-02,/astrochun/github-stats-pages/pulls,Pull requests · astrochun/github-stats-pages,4,1
+2022-07-02,/astrochun/test-github-stats,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,8,3
+2022-07-02,/astrochun/test-github-stats/blob/main/data/2021-01-17-00h-46m-clone-stats.csv,test-github-stats/2021-01-17-00h-46m-clone-stats.csv at main · astrochun/test...,1,1
+2022-07-02,/astrochun/test-github-stats/blob/main/data/2021-01-17-00h-46m-referrer-stats.csv,test-github-stats/data at main · astrochun/test-github-stats,1,1
+2022-07-02,/astrochun/test-github-stats/blob/main/data/merged_paths.csv,test-github-stats/merged_paths.csv at main · astrochun/test-github-stats,1,1
+2022-07-02,/astrochun/test-github-stats/blob/main/data/merged_referrer.csv,test-github-stats/merged_referrer.csv at main · astrochun/test-github-stats,1,1
+2022-07-02,/astrochun/test-github-stats/commit/5db54fc1f20ce5b73e6d3445908227c447f4f80c,Update data: 2022-06-19 · astrochun/test-github-stats@5db54fc,1,1
+2022-07-02,/astrochun/test-github-stats/graphs/traffic,Traffic · astrochun/test-github-stats,1,1
+2022-07-02,/astrochun/test-github-stats/pulse,Pulse · astrochun/test-github-stats,1,1
+2022-07-02,/astrochun/test-github-stats/tree/main/.github/workflows,test-github-stats/.github/workflows at main · astrochun/test-github-stats,1,1
+2022-07-02,/astrochun/test-github-stats/tree/main/data,test-github-stats/data at main · astrochun/test-github-stats,3,1
+2022-07-02,/astrochun/uarizona-salary-app,astrochun/uarizona-salary-app: Streamlit app to illustrate University of Ariz...,1,1
+2022-07-02,/astrochun/uarizona-salary-app/stargazers,Stargazers · astrochun/uarizona-salary-app,2,1
+2022-07-02,/astrochun/uarizona-salary-app/stargazers/you_know,Stargazers · astrochun/uarizona-salary-app,1,1
