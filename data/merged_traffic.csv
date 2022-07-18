@@ -128,6 +128,7 @@ MMTtools,2022-06-19,6,1
 MMTtools,2022-06-21,2,1
 MMTtools,2022-06-22,2,1
 MMTtools,2022-06-23,2,1
+MMTtools,2022-07-17,1,1
 MZEnv,2021-03-16,4,1
 MZEnv,2021-03-17,3,1
 MZEnv,2021-06-16,9,1
@@ -323,6 +324,7 @@ Zcalbase_gal,2022-05-05,3,1
 Zcalbase_gal,2022-05-06,1,1
 Zcalbase_gal,2022-06-16,1,1
 Zcalbase_gal,2022-07-14,1,1
+Zcalbase_gal,2022-07-17,1,1
 academic-ads-bibtex,2021-01-03,3,1
 academic-ads-bibtex,2021-01-04,7,2
 academic-ads-bibtex,2021-01-05,4,1
@@ -388,6 +390,7 @@ academic-ads-bibtex,2022-07-01,1,1
 academic-ads-bibtex,2022-07-05,1,1
 academic-ads-bibtex,2022-07-08,2,2
 academic-ads-bibtex,2022-07-09,1,1
+academic-ads-bibtex,2022-07-18,4,1
 astrochun,2021-02-21,2,1
 astrochun,2021-02-28,9,2
 astrochun,2021-03-17,1,1
@@ -837,6 +840,7 @@ github-stats-pages,2022-07-07,30,1
 github-stats-pages,2022-07-10,26,1
 github-stats-pages,2022-07-11,1,1
 github-stats-pages,2022-07-12,12,1
+github-stats-pages,2022-07-17,49,1
 manifests_with_flux,2021-05-21,1,1
 manifests_with_flux,2021-08-21,1,1
 old_website_nightsky,2021-07-10,1,1
@@ -957,6 +961,7 @@ test-github-stats,2022-06-27,3,1
 test-github-stats,2022-06-30,7,1
 test-github-stats,2022-07-04,12,1
 test-github-stats,2022-07-10,3,1
+test-github-stats,2022-07-17,2,1
 test-stats,2021-04-23,35,1
 test-stats,2021-04-24,3,1
 test-stats,2021-05-01,5,1
