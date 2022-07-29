@@ -1,6 +1,9 @@
 name: Deploy GitHub pages with traffic stats
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 3 * * *"
 
@@ -39,7 +42,7 @@ jobs:
       with:
         add: 'data'
         branch: main
-        message: "Update data: ${{ steps.date.outputs.date }}"
+        message: "Update data: ${{ steps.date.outputs.date }} [ci skip]"
         author_name: ${{ env.BOT_NAME }}
         author_email: ${{ env.BOT_EMAIL }}
     - name: Upload static files to gh-pages

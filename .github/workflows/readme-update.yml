@@ -1,5 +1,7 @@
 name: README Repos List
-on: push
+on:
+  schedule:
+    - cron: "0 3 * * 6"
 
 jobs:
   readme-list:
