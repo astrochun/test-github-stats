@@ -27,7 +27,7 @@ jobs:
         curl -X PUT "$URL" -d "$TOPICS" \
           -H "Accept: application/vnd.github.mercy-preview+json" -H "$AUTH"
     - name: Build GitHub stats pages
-      uses: astrochun/github-stats-pages@7b1cb06
+      uses: astrochun/github-stats-pages@7b1cb06f81d92c319f1b76afb8ec68e9651411d6
       with:
         username: ${{ github.actor }}
         token: ${{ secrets.GH_TOKEN }}
