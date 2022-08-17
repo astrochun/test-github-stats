@@ -1,0 +1,57 @@
+date,path,title,count,uniques
+2022-08-17,/astrochun/academic-ads-bibtex/blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,3,1
+2022-08-17,/astrochun/academic-ads-bibtex,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,1,1
+2022-08-17,/astrochun/academic-ads-bibtex/blob/main/bin/academic_ads_bibtex,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibtex,1,1
+2022-08-17,/astrochun/academic-ads-bibtex/tree/main/academic_ads_bibtex,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibtex,1,1
+2022-08-17,/astrochun/academic-ads-bibtex/tree/main/bin,academic-ads-bibtex/bin at main · astrochun/academic-ads-bibtex,1,1
+2022-08-17,/astrochun/figshare_test2,astrochun/figshare_test2: Testing of Figshare-GitHub integration,5,1
+2022-08-17,/astrochun/figshare_test2/blob/master/tempfile2.txt,figshare_test2/tempfile2.txt at master · astrochun/figshare_test2,1,1
+2022-08-17,/astrochun/figshare_test2/blob/master/tempfile3.txt,figshare_test2/tempfile3.txt at master · astrochun/figshare_test2,1,1
+2022-08-17,/astrochun/figshare_test2/blob/master/tempfile4.txt,figshare_test2/tempfile4.txt at master · astrochun/figshare_test2,1,1
+2022-08-17,/astrochun/figshare_test2/blob/master/tempfile.txt,figshare_test2/tempfile.txt at master · astrochun/figshare_test2,1,1
+2022-08-17,/astrochun/github-stats,astrochun/github-stats: My GitHub stats,1,1
+2022-08-17,/astrochun/github-stats-pages,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,8,8
+2022-08-17,/astrochun/github-stats-pages/blob/7b1cb06f81d92c319f1b76afb8ec68e9651411d6/.github/workflows/python-package.yml,github-stats-pages/python-package.yml at 7b1cb06f81d92c319f1b76afb8ec68e96514...,1,1
+2022-08-17,/astrochun/github-stats-pages/blob/main/README.md,github-stats-pages/README.md at main · astrochun/github-stats-pages,1,1
+2022-08-17,/astrochun/github-stats-pages/blob/main/scripts/merge_csv,github-stats-pages/merge_csv at main · astrochun/github-stats-pages,1,1
+2022-08-17,/astrochun/github-stats-pages/issues/89,Feature: Switch from CSV to sqlite3 · Issue #89 · astrochun/github-stats-pages,1,1
+2022-08-17,/astrochun/github-stats-pages/releases,Releases · astrochun/github-stats-pages,1,1
+2022-08-17,/astrochun/github-stats-pages/tree/main/scripts,github-stats-pages/scripts at main · astrochun/github-stats-pages,1,1
+2022-08-17,/astrochun/site-hugo-academic,astrochun/site-hugo-academic,4,1
+2022-08-17,/astrochun/site-hugo-academic/actions,Actions · astrochun/site-hugo-academic,3,1
+2022-08-17,/astrochun/site-hugo-academic/actions/runs/1414880854,Update CV and Bib for new publication 2021-11-02 · astrochun/site-hugo-academ...,2,1
+2022-08-17,/astrochun/site-hugo-academic/runs/4087565366,Update CV and Bib for new publication 2021-11-02 · astrochun/site-hugo-academ...,2,1
+2022-08-17,/astrochun/site-hugo-academic/actions/runs/2815150565,Update CV and Bib 2022-08-07 · astrochun/site-hugo-academic@51f5660,1,1
+2022-08-17,/astrochun/site-hugo-academic/blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
+2022-08-17,/astrochun/site-hugo-academic/commits/master,Commits · astrochun/site-hugo-academic,1,1
+2022-08-17,/astrochun/site-hugo-academic/runs/7718247684,Update CV and Bib 2022-08-07 · astrochun/site-hugo-academic@51f5660,1,1
+2022-08-17,/astrochun/site-hugo-academic/tree/master/.github/workflows,site-hugo-academic/.github/workflows at master · astrochun/site-hugo-academic,1,1
+2022-08-17,/astrochun/sqltest-github-stats/actions,Actions · astrochun/sqltest-github-stats,9,1
+2022-08-17,/astrochun/sqltest-github-stats/actions/runs/2815276846,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@b7ab5ec,6,1
+2022-08-17,/astrochun/sqltest-github-stats/actions/runs/2794058017,pages build and deployment · astrochun/sqltest-github-stats@9443484,2,1
+2022-08-17,/astrochun/sqltest-github-stats/runs/7726871370,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@b7ab5ec,2,1
+2022-08-17,/astrochun/sqltest-github-stats,astrochun/sqltest-github-stats,1,1
+2022-08-17,/astrochun/sqltest-github-stats/actions/runs/2786845851,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@a0ad3b4,1,1
+2022-08-17,/astrochun/sqltest-github-stats/actions/runs/2786853645,pages build and deployment · astrochun/sqltest-github-stats@1c4cd9e,1,1
+2022-08-17,/astrochun/sqltest-github-stats/actions/runs/2794045670,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@ccf84e0,1,1
+2022-08-17,/astrochun/sqltest-github-stats/actions/runs/2811230635,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@101c606,1,1
+2022-08-17,/astrochun/sqltest-github-stats/actions/runs/2813944876,Delete readme update Github action · astrochun/sqltest-github-stats@8b23435,1,1
+2022-08-17,/astrochun/test-github-stats,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
+2022-08-17,/astrochun/test-github-stats/actions,Actions · astrochun/test-github-stats,2,1
+2022-08-17,/astrochun/test-github-stats/actions/runs/2794042703,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@03b61e9,2,1
+2022-08-17,/astrochun/test-github-stats/runs/7665058650,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@03b61e9,2,1
+2022-08-17,/astrochun/test-github-stats/blob/main/.github/workflows/gh-pages-deploy.yml,test-github-stats/gh-pages-deploy.yml at main · astrochun/test-github-stats,1,1
+2022-08-17,/astrochun/test-github-stats/blob/main/.github/workflows/readme-update.yml,test-github-stats/readme-update.yml at main · astrochun/test-github-stats,1,1
+2022-08-17,/astrochun/test-github-stats/commit/7eddcc259739ebfe9a0c489bd3ca3f06a27f01d0,Update data: 2022-08-04 [ci skip] · astrochun/test-github-stats@7eddcc2,1,1
+2022-08-17,/astrochun/test-github-stats/issues,Issues · astrochun/test-github-stats,1,1
+2022-08-17,/astrochun/test-github-stats/tree/main/data,test-github-stats/data at main · astrochun/test-github-stats,1,1
+2022-08-17,/astrochun/test-github-stats/tree/main/.github/workflows,test-github-stats/.github/workflows at main · astrochun/test-github-stats,1,1
+2022-08-17,/astrochun/test-stats,GitHub - astrochun/test-stats,2,2
+2022-08-17,/astrochun/uarizona-salary-app,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,2,2
+2022-08-17,/astrochun/Zcalbase,astrochun/Zcalbase: Python 2.7 codes for Metallicity Calibration Database (Zc...,3,1
+2022-08-17,/astrochun/Zcalbase/blob/master/README.md,Zcalbase/README.md at master · astrochun/Zcalbase,1,1
+2022-08-17,/astrochun/Zcalbase/tree/master/analysis,Zcalbase/analysis at master · astrochun/Zcalbase,1,1
+2022-08-17,/astrochun/Zcalbase/tree/master/calc,Zcalbase/calc at master · astrochun/Zcalbase,1,1
+2022-08-17,/astrochun/Zcalbase_gal,GitHub - astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration...,1,1
+2022-08-17,/astrochun/Zcalbase_gal/blob/master/observing/locate_em_lines.py,Zcalbase_gal/locate_em_lines.py at master · astrochun/Zcalbase_gal · GitHub,1,1
+2022-08-17,/astrochun/Zcalbase_gal/tree/master/observing,Zcalbase_gal/observing at master · astrochun/Zcalbase_gal · GitHub,1,1
