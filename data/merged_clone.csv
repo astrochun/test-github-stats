@@ -672,6 +672,7 @@ academic-ads-bibtex,2022-07-22,2,1
 academic-ads-bibtex,2022-07-27,1,1
 academic-ads-bibtex,2022-08-10,1,1
 academic-ads-bibtex,2022-09-03,1,1
+academic-ads-bibtex,2022-09-05,1,1
 astrochun,2021-02-21,1,1
 astrochun,2021-04-14,1,1
 astrochun,2021-04-18,1,1
@@ -1520,7 +1521,7 @@ github-stats,2022-09-01,3,2
 github-stats,2022-09-02,4,3
 github-stats,2022-09-03,3,2
 github-stats,2022-09-04,3,2
-github-stats,2022-09-05,1,1
+github-stats,2022-09-05,4,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -1935,7 +1936,7 @@ sqltest-github-stats,2022-08-19,1,1
 sqltest-github-stats,2022-08-20,1,1
 sqltest-github-stats,2022-08-21,3,2
 sqltest-github-stats,2022-08-22,1,1
-sqltest-github-stats,2022-08-23,7,5
+sqltest-github-stats,2022-08-23,1,1
 sqltest-github-stats,2022-08-24,6,4
 sqltest-github-stats,2022-08-25,8,5
 sqltest-github-stats,2022-08-26,7,5
@@ -1948,7 +1949,7 @@ sqltest-github-stats,2022-09-01,6,4
 sqltest-github-stats,2022-09-02,6,4
 sqltest-github-stats,2022-09-03,5,4
 sqltest-github-stats,2022-09-04,7,5
-sqltest-github-stats,2022-09-05,3,2
+sqltest-github-stats,2022-09-05,7,5
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -2484,7 +2485,7 @@ test-github-stats,2022-08-19,1,1
 test-github-stats,2022-08-20,1,1
 test-github-stats,2022-08-21,2,2
 test-github-stats,2022-08-22,1,1
-test-github-stats,2022-08-23,5,4
+test-github-stats,2022-08-23,2,2
 test-github-stats,2022-08-24,4,3
 test-github-stats,2022-08-25,5,4
 test-github-stats,2022-08-26,4,3
@@ -2497,7 +2498,7 @@ test-github-stats,2022-09-01,4,3
 test-github-stats,2022-09-02,5,4
 test-github-stats,2022-09-03,4,3
 test-github-stats,2022-09-04,3,3
-test-github-stats,2022-09-05,1,1
+test-github-stats,2022-09-05,3,3
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
