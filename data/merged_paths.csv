@@ -1226,6 +1226,7 @@ GNIRSLongSlit,2022-09-04,,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Lo
 GNIRSLongSlit,2022-09-05,,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data from Gemini...,1,1
 GNIRSLongSlit,2022-09-06,,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data from Gemini...,1,1
 GNIRSLongSlit,2022-09-07,,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data from Gemini...,1,1
+GNIRSLongSlit,2022-09-08,,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data from Gemini...,1,1
 IntroPythonAstronomy,2021-06-22,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-23,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-24,,GitHub - astrochun/IntroPythonAstronomy,3,3
@@ -3424,6 +3425,14 @@ Zcalbase,2022-09-07,blob/master/calc/balmer_decrement.py,Zcalbase/balmer_decreme
 Zcalbase,2022-09-07,blob/master/calc/get_te.py,Zcalbase/get_te.py at master · astrochun/Zcalbase,1,1
 Zcalbase,2022-09-07,tree/master/analysis,Zcalbase/analysis at master · astrochun/Zcalbase,2,1
 Zcalbase,2022-09-07,tree/master/calc,Zcalbase/calc at master · astrochun/Zcalbase,2,1
+Zcalbase,2022-09-08,,astrochun/Zcalbase: Python 2.7 codes for Metallicity Calibration Database (Zc...,3,1
+Zcalbase,2022-09-08,blob/master/analysis/det4363_n2_o3n2_pca.py,Zcalbase/det4363_n2_o3n2_pca.py at master · astrochun/Zcalbase,1,1
+Zcalbase,2022-09-08,blob/master/calc/Balmer_decrement_ratios_Te_ne_grid.pdf,Zcalbase/Balmer_decrement_ratios_Te_ne_grid.pdf at master · astrochun/Zcalbase,1,1
+Zcalbase,2022-09-08,blob/master/calc/Te_OIII.pdf,Zcalbase/Te_OIII.pdf at master · astrochun/Zcalbase,2,1
+Zcalbase,2022-09-08,blob/master/calc/balmer_decrement.py,Zcalbase/balmer_decrement.py at master · astrochun/Zcalbase,2,1
+Zcalbase,2022-09-08,blob/master/calc/get_te.py,Zcalbase/get_te.py at master · astrochun/Zcalbase,1,1
+Zcalbase,2022-09-08,tree/master/analysis,Zcalbase/analysis at master · astrochun/Zcalbase,2,1
+Zcalbase,2022-09-08,tree/master/calc,Zcalbase/calc at master · astrochun/Zcalbase,2,1
 Zcalbase_gal,2021-05-13,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,18,2
 Zcalbase_gal,2021-05-13,blob/master/analysis/deep2_r23_o32/zoom_and_gauss_general.py,Zcalbase_gal/zoom_and_gauss_general.py at master · astrochun/Zcalbase_gal,3,1
 Zcalbase_gal,2021-05-13,issues,Issues · astrochun/Zcalbase_gal,13,2
@@ -4694,6 +4703,16 @@ Zcalbase_gal,2022-09-07,tree/master/analysis,Zcalbase_gal/analysis at master · 
 Zcalbase_gal,2022-09-07,tree/master/analysis/deep2_r23_o32,Zcalbase_gal/analysis/deep2_r23_o32 at master · astrochun/Zcalbase_gal,6,1
 Zcalbase_gal,2022-09-07,tree/master/analysis/deep2_r23_o32/archives,Zcalbase_gal/analysis/deep2_r23_o32/archives at master · astrochun/Zcalbase_gal,4,1
 Zcalbase_gal,2022-09-07,tree/master/observing,Zcalbase_gal/observing at master · astrochun/Zcalbase_gal,4,1
+Zcalbase_gal,2022-09-08,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,6,1
+Zcalbase_gal,2022-09-08,blob/master/analysis/deep2_r23_o32/__init__.py,Zcalbase_gal/__init__.py at master · astrochun/Zcalbase_gal,1,1
+Zcalbase_gal,2022-09-08,blob/master/analysis/deep2_r23_o32/archives/emission_line_fit.py,Zcalbase_gal/emission_line_fit.py at master · astrochun/Zcalbase_gal,1,1
+Zcalbase_gal,2022-09-08,blob/master/analysis/deep2_r23_o32/calibration_plots.py,Zcalbase_gal/calibration_plots.py at master · astrochun/Zcalbase_gal,1,1
+Zcalbase_gal,2022-09-08,blob/master/analysis/deep2_r23_o32/curvefit_analysis.py,Zcalbase_gal/curvefit_analysis.py at master · astrochun/Zcalbase_gal,1,1
+Zcalbase_gal,2022-09-08,blob/master/analysis/green_peas_calibration.py,Zcalbase_gal/green_peas_calibration.py at master · astrochun/Zcalbase_gal,2,1
+Zcalbase_gal,2022-09-08,tree/master/analysis,Zcalbase_gal/analysis at master · astrochun/Zcalbase_gal,5,1
+Zcalbase_gal,2022-09-08,tree/master/analysis/deep2_r23_o32,Zcalbase_gal/analysis/deep2_r23_o32 at master · astrochun/Zcalbase_gal,6,1
+Zcalbase_gal,2022-09-08,tree/master/analysis/deep2_r23_o32/archives,Zcalbase_gal/analysis/deep2_r23_o32/archives at master · astrochun/Zcalbase_gal,4,1
+Zcalbase_gal,2022-09-08,tree/master/observing,Zcalbase_gal/observing at master · astrochun/Zcalbase_gal,4,1
 academic-ads-bibtex,2021-05-13,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
 academic-ads-bibtex,2021-05-14,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
 academic-ads-bibtex,2021-05-15,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
@@ -6692,6 +6711,7 @@ figshare_test2,2022-09-04,,astrochun/figshare_test2: Testing of Figshare-GitHub 
 figshare_test2,2022-09-05,,astrochun/figshare_test2: Testing of Figshare-GitHub integration,1,1
 figshare_test2,2022-09-06,,astrochun/figshare_test2: Testing of Figshare-GitHub integration,1,1
 figshare_test2,2022-09-07,,astrochun/figshare_test2: Testing of Figshare-GitHub integration,1,1
+figshare_test2,2022-09-08,,astrochun/figshare_test2: Testing of Figshare-GitHub integration,1,1
 github-stats,2021-05-13,,astrochun/github-stats: My GitHub stats,14,4
 github-stats,2021-05-13,blob/gh-pages/repos/Extract1D.html,github-stats/Extract1D.html at gh-pages · astrochun/github-stats,1,1
 github-stats,2021-05-13,blob/gh-pages/repositories.html,github-stats/repositories.html at gh-pages · astrochun/github-stats,1,1
@@ -7691,6 +7711,7 @@ github-stats,2022-09-04,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2022-09-05,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2022-09-06,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2022-09-07,,astrochun/github-stats: My GitHub stats,1,1
+github-stats,2022-09-08,,astrochun/github-stats: My GitHub stats,1,1
 github-stats-pages,2021-05-13,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,37,2
 github-stats-pages,2021-05-13,actions,Actions · astrochun/github-stats-pages,17,1
 github-stats-pages,2021-05-13,graphs/traffic,Traffic · astrochun/github-stats-pages,5,1
@@ -11208,6 +11229,10 @@ github-stats-pages,2022-09-07,,GitHub - astrochun/github-stats-pages: Retrieve s
 github-stats-pages,2022-09-07,blob/main/setup.cfg,github-stats-pages/setup.cfg at main · astrochun/github-stats-pages,1,1
 github-stats-pages,2022-09-07,issues/58,Bug: Wrong avatar image used for organization · Issue #58 · astrochun/github-...,1,1
 github-stats-pages,2022-09-07,issues/89,Feature: Switch from CSV to sqlite3 · Issue #89 · astrochun/github-stats-page...,1,1
+github-stats-pages,2022-09-08,,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,15,13
+github-stats-pages,2022-09-08,blob/main/setup.cfg,github-stats-pages/setup.cfg at main · astrochun/github-stats-pages,1,1
+github-stats-pages,2022-09-08,issues/58,Bug: Wrong avatar image used for organization · Issue #58 · astrochun/github-...,1,1
+github-stats-pages,2022-09-08,issues/89,Feature: Switch from CSV to sqlite3 · Issue #89 · astrochun/github-stats-page...,1,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -11737,6 +11762,7 @@ site-hugo-academic,2022-08-21,runs/4087565366,Update CV and Bib for new publicat
 site-hugo-academic,2022-08-21,runs/7718247684,Update CV and Bib 2022-08-07 · astrochun/site-hugo-academic@51f5660,1,1
 site-hugo-academic,2022-08-21,tree/master/.github/workflows,site-hugo-academic/.github/workflows at master · astrochun/site-hugo-academic,1,1
 site-hugo-academic,2022-09-07,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
+site-hugo-academic,2022-09-08,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
 sqlmodel-learning,2022-05-23,,astrochun/sqlmodel-learning: A repo consisting of learning sqlite3 and sqlmodel,6,1
 sqlmodel-learning,2022-05-23,actions,Actions · astrochun/sqlmodel-learning,1,1
 sqlmodel-learning,2022-05-23,issues,Issues · astrochun/sqlmodel-learning,7,1
@@ -12555,6 +12581,16 @@ tep-usage-analysis,2022-09-07,pull/8/files,Add separate_billing_cycle function t
 tep-usage-analysis,2022-09-07,pull/9,Run all TEP plans and estimate costs by astrochun · Pull Request #9 · astroch...,7,1
 tep-usage-analysis,2022-09-07,pull/9/files,Run all TEP plans and estimate costs by astrochun · Pull Request #9 · astroch...,5,1
 tep-usage-analysis,2022-09-07,pulls,Pull requests · astrochun/tep-usage-analysis,12,1
+tep-usage-analysis,2022-09-08,,astrochun/tep-usage-analysis: Analyze TEP usage,7,1
+tep-usage-analysis,2022-09-08,graphs/traffic,Traffic · astrochun/tep-usage-analysis,2,1
+tep-usage-analysis,2022-09-08,issues,Issues · astrochun/tep-usage-analysis,3,1
+tep-usage-analysis,2022-09-08,pull/8,Add separate_billing_cycle function to separate out a large input table by as...,2,1
+tep-usage-analysis,2022-09-08,pull/8/files,Add separate_billing_cycle function to separate out a large input table by as...,2,1
+tep-usage-analysis,2022-09-08,pull/9,Run all TEP plans and estimate costs by astrochun · Pull Request #9 · astroch...,7,1
+tep-usage-analysis,2022-09-08,pull/9/commits,Run all TEP plans and estimate costs by astrochun · Pull Request #9 · astroch...,2,1
+tep-usage-analysis,2022-09-08,pull/9/commits/be596441d21a4a70e836265289d1d98967d8380f,Run all TEP plans and estimate costs by astrochun · Pull Request #9 · astroch...,2,1
+tep-usage-analysis,2022-09-08,pull/9/files,Run all TEP plans and estimate costs by astrochun · Pull Request #9 · astroch...,5,1
+tep-usage-analysis,2022-09-08,pulls,Pull requests · astrochun/tep-usage-analysis,10,1
 test-github-stats,2021-05-13,,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-clone-stats.csv,test-github-stats/2021-01-17-00h-46m-clone-stats.csv at main · astrochun/test...,1,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-referrer-stats.csv,test-github-stats/2021-01-17-00h-46m-referrer-stats.csv at main · astrochun/t...,3,1
@@ -14797,6 +14833,7 @@ test-stats,2022-08-26,,GitHub - astrochun/test-stats,1,1
 test-stats,2022-08-27,,GitHub - astrochun/test-stats,1,1
 test-stats,2022-09-06,,GitHub - astrochun/test-stats,1,1
 test-stats,2022-09-07,,GitHub - astrochun/test-stats,1,1
+test-stats,2022-09-08,,GitHub - astrochun/test-stats,1,1
 uarizona-salary-app,2021-05-14,,astrochun/uarizona-salary-app: Streamlit app to illustrate University of Ariz...,1,1
 uarizona-salary-app,2021-05-15,,astrochun/uarizona-salary-app: Streamlit app to illustrate University of Ariz...,4,1
 uarizona-salary-app,2021-05-15,blob/main/data/FY2018-19.csv,uarizona-salary-app/FY2018-19.csv at main · astrochun/uarizona-salary-app,2,1
@@ -17613,6 +17650,8 @@ uarizona-salary-app,2022-09-06,,GitHub - astrochun/uarizona-salary-app: Streamli
 uarizona-salary-app,2022-09-06,stargazers,Stargazers · astrochun/uarizona-salary-app,1,1
 uarizona-salary-app,2022-09-07,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,5,4
 uarizona-salary-app,2022-09-07,stargazers,Stargazers · astrochun/uarizona-salary-app,1,1
+uarizona-salary-app,2022-09-08,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,4,3
+uarizona-salary-app,2022-09-08,stargazers,Stargazers · astrochun/uarizona-salary-app,1,1
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
@@ -18583,6 +18622,13 @@ voxcharta-my-voting-record,2022-09-07,pull/29,Ensure package is installable on d
 voxcharta-my-voting-record,2022-09-07,pull/29/files,Ensure package is installable on different python versions by astrochun · Pul...,1,1
 voxcharta-my-voting-record,2022-09-07,tree/main/bin,voxcharta-my-voting-record/bin at main · astrochun/voxcharta-my-voting-record,2,1
 voxcharta-my-voting-record,2022-09-07,tree/main/voxcharta_my_voting_record,voxcharta-my-voting-record/voxcharta_my_voting_record at main · astrochun/vox...,1,1
+voxcharta-my-voting-record,2022-09-08,,astrochun/voxcharta-my-voting-record: A Python tool to extract information fr...,2,1
+voxcharta-my-voting-record,2022-09-08,blob/main/bin/vox_run,voxcharta-my-voting-record/vox_run at main · astrochun/voxcharta-my-voting-re...,2,1
+voxcharta-my-voting-record,2022-09-08,blob/main/setup.cfg,voxcharta-my-voting-record/setup.cfg at main · astrochun/voxcharta-my-voting-...,1,1
+voxcharta-my-voting-record,2022-09-08,pull/29,Ensure package is installable on different python versions by astrochun · Pul...,1,1
+voxcharta-my-voting-record,2022-09-08,pull/29/files,Ensure package is installable on different python versions by astrochun · Pul...,1,1
+voxcharta-my-voting-record,2022-09-08,tree/main/bin,voxcharta-my-voting-record/bin at main · astrochun/voxcharta-my-voting-record,2,1
+voxcharta-my-voting-record,2022-09-08,tree/main/voxcharta_my_voting_record,voxcharta-my-voting-record/voxcharta_my_voting_record at main · astrochun/vox...,1,1
 zcalbase_gal,2021-06-10,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
 zcalbase_gal,2021-06-11,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
 zcalbase_gal,2021-06-12,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
