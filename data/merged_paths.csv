@@ -1231,6 +1231,7 @@ GNIRSLongSlit,2022-09-09,,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Lo
 GNIRSLongSlit,2022-09-10,,astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data from Gemini...,1,1
 GNIRSLongSlit,2022-09-18,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
 GNIRSLongSlit,2022-09-19,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
+GNIRSLongSlit,2022-09-20,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
 IntroPythonAstronomy,2021-06-22,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-23,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-24,,GitHub - astrochun/IntroPythonAstronomy,3,3
@@ -7762,6 +7763,7 @@ github-stats,2022-09-10,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2022-09-17,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2022-09-18,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2022-09-19,,astrochun/github-stats: My GitHub stats,1,1
+github-stats,2022-09-20,,astrochun/github-stats: My GitHub stats,1,1
 github-stats-pages,2021-05-13,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,37,2
 github-stats-pages,2021-05-13,actions,Actions · astrochun/github-stats-pages,17,1
 github-stats-pages,2021-05-13,graphs/traffic,Traffic · astrochun/github-stats-pages,5,1
@@ -11296,6 +11298,7 @@ github-stats-pages,2022-09-16,,GitHub - astrochun/github-stats-pages: Retrieve s
 github-stats-pages,2022-09-17,,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,5,5
 github-stats-pages,2022-09-18,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,4,4
 github-stats-pages,2022-09-19,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,3,3
+github-stats-pages,2022-09-20,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,3,3
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -12503,6 +12506,7 @@ system_profiler,2022-09-16,,GitHub - astrochun/system_profiler: Wrapper library 
 system_profiler,2022-09-17,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2022-09-18,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2022-09-19,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
+system_profiler,2022-09-20,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 tep-usage-analysis,2022-08-19,,astrochun/tep-usage-analysis: Analyze TEP usage,2,1
 tep-usage-analysis,2022-08-19,issues,Issues · astrochun/tep-usage-analysis,1,1
 tep-usage-analysis,2022-08-20,,astrochun/tep-usage-analysis: Analyze TEP usage,2,1
@@ -17818,6 +17822,9 @@ uarizona-salary-app,2022-09-18,stargazers,Stargazers · astrochun/uarizona-salar
 uarizona-salary-app,2022-09-19,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,3,3
 uarizona-salary-app,2022-09-19,graphs/traffic,Traffic · astrochun/uarizona-salary-app,1,1
 uarizona-salary-app,2022-09-19,pulse,Pulse · astrochun/uarizona-salary-app,1,1
+uarizona-salary-app,2022-09-20,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,4,4
+uarizona-salary-app,2022-09-20,graphs/traffic,Traffic · astrochun/uarizona-salary-app,1,1
+uarizona-salary-app,2022-09-20,pulse,Pulse · astrochun/uarizona-salary-app,1,1
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
