@@ -1236,6 +1236,7 @@ GNIRSLongSlit,2022-09-21,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at mast
 GNIRSLongSlit,2022-09-22,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
 GNIRSLongSlit,2022-09-23,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
 GNIRSLongSlit,2022-09-24,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
+GNIRSLongSlit,2022-09-25,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
 IntroPythonAstronomy,2021-06-22,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-23,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-24,,GitHub - astrochun/IntroPythonAstronomy,3,3
@@ -2253,6 +2254,15 @@ MMTtools,2022-09-24,blob/master/mmirs_pipeline_taskfile.py,MMTtools/mmirs_pipeli
 MMTtools,2022-09-24,blob/master/setup.py,MMTtools/setup.py at master · astrochun/MMTtools,2,2
 MMTtools,2022-09-24,branches,Branches · astrochun/MMTtools,1,1
 MMTtools,2022-09-24,commit/d4ca8d139c30723afdc8e6132011c3a2af6019ee,Updated documentation for consistency · astrochun/MMTtools@d4ca8d1 · GitHub,1,1
+MMTtools,2022-09-25,,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,18,4
+MMTtools,2022-09-25,blob/master/Documentation_for_mmirs_pipeline_taskfile.pdf,MMTtools/Documentation_for_mmirs_pipeline_taskfile.pdf at master · astrochun/...,5,3
+MMTtools,2022-09-25,blob/master/README.md,MMTtools/README.md at master · astrochun/MMTtools,3,3
+MMTtools,2022-09-25,blob/master/__init__.py,MMTtools/__init__.py at master · astrochun/MMTtools,1,1
+MMTtools,2022-09-25,blob/master/create_mmirs_obs_summary_table.py,MMTtools/create_mmirs_obs_summary_table.py at master · astrochun/MMTtools,1,1
+MMTtools,2022-09-25,blob/master/mmirs_pipeline_taskfile.py,MMTtools/mmirs_pipeline_taskfile.py at master · astrochun/MMTtools,1,1
+MMTtools,2022-09-25,blob/master/setup.py,MMTtools/setup.py at master · astrochun/MMTtools,2,2
+MMTtools,2022-09-25,branches,Branches · astrochun/MMTtools,1,1
+MMTtools,2022-09-25,commit/d4ca8d139c30723afdc8e6132011c3a2af6019ee,Updated documentation for consistency · astrochun/MMTtools@d4ca8d1 · GitHub,1,1
 MZEnv,2021-06-22,,astrochun/MZEnv: Python 2.7 repository for environmental study of the M-Z rel...,4,1
 MZEnv,2021-06-22,graphs/traffic,Traffic · astrochun/MZEnv,2,1
 MZEnv,2021-06-22,pulse,Pulse · astrochun/MZEnv,2,1
@@ -7805,6 +7815,7 @@ github-stats,2022-09-21,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2022-09-22,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2022-09-23,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2022-09-24,,astrochun/github-stats: My GitHub stats,1,1
+github-stats,2022-09-25,,astrochun/github-stats: My GitHub stats,1,1
 github-stats-pages,2021-05-13,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,37,2
 github-stats-pages,2021-05-13,actions,Actions · astrochun/github-stats-pages,17,1
 github-stats-pages,2021-05-13,graphs/traffic,Traffic · astrochun/github-stats-pages,5,1
@@ -11344,6 +11355,7 @@ github-stats-pages,2022-09-21,,astrochun/github-stats-pages: Retrieve statistics
 github-stats-pages,2022-09-22,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,2,2
 github-stats-pages,2022-09-23,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,2,2
 github-stats-pages,2022-09-24,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,2,2
+github-stats-pages,2022-09-25,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,1,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -12519,6 +12531,10 @@ sqltest-github-stats,2022-09-24,actions,Actions · astrochun/sqltest-github-stat
 sqltest-github-stats,2022-09-24,actions/runs/3087499201,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@480d812,3,1
 sqltest-github-stats,2022-09-24,actions/runs/3087499201/jobs/4992928145,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@480d812,1,1
 sqltest-github-stats,2022-09-24,actions/runs/3087499201/jobs/5009126920,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@480d812,1,1
+sqltest-github-stats,2022-09-25,actions,Actions · astrochun/sqltest-github-stats,3,1
+sqltest-github-stats,2022-09-25,actions/runs/3087499201,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@480d812,3,1
+sqltest-github-stats,2022-09-25,actions/runs/3087499201/jobs/4992928145,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@480d812,1,1
+sqltest-github-stats,2022-09-25,actions/runs/3087499201/jobs/5009126920,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@480d812,1,1
 system_profiler,2021-10-28,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-01,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-02,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
@@ -12770,6 +12786,7 @@ tep-usage-analysis,2022-09-11,pulls,Pull requests · astrochun/tep-usage-analysi
 tep-usage-analysis,2022-09-11,tree/feature/06_run_all_plans,astrochun/tep-usage-analysis at feature/06_run_all_plans,1,1
 tep-usage-analysis,2022-09-23,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,2,1
 tep-usage-analysis,2022-09-24,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,2,1
+tep-usage-analysis,2022-09-25,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,2,1
 test-github-stats,2021-05-13,,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-clone-stats.csv,test-github-stats/2021-01-17-00h-46m-clone-stats.csv at main · astrochun/test...,1,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-referrer-stats.csv,test-github-stats/2021-01-17-00h-46m-referrer-stats.csv at main · astrochun/t...,3,1
@@ -17893,6 +17910,7 @@ uarizona-salary-app,2022-09-21,pulse,Pulse · astrochun/uarizona-salary-app,1,1
 uarizona-salary-app,2022-09-22,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,3,3
 uarizona-salary-app,2022-09-23,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,3,3
 uarizona-salary-app,2022-09-24,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,3,3
+uarizona-salary-app,2022-09-25,,astrochun/uarizona-salary-app: Streamlit app to illustrate University of Ariz...,2,2
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
