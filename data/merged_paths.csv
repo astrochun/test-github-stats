@@ -958,6 +958,7 @@ Evolution-of-Galaxies,2022-10-10,commits/master/.github/workflows/create-release
 Evolution-of-Galaxies,2022-10-11,commits/master/.github/workflows/create-release.yml,History for .github/workflows/create-release.yml - astrochun/Evolution-of-Gal...,1,1
 Evolution-of-Galaxies,2022-10-12,commits/master/.github/workflows/create-release.yml,History for .github/workflows/create-release.yml - astrochun/Evolution-of-Gal...,1,1
 Evolution-of-Galaxies,2022-10-13,commits/master/.github/workflows/create-release.yml,History for .github/workflows/create-release.yml - astrochun/Evolution-of-Gal...,1,1
+Evolution-of-Galaxies,2022-10-14,commits/master/.github/workflows/create-release.yml,History for .github/workflows/create-release.yml - astrochun/Evolution-of-Gal...,1,1
 GNIRSLongSlit,2021-05-13,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,2,2
 GNIRSLongSlit,2021-05-14,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,2,2
 GNIRSLongSlit,2021-05-15,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,1,1
@@ -1256,6 +1257,9 @@ GNIRSLongSlit,2022-09-30,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at mast
 GNIRSLongSlit,2022-10-13,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,1,1
 GNIRSLongSlit,2022-10-13,blob/master/GNIRSLongSlit/remove_bias_level.py,GNIRSLongSlit/remove_bias_level.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
 GNIRSLongSlit,2022-10-13,tree/master/GNIRSLongSlit,GNIRSLongSlit/GNIRSLongSlit at master · astrochun/GNIRSLongSlit · GitHub,1,1
+GNIRSLongSlit,2022-10-14,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,1,1
+GNIRSLongSlit,2022-10-14,blob/master/GNIRSLongSlit/remove_bias_level.py,GNIRSLongSlit/remove_bias_level.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
+GNIRSLongSlit,2022-10-14,tree/master/GNIRSLongSlit,GNIRSLongSlit/GNIRSLongSlit at master · astrochun/GNIRSLongSlit · GitHub,1,1
 IntroPythonAstronomy,2021-06-22,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-23,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-24,,GitHub - astrochun/IntroPythonAstronomy,3,3
@@ -5857,6 +5861,8 @@ academic-ads-bibtex,2022-10-12,,GitHub - astrochun/academic-ads-bibtex: Construc
 academic-ads-bibtex,2022-10-12,tree/main/docs,academic-ads-bibtex/docs at main · astrochun/academic-ads-bibtex · GitHub,1,1
 academic-ads-bibtex,2022-10-13,,GitHub - astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use...,3,2
 academic-ads-bibtex,2022-10-13,tree/main/docs,academic-ads-bibtex/docs at main · astrochun/academic-ads-bibtex · GitHub,1,1
+academic-ads-bibtex,2022-10-14,,GitHub - astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use...,3,2
+academic-ads-bibtex,2022-10-14,tree/main/docs,academic-ads-bibtex/docs at main · astrochun/academic-ads-bibtex · GitHub,1,1
 astrochun,2021-05-28,,astrochun/astrochun,1,1
 astrochun,2021-05-28,blob/5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861/README.md,astrochun/README.md at 5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861 · astrochun/a...,1,1
 astrochun,2021-05-29,,astrochun/astrochun,1,1
@@ -6062,6 +6068,7 @@ astrochun,2022-10-10,,GitHub - astrochun/astrochun,2,2
 astrochun,2022-10-11,,GitHub - astrochun/astrochun,2,2
 astrochun,2022-10-12,,GitHub - astrochun/astrochun,1,1
 astrochun,2022-10-13,,GitHub - astrochun/astrochun,1,1
+astrochun,2022-10-14,,GitHub - astrochun/astrochun,1,1
 astrochun.github.io,2021-05-28,,astrochun/astrochun.github.io: Professional website hosted by GitHub pages,1,1
 astrochun.github.io,2021-05-29,,astrochun/astrochun.github.io: Professional website hosted by GitHub pages,1,1
 astrochun.github.io,2021-05-30,,astrochun/astrochun.github.io: Professional website hosted by GitHub pages,1,1
@@ -6447,6 +6454,7 @@ containeraction,2022-10-10,commits/master/.github/workflows/workflow.yml,History
 containeraction,2022-10-11,commits/master/.github/workflows/workflow.yml,History for .github/workflows/workflow.yml - astrochun/containeraction · GitHub,1,1
 containeraction,2022-10-12,commits/master/.github/workflows/workflow.yml,History for .github/workflows/workflow.yml - astrochun/containeraction · GitHub,1,1
 containeraction,2022-10-13,commits/master/.github/workflows/workflow.yml,History for .github/workflows/workflow.yml - astrochun/containeraction · GitHub,1,1
+containeraction,2022-10-14,commits/master/.github/workflows/workflow.yml,History for .github/workflows/workflow.yml - astrochun/containeraction · GitHub,1,1
 d3js-learning,2022-05-26,,"astrochun/d3js-learning: From Research Bazaar 2022, presented by Alex Bigelow",1,1
 d3js-learning,2022-05-27,,"astrochun/d3js-learning: From Research Bazaar 2022, presented by Alex Bigelow",1,1
 d3js-learning,2022-05-28,,"astrochun/d3js-learning: From Research Bazaar 2022, presented by Alex Bigelow",1,1
@@ -11605,6 +11613,8 @@ github-stats-pages,2022-10-12,,GitHub - astrochun/github-stats-pages: Retrieve s
 github-stats-pages,2022-10-12,issues,Issues · astrochun/github-stats-pages,1,1
 github-stats-pages,2022-10-13,,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,7,4
 github-stats-pages,2022-10-13,issues,Issues · astrochun/github-stats-pages,1,1
+github-stats-pages,2022-10-14,,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,8,5
+github-stats-pages,2022-10-14,issues,Issues · astrochun/github-stats-pages,1,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -11717,6 +11727,8 @@ simplenodeapp,2022-10-12,commits/master/.github/workflows/node.js.yml,History fo
 simplenodeapp,2022-10-12,commits/master/.github/workflows/test.yml,History for .github/workflows/test.yml - astrochun/simplenodeapp · GitHub,1,1
 simplenodeapp,2022-10-13,commits/master/.github/workflows/node.js.yml,History for .github/workflows/node.js.yml - astrochun/simplenodeapp · GitHub,1,1
 simplenodeapp,2022-10-13,commits/master/.github/workflows/test.yml,History for .github/workflows/test.yml - astrochun/simplenodeapp · GitHub,1,1
+simplenodeapp,2022-10-14,commits/master/.github/workflows/node.js.yml,History for .github/workflows/node.js.yml - astrochun/simplenodeapp · GitHub,1,1
+simplenodeapp,2022-10-14,commits/master/.github/workflows/test.yml,History for .github/workflows/test.yml - astrochun/simplenodeapp · GitHub,1,1
 site-hugo-academic,2021-05-13,,astrochun/site-hugo-academic,2,2
 site-hugo-academic,2021-05-14,,astrochun/site-hugo-academic,2,2
 site-hugo-academic,2021-05-15,,astrochun/site-hugo-academic,2,2
@@ -12247,6 +12259,12 @@ site-hugo-academic,2022-10-13,commits/master/.github/workflows/hugo_deploy.yml,H
 site-hugo-academic,2022-10-13,tree/master/static,site-hugo-academic/static at master · astrochun/site-hugo-academic,1,1
 site-hugo-academic,2022-10-13,tree/master/static/files,site-hugo-academic/static/files at master · astrochun/site-hugo-academic,1,1
 site-hugo-academic,2022-10-13,upload/master/static/files,Upload files · astrochun/site-hugo-academic,1,1
+site-hugo-academic,2022-10-14,,astrochun/site-hugo-academic,3,1
+site-hugo-academic,2022-10-14,actions,Actions · astrochun/site-hugo-academic,1,1
+site-hugo-academic,2022-10-14,commits/master/.github/workflows/hugo_deploy.yml,History for .github/workflows/hugo_deploy.yml - astrochun/site-hugo-academic ...,1,1
+site-hugo-academic,2022-10-14,tree/master/static,site-hugo-academic/static at master · astrochun/site-hugo-academic,1,1
+site-hugo-academic,2022-10-14,tree/master/static/files,site-hugo-academic/static/files at master · astrochun/site-hugo-academic,1,1
+site-hugo-academic,2022-10-14,upload/master/static/files,Upload files · astrochun/site-hugo-academic,1,1
 sqlmodel-learning,2022-05-23,,astrochun/sqlmodel-learning: A repo consisting of learning sqlite3 and sqlmodel,6,1
 sqlmodel-learning,2022-05-23,actions,Actions · astrochun/sqlmodel-learning,1,1
 sqlmodel-learning,2022-05-23,issues,Issues · astrochun/sqlmodel-learning,7,1
@@ -13204,6 +13222,7 @@ tep-usage-analysis,2022-10-10,,astrochun/tep-usage-analysis: Analyze TEP usage,1
 tep-usage-analysis,2022-10-11,,astrochun/tep-usage-analysis: Analyze TEP usage,1,1
 tep-usage-analysis,2022-10-12,,astrochun/tep-usage-analysis: Analyze TEP usage,1,1
 tep-usage-analysis,2022-10-13,,astrochun/tep-usage-analysis: Analyze TEP usage,1,1
+tep-usage-analysis,2022-10-14,,astrochun/tep-usage-analysis: Analyze TEP usage,1,1
 test-github-stats,2021-05-13,,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-clone-stats.csv,test-github-stats/2021-01-17-00h-46m-clone-stats.csv at main · astrochun/test...,1,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-referrer-stats.csv,test-github-stats/2021-01-17-00h-46m-referrer-stats.csv at main · astrochun/t...,3,1
@@ -18441,6 +18460,16 @@ uarizona-salary-app,2022-10-13,issues/53,"Main module is too large, refactor for
 uarizona-salary-app,2022-10-13,issues/54,Add bilingual support: Spanish · Issue #54 · astrochun/uarizona-salary-app,9,1
 uarizona-salary-app,2022-10-13,tree/main/assets,uarizona-salary-app/assets at main · astrochun/uarizona-salary-app,2,1
 uarizona-salary-app,2022-10-13,tree/main/salary_app,uarizona-salary-app/salary_app at main · astrochun/uarizona-salary-app · GitHub,4,3
+uarizona-salary-app,2022-10-14,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,9,7
+uarizona-salary-app,2022-10-14,actions,Actions · astrochun/uarizona-salary-app,1,1
+uarizona-salary-app,2022-10-14,actions/runs/2273761331,Use Dropbox over Google Drive due to 403 error #82 · astrochun/uarizona-salar...,1,1
+uarizona-salary-app,2022-10-14,actions/runs/2273761331/jobs/3381213530,Use Dropbox over Google Drive due to 403 error #82 · astrochun/uarizona-salar...,2,1
+uarizona-salary-app,2022-10-14,actions/workflows/release-n-heroku-deploy.yml,Actions · astrochun/uarizona-salary-app,1,1
+uarizona-salary-app,2022-10-14,issues,Issues · astrochun/uarizona-salary-app,5,3
+uarizona-salary-app,2022-10-14,issues/53,"Main module is too large, refactor for easier readability · Issue #53 · astro...",2,1
+uarizona-salary-app,2022-10-14,issues/54,Add bilingual support: Spanish · Issue #54 · astrochun/uarizona-salary-app,9,1
+uarizona-salary-app,2022-10-14,tree/main/assets,uarizona-salary-app/assets at main · astrochun/uarizona-salary-app,2,1
+uarizona-salary-app,2022-10-14,tree/main/salary_app,uarizona-salary-app/salary_app at main · astrochun/uarizona-salary-app · GitHub,4,3
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
@@ -19501,6 +19530,9 @@ voxcharta-my-voting-record,2022-10-13,blob/main/setup.cfg,voxcharta-my-voting-re
 voxcharta-my-voting-record,2022-10-13,pull/29,Ensure package is installable on different python versions by astrochun · Pul...,1,1
 voxcharta-my-voting-record,2022-10-13,pull/29/checks,Ensure package is installable on different python versions by astrochun · Pul...,1,1
 voxcharta-my-voting-record,2022-10-13,pulls,Pull requests · astrochun/voxcharta-my-voting-record,2,1
+voxcharta-my-voting-record,2022-10-14,,astrochun/voxcharta-my-voting-record: A Python tool to extract information fr...,1,1
+voxcharta-my-voting-record,2022-10-14,blob/main/pyproject.toml,voxcharta-my-voting-record/pyproject.toml at main · astrochun/voxcharta-my-vo...,1,1
+voxcharta-my-voting-record,2022-10-14,blob/main/setup.cfg,voxcharta-my-voting-record/setup.cfg at main · astrochun/voxcharta-my-voting-...,1,1
 zcalbase_gal,2021-06-10,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
 zcalbase_gal,2021-06-11,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
 zcalbase_gal,2021-06-12,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
