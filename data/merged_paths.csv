@@ -1288,6 +1288,10 @@ GNIRSLongSlit,2022-10-21,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to 
 GNIRSLongSlit,2022-10-21,blob/master/GNIRSLongSlit/remove_bias_level.py,GNIRSLongSlit/remove_bias_level.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
 GNIRSLongSlit,2022-10-21,blob/master/GNIRSLongSlit/symlink.py,GNIRSLongSlit/symlink.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
 GNIRSLongSlit,2022-10-21,tree/master/GNIRSLongSlit,GNIRSLongSlit/GNIRSLongSlit at master · astrochun/GNIRSLongSlit · GitHub,2,2
+GNIRSLongSlit,2022-10-22,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,2,2
+GNIRSLongSlit,2022-10-22,blob/master/GNIRSLongSlit/remove_bias_level.py,GNIRSLongSlit/remove_bias_level.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
+GNIRSLongSlit,2022-10-22,blob/master/GNIRSLongSlit/symlink.py,GNIRSLongSlit/symlink.py at master · astrochun/GNIRSLongSlit · GitHub,1,1
+GNIRSLongSlit,2022-10-22,tree/master/GNIRSLongSlit,GNIRSLongSlit/GNIRSLongSlit at master · astrochun/GNIRSLongSlit · GitHub,2,2
 IntroPythonAstronomy,2021-06-22,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-23,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-24,,GitHub - astrochun/IntroPythonAstronomy,3,3
@@ -5906,6 +5910,9 @@ academic-ads-bibtex,2022-10-20,tree/main/docs,academic-ads-bibtex/docs at main �
 academic-ads-bibtex,2022-10-21,,GitHub - astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use...,2,1
 academic-ads-bibtex,2022-10-21,issues/24,Create RTD static page · Issue #24 · astrochun/academic-ads-bibtex · GitHub,1,1
 academic-ads-bibtex,2022-10-21,tree/main/docs,academic-ads-bibtex/docs at main · astrochun/academic-ads-bibtex · GitHub,1,1
+academic-ads-bibtex,2022-10-22,,GitHub - astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use...,2,1
+academic-ads-bibtex,2022-10-22,issues/24,Create RTD static page · Issue #24 · astrochun/academic-ads-bibtex · GitHub,1,1
+academic-ads-bibtex,2022-10-22,tree/main/docs,academic-ads-bibtex/docs at main · astrochun/academic-ads-bibtex · GitHub,1,1
 astrochun,2021-05-28,,astrochun/astrochun,1,1
 astrochun,2021-05-28,blob/5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861/README.md,astrochun/README.md at 5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861 · astrochun/a...,1,1
 astrochun,2021-05-29,,astrochun/astrochun,1,1
@@ -11670,6 +11677,8 @@ github-stats-pages,2022-10-20,,GitHub - astrochun/github-stats-pages: Retrieve s
 github-stats-pages,2022-10-20,search,Search · scienceetonnante,1,1
 github-stats-pages,2022-10-21,,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,11,10
 github-stats-pages,2022-10-21,search,Search · scienceetonnante,1,1
+github-stats-pages,2022-10-22,,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,12,11
+github-stats-pages,2022-10-22,search,Search · scienceetonnante,1,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -13017,6 +13026,8 @@ sqltest-github-stats,2022-10-10,,astrochun/sqltest-github-stats,1,1
 sqltest-github-stats,2022-10-11,,astrochun/sqltest-github-stats,1,1
 sqltest-github-stats,2022-10-21,actions/runs/3286785633,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@1e373c8,2,1
 sqltest-github-stats,2022-10-21,actions/runs/3286785633/jobs/5415259931,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@1e373c8,1,1
+sqltest-github-stats,2022-10-22,actions/runs/3286785633,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@1e373c8,2,1
+sqltest-github-stats,2022-10-22,actions/runs/3286785633/jobs/5415259931,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@1e373c8,1,1
 system_profiler,2021-10-28,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-01,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-02,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
@@ -13296,6 +13307,8 @@ tep-usage-analysis,2022-10-20,,GitHub - astrochun/tep-usage-analysis: Analyze TE
 tep-usage-analysis,2022-10-20,blob/main/billing_dates_example.txt,tep-usage-analysis/billing_dates_example.txt at main · astrochun/tep-usage-an...,1,1
 tep-usage-analysis,2022-10-21,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,1,1
 tep-usage-analysis,2022-10-21,blob/main/billing_dates_example.txt,tep-usage-analysis/billing_dates_example.txt at main · astrochun/tep-usage-an...,1,1
+tep-usage-analysis,2022-10-22,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,1,1
+tep-usage-analysis,2022-10-22,blob/main/billing_dates_example.txt,tep-usage-analysis/billing_dates_example.txt at main · astrochun/tep-usage-an...,1,1
 test-github-stats,2021-05-13,,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-clone-stats.csv,test-github-stats/2021-01-17-00h-46m-clone-stats.csv at main · astrochun/test...,1,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-referrer-stats.csv,test-github-stats/2021-01-17-00h-46m-referrer-stats.csv at main · astrochun/t...,3,1
@@ -18604,6 +18617,12 @@ uarizona-salary-app,2022-10-21,blob/main/salary_app/main.py,uarizona-salary-app/
 uarizona-salary-app,2022-10-21,blob/main/setup.sh,uarizona-salary-app/setup.sh at main · astrochun/uarizona-salary-app · GitHub,1,1
 uarizona-salary-app,2022-10-21,issues,Issues · astrochun/uarizona-salary-app,1,1
 uarizona-salary-app,2022-10-21,tree/main/salary_app,uarizona-salary-app/salary_app at main · astrochun/uarizona-salary-app · GitHub,3,2
+uarizona-salary-app,2022-10-22,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,10,6
+uarizona-salary-app,2022-10-22,blob/main/salary_app/analysis.py,uarizona-salary-app/analysis.py at main · astrochun/uarizona-salary-app · Git...,1,1
+uarizona-salary-app,2022-10-22,blob/main/salary_app/main.py,uarizona-salary-app/main.py at main · astrochun/uarizona-salary-app · GitHub,1,1
+uarizona-salary-app,2022-10-22,blob/main/setup.sh,uarizona-salary-app/setup.sh at main · astrochun/uarizona-salary-app · GitHub,1,1
+uarizona-salary-app,2022-10-22,issues,Issues · astrochun/uarizona-salary-app,1,1
+uarizona-salary-app,2022-10-22,tree/main/salary_app,uarizona-salary-app/salary_app at main · astrochun/uarizona-salary-app · GitHub,3,2
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
@@ -19688,6 +19707,9 @@ voxcharta-my-voting-record,2022-10-20,blob/main/setup.cfg,voxcharta-my-voting-re
 voxcharta-my-voting-record,2022-10-21,,astrochun/voxcharta-my-voting-record: A Python tool to extract information fr...,1,1
 voxcharta-my-voting-record,2022-10-21,blob/main/pyproject.toml,voxcharta-my-voting-record/pyproject.toml at main · astrochun/voxcharta-my-vo...,1,1
 voxcharta-my-voting-record,2022-10-21,blob/main/setup.cfg,voxcharta-my-voting-record/setup.cfg at main · astrochun/voxcharta-my-voting-...,1,1
+voxcharta-my-voting-record,2022-10-22,,astrochun/voxcharta-my-voting-record: A Python tool to extract information fr...,1,1
+voxcharta-my-voting-record,2022-10-22,blob/main/pyproject.toml,voxcharta-my-voting-record/pyproject.toml at main · astrochun/voxcharta-my-vo...,1,1
+voxcharta-my-voting-record,2022-10-22,blob/main/setup.cfg,voxcharta-my-voting-record/setup.cfg at main · astrochun/voxcharta-my-voting-...,1,1
 zcalbase_gal,2021-06-10,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
 zcalbase_gal,2021-06-11,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
 zcalbase_gal,2021-06-12,,astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration Database...,1,1
