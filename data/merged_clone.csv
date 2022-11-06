@@ -200,6 +200,7 @@ GNIRSLongSlit,2022-10-23,2,1
 GNIRSLongSlit,2022-10-25,1,1
 GNIRSLongSlit,2022-10-31,1,1
 GNIRSLongSlit,2022-11-01,1,1
+GNIRSLongSlit,2022-11-05,2,1
 IntroPythonAstronomy,2021-03-12,1,1
 IntroPythonAstronomy,2021-05-18,1,1
 IntroPythonAstronomy,2021-07-07,1,1
@@ -269,6 +270,7 @@ MMTtools,2022-10-21,1,1
 MMTtools,2022-10-22,1,1
 MMTtools,2022-10-24,2,1
 MMTtools,2022-10-28,1,1
+MMTtools,2022-11-05,1,1
 MZEnv,2021-05-08,1,1
 MZEnv,2021-06-03,1,1
 MZEnv,2021-07-19,1,1
@@ -486,6 +488,7 @@ PyMontage,2022-10-03,1,1
 PyMontage,2022-10-22,1,1
 PyMontage,2022-10-23,2,1
 PyMontage,2022-11-04,1,1
+PyMontage,2022-11-05,2,1
 Telluric_Flux,2021-05-14,1,1
 Telluric_Flux,2021-05-27,1,1
 Telluric_Flux,2021-07-22,1,1
@@ -556,6 +559,7 @@ Zcalbase,2022-10-07,1,1
 Zcalbase,2022-10-08,1,1
 Zcalbase,2022-10-21,1,1
 Zcalbase,2022-10-23,2,1
+Zcalbase,2022-11-05,2,1
 Zcalbase_gal,2021-02-07,19,11
 Zcalbase_gal,2021-02-08,1,1
 Zcalbase_gal,2021-02-10,5,5
@@ -1687,6 +1691,7 @@ github-stats,2022-11-01,7,4
 github-stats,2022-11-02,5,3
 github-stats,2022-11-03,6,5
 github-stats,2022-11-04,3,2
+github-stats,2022-11-05,3,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -1941,6 +1946,7 @@ github-stats-pages,2022-11-01,1,1
 github-stats-pages,2022-11-02,1,1
 github-stats-pages,2022-11-03,1,1
 github-stats-pages,2022-11-04,5,4
+github-stats-pages,2022-11-05,1,1
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -2210,6 +2216,7 @@ sqltest-github-stats,2022-11-01,4,3
 sqltest-github-stats,2022-11-02,3,2
 sqltest-github-stats,2022-11-03,5,3
 sqltest-github-stats,2022-11-04,4,3
+sqltest-github-stats,2022-11-05,4,3
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -2825,6 +2832,7 @@ test-github-stats,2022-11-01,5,4
 test-github-stats,2022-11-02,5,4
 test-github-stats,2022-11-03,5,4
 test-github-stats,2022-11-04,5,3
+test-github-stats,2022-11-05,7,5
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
