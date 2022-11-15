@@ -33,6 +33,7 @@ repository_name,date,clones,unique
 2018-09-01-steward,2022-09-01,1,1
 2018-09-01-steward,2022-10-16,1,1
 2018-09-01-steward,2022-10-25,1,1
+2018-09-01-steward,2022-11-14,1,1
 DarkData_Inventory,2021-03-15,1,1
 DarkData_Inventory,2021-03-20,1,1
 DarkData_Inventory,2021-05-18,1,1
@@ -209,6 +210,7 @@ GNIRSLongSlit,2022-10-31,1,1
 GNIRSLongSlit,2022-11-01,1,1
 GNIRSLongSlit,2022-11-05,2,1
 GNIRSLongSlit,2022-11-10,1,1
+GNIRSLongSlit,2022-11-14,1,1
 IntroPythonAstronomy,2021-03-12,1,1
 IntroPythonAstronomy,2021-05-18,1,1
 IntroPythonAstronomy,2021-07-07,1,1
@@ -480,6 +482,7 @@ PyEmLineFit,2022-10-02,1,1
 PyEmLineFit,2022-10-21,1,1
 PyEmLineFit,2022-11-09,1,1
 PyEmLineFit,2022-11-10,1,1
+PyEmLineFit,2022-11-15,1,1
 PyMontage,2021-05-02,1,1
 PyMontage,2021-06-02,1,1
 PyMontage,2021-07-13,1,1
@@ -537,6 +540,7 @@ Telluric_Flux,2022-09-07,1,1
 Telluric_Flux,2022-10-21,1,1
 Telluric_Flux,2022-11-04,1,1
 Telluric_Flux,2022-11-10,1,1
+Telluric_Flux,2022-11-14,1,1
 Zcalbase,2021-04-25,1,1
 Zcalbase,2021-05-21,1,1
 Zcalbase,2021-07-11,1,1
@@ -1113,6 +1117,7 @@ figshare_autosync_check_queue,2022-07-09,1,1
 figshare_autosync_check_queue,2022-08-08,1,1
 figshare_autosync_check_queue,2022-10-22,1,1
 figshare_autosync_check_queue,2022-11-10,1,1
+figshare_autosync_check_queue,2022-11-15,1,1
 figshare_test,2021-02-19,1,1
 figshare_test,2021-03-06,1,1
 figshare_test,2021-06-01,1,1
@@ -1748,6 +1753,7 @@ github-stats,2022-11-10,4,3
 github-stats,2022-11-11,3,2
 github-stats,2022-11-12,3,2
 github-stats,2022-11-13,5,4
+github-stats,2022-11-14,5,4
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -2294,6 +2300,7 @@ sqltest-github-stats,2022-11-10,7,5
 sqltest-github-stats,2022-11-11,4,3
 sqltest-github-stats,2022-11-12,5,4
 sqltest-github-stats,2022-11-13,4,3
+sqltest-github-stats,2022-11-14,4,3
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -2921,6 +2928,7 @@ test-github-stats,2022-11-10,6,5
 test-github-stats,2022-11-11,5,4
 test-github-stats,2022-11-12,5,3
 test-github-stats,2022-11-13,5,4
+test-github-stats,2022-11-14,5,4
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
