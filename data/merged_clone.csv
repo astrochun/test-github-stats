@@ -587,6 +587,7 @@ Zcalbase,2022-10-21,1,1
 Zcalbase,2022-10-23,2,1
 Zcalbase,2022-11-05,2,1
 Zcalbase,2022-11-10,1,1
+Zcalbase,2022-11-15,1,1
 Zcalbase_gal,2021-02-07,19,11
 Zcalbase_gal,2021-02-08,1,1
 Zcalbase_gal,2021-02-10,5,5
@@ -1163,6 +1164,7 @@ figshare_test2,2022-07-13,1,1
 figshare_test2,2022-08-11,1,1
 figshare_test2,2022-10-21,1,1
 figshare_test2,2022-11-10,1,1
+figshare_test2,2022-11-15,1,1
 github-stats,2021-03-31,1,1
 github-stats,2021-04-04,2,2
 github-stats,2021-04-05,2,2
@@ -1754,6 +1756,7 @@ github-stats,2022-11-11,3,2
 github-stats,2022-11-12,3,2
 github-stats,2022-11-13,5,4
 github-stats,2022-11-14,5,4
+github-stats,2022-11-15,4,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -2062,6 +2065,7 @@ overleaf_github_demo,2022-09-23,1,1
 overleaf_github_demo,2022-10-21,1,1
 overleaf_github_demo,2022-11-10,1,1
 overleaf_github_demo,2022-11-13,1,1
+overleaf_github_demo,2022-11-16,1,1
 simplenodeapp,2021-03-05,1,1
 simplenodeapp,2021-05-22,1,1
 simplenodeapp,2021-06-09,1,1
@@ -2301,6 +2305,7 @@ sqltest-github-stats,2022-11-11,4,3
 sqltest-github-stats,2022-11-12,5,4
 sqltest-github-stats,2022-11-13,4,3
 sqltest-github-stats,2022-11-14,4,3
+sqltest-github-stats,2022-11-15,4,3
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -2321,6 +2326,7 @@ system_profiler,2022-08-14,1,1
 system_profiler,2022-10-21,1,1
 system_profiler,2022-10-22,1,1
 system_profiler,2022-11-10,1,1
+system_profiler,2022-11-15,1,1
 tep-usage-analysis,2022-08-18,2,2
 tep-usage-analysis,2022-08-19,1,1
 tep-usage-analysis,2022-08-20,1,1
@@ -2929,6 +2935,7 @@ test-github-stats,2022-11-11,5,4
 test-github-stats,2022-11-12,5,3
 test-github-stats,2022-11-13,5,4
 test-github-stats,2022-11-14,5,4
+test-github-stats,2022-11-15,5,4
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
