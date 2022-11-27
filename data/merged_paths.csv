@@ -6028,6 +6028,8 @@ academic-ads-bibtex,2022-11-25,,astrochun/academic-ads-bibtex: Construct a prope
 academic-ads-bibtex,2022-11-25,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,4,2
 academic-ads-bibtex,2022-11-26,,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,1,1
 academic-ads-bibtex,2022-11-26,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,4,2
+academic-ads-bibtex,2022-11-27,,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,1,1
+academic-ads-bibtex,2022-11-27,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,4,2
 astrochun,2021-05-28,,astrochun/astrochun,1,1
 astrochun,2021-05-28,blob/5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861/README.md,astrochun/README.md at 5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861 · astrochun/a...,1,1
 astrochun,2021-05-29,,astrochun/astrochun,1,1
@@ -11923,6 +11925,9 @@ github-stats-pages,2022-11-25,issues/89,Feature: Switch from CSV to sqlite3 · I
 github-stats-pages,2022-11-26,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,3,3
 github-stats-pages,2022-11-26,issues,Issues · astrochun/github-stats-pages,1,1
 github-stats-pages,2022-11-26,issues/89,Feature: Switch from CSV to sqlite3 · Issue #89 · astrochun/github-stats-pages,1,1
+github-stats-pages,2022-11-27,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,3,3
+github-stats-pages,2022-11-27,issues,Issues · astrochun/github-stats-pages,1,1
+github-stats-pages,2022-11-27,issues/89,Feature: Switch from CSV to sqlite3 · Issue #89 · astrochun/github-stats-pages,1,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -12586,6 +12591,7 @@ site-hugo-academic,2022-11-23,blob/master/.github/workflows/hugo_deploy.yml,site
 site-hugo-academic,2022-11-24,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
 site-hugo-academic,2022-11-25,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
 site-hugo-academic,2022-11-26,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
+site-hugo-academic,2022-11-27,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/hugo_deploy.yml at master · astrochun/site-hugo-academic,1,1
 sqlmodel-learning,2022-05-23,,astrochun/sqlmodel-learning: A repo consisting of learning sqlite3 and sqlmodel,6,1
 sqlmodel-learning,2022-05-23,actions,Actions · astrochun/sqlmodel-learning,1,1
 sqlmodel-learning,2022-05-23,issues,Issues · astrochun/sqlmodel-learning,7,1
@@ -13647,6 +13653,7 @@ tep-usage-analysis,2022-11-23,,GitHub - astrochun/tep-usage-analysis: Analyze TE
 tep-usage-analysis,2022-11-24,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,2,2
 tep-usage-analysis,2022-11-25,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,2,2
 tep-usage-analysis,2022-11-26,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,2,2
+tep-usage-analysis,2022-11-27,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,2,2
 test-github-stats,2021-05-13,,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-clone-stats.csv,test-github-stats/2021-01-17-00h-46m-clone-stats.csv at main · astrochun/test...,1,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-referrer-stats.csv,test-github-stats/2021-01-17-00h-46m-referrer-stats.csv at main · astrochun/t...,3,1
@@ -19227,6 +19234,16 @@ uarizona-salary-app,2022-11-26,tree/main/.github,uarizona-salary-app/.github at 
 uarizona-salary-app,2022-11-26,tree/main/.github/workflows,uarizona-salary-app/.github/workflows at main · astrochun/uarizona-salary-app...,1,1
 uarizona-salary-app,2022-11-26,tree/main/assets,uarizona-salary-app/assets at main · astrochun/uarizona-salary-app · GitHub,1,1
 uarizona-salary-app,2022-11-26,tree/main/salary_app,uarizona-salary-app/salary_app at main · astrochun/uarizona-salary-app · GitHub,2,2
+uarizona-salary-app,2022-11-27,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,10,7
+uarizona-salary-app,2022-11-27,blob/main/.github/workflows/release-n-heroku-deploy.yml,uarizona-salary-app/release-n-heroku-deploy.yml at main · astrochun/uarizona-...,1,1
+uarizona-salary-app,2022-11-27,blob/main/salary_app/etl.py,uarizona-salary-app/etl.py at main · astrochun/uarizona-salary-app · GitHub,1,1
+uarizona-salary-app,2022-11-27,commit/3d4dcde6207c977ee0c1ea2684d854d52c777b46,Pin version for streamlit · astrochun/uarizona-salary-app@3d4dcde,1,1
+uarizona-salary-app,2022-11-27,discussions,Discussions · astrochun/uarizona-salary-app · GitHub,1,1
+uarizona-salary-app,2022-11-27,issues,Issues · astrochun/uarizona-salary-app · GitHub,1,1
+uarizona-salary-app,2022-11-27,tree/main/.github,uarizona-salary-app/.github at main · astrochun/uarizona-salary-app · GitHub,1,1
+uarizona-salary-app,2022-11-27,tree/main/.github/workflows,uarizona-salary-app/.github/workflows at main · astrochun/uarizona-salary-app...,1,1
+uarizona-salary-app,2022-11-27,tree/main/assets,uarizona-salary-app/assets at main · astrochun/uarizona-salary-app · GitHub,1,1
+uarizona-salary-app,2022-11-27,tree/main/salary_app,uarizona-salary-app/salary_app at main · astrochun/uarizona-salary-app · GitHub,2,2
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
