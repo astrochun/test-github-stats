@@ -438,6 +438,7 @@ GNIRSLongSlit,2022-11-22,github.com,3,1
 GNIRSLongSlit,2022-11-23,github.com,3,1
 GNIRSLongSlit,2022-11-28,Google,1,1
 GNIRSLongSlit,2022-11-29,Google,1,1
+GNIRSLongSlit,2022-11-30,Google,1,1
 IntroPythonAstronomy,2021-03-17,github.com,1,1
 IntroPythonAstronomy,2021-03-19,github.com,1,1
 IntroPythonAstronomy,2021-03-21,github.com,1,1
@@ -3957,6 +3958,8 @@ github-stats-pages,2022-11-28,Google,6,6
 github-stats-pages,2022-11-28,github.com,1,1
 github-stats-pages,2022-11-29,Google,8,7
 github-stats-pages,2022-11-29,github.com,1,1
+github-stats-pages,2022-11-30,Google,8,7
+github-stats-pages,2022-11-30,pypi.org,7,1
 old_website_nightsky,2021-07-11,github.com,1,1
 old_website_nightsky,2021-07-12,github.com,1,1
 old_website_nightsky,2021-07-13,github.com,1,1
@@ -4022,6 +4025,7 @@ old_website_nightsky,2022-10-12,github.com,1,1
 old_website_nightsky,2022-10-13,github.com,1,1
 old_website_nightsky,2022-11-28,github.com,5,1
 old_website_nightsky,2022-11-29,github.com,5,1
+old_website_nightsky,2022-11-30,github.com,5,1
 simplenodeapp,2021-04-01,github.com,1,1
 simplenodeapp,2021-04-03,github.com,1,1
 simplenodeapp,2021-04-04,github.com,1,1
@@ -4236,6 +4240,7 @@ site-hugo-academic,2022-11-26,Google,1,1
 site-hugo-academic,2022-11-27,Google,1,1
 site-hugo-academic,2022-11-28,Google,1,1
 site-hugo-academic,2022-11-29,Google,1,1
+site-hugo-academic,2022-11-30,Google,1,1
 sqlmodel-learning,2022-05-23,github.com,7,1
 sqlmodel-learning,2022-05-24,github.com,8,1
 sqlmodel-learning,2022-05-25,github.com,8,1
@@ -4403,6 +4408,7 @@ tep-usage-analysis,2022-11-26,github.com,2,2
 tep-usage-analysis,2022-11-27,github.com,2,2
 tep-usage-analysis,2022-11-28,github.com,2,2
 tep-usage-analysis,2022-11-29,github.com,2,2
+tep-usage-analysis,2022-11-30,github.com,2,2
 test-github-stats,2021-04-03,github.com,1,1
 test-github-stats,2021-04-04,github.com,1,1
 test-github-stats,2021-04-05,github.com,1,1
@@ -4646,6 +4652,7 @@ test-stats,2022-09-16,github.com,1,1
 test-stats,2022-09-17,github.com,1,1
 test-stats,2022-09-18,github.com,1,1
 test-stats,2022-11-29,github.com,1,1
+test-stats,2022-11-30,github.com,1,1
 uarizona-salary-app,2021-05-15,github.com,1,1
 uarizona-salary-app,2021-05-16,github.com,1,1
 uarizona-salary-app,2021-05-17,github.com,1,1
@@ -6081,6 +6088,10 @@ uarizona-salary-app,2022-11-29,Google,10,3
 uarizona-salary-app,2022-11-29,dashboard.heroku.com,1,1
 uarizona-salary-app,2022-11-29,github.com,5,2
 uarizona-salary-app,2022-11-29,sapp4ua.herokuapp.com,1,1
+uarizona-salary-app,2022-11-30,Google,8,2
+uarizona-salary-app,2022-11-30,dashboard.heroku.com,1,1
+uarizona-salary-app,2022-11-30,github.com,6,3
+uarizona-salary-app,2022-11-30,sapp4ua.herokuapp.com,1,1
 voxcharta-my-voting-record,2021-01-17,cefca.voxcharta.org,1,1
 voxcharta-my-voting-record,2021-01-17,dawn-cph.voxcharta.org,1,1
 voxcharta-my-voting-record,2021-01-17,harvard.voxcharta.org,10,8
