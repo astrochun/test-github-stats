@@ -78,6 +78,7 @@ DevOps_guide,2022-11-10,1,1
 DevOps_guide,2022-11-13,1,1
 DevOps_guide,2022-11-23,1,1
 DevOps_guide,2022-12-07,2,1
+DevOps_guide,2023-01-02,1,1
 Evolution-of-Galaxies,2021-02-24,4,4
 Evolution-of-Galaxies,2021-02-25,1,1
 Evolution-of-Galaxies,2021-02-26,1,1
@@ -775,6 +776,7 @@ Zcalbase_gal,2022-12-02,2,2
 Zcalbase_gal,2022-12-07,2,1
 Zcalbase_gal,2022-12-08,1,1
 Zcalbase_gal,2022-12-30,1,1
+Zcalbase_gal,2023-01-03,2,1
 academic-ads-bibtex,2021-01-06,5,4
 academic-ads-bibtex,2021-01-09,1,1
 academic-ads-bibtex,2021-01-11,1,1
@@ -1922,6 +1924,8 @@ github-stats,2022-12-29,4,3
 github-stats,2022-12-30,3,2
 github-stats,2022-12-31,4,3
 github-stats,2023-01-01,4,3
+github-stats,2023-01-02,4,3
+github-stats,2023-01-03,2,1
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -2554,6 +2558,7 @@ sqltest-github-stats,2022-12-29,5,3
 sqltest-github-stats,2022-12-30,4,3
 sqltest-github-stats,2022-12-31,8,5
 sqltest-github-stats,2023-01-01,3,2
+sqltest-github-stats,2023-01-02,5,3
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -3238,6 +3243,7 @@ test-github-stats,2022-12-29,4,3
 test-github-stats,2022-12-30,4,3
 test-github-stats,2022-12-31,7,4
 test-github-stats,2023-01-01,3,2
+test-github-stats,2023-01-02,3,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
@@ -3555,3 +3561,4 @@ voxcharta-my-voting-record,2022-12-10,1,1
 voxcharta-my-voting-record,2022-12-12,2,1
 voxcharta-my-voting-record,2022-12-14,1,1
 voxcharta-my-voting-record,2022-12-17,1,1
+voxcharta-my-voting-record,2023-01-03,2,1
