@@ -1,0 +1,33 @@
+date,path,title,count,uniques
+2023-01-05,/astrochun/academic-ads-bibtex,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,2,1
+2023-01-05,/astrochun/academic-ads-bibtex/blob/main/bin/academic_ads_bibtex,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibtex,1,1
+2023-01-05,/astrochun/academic-ads-bibtex/blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
+2023-01-05,/astrochun/academic-ads-bibtex/tree/main/bin,academic-ads-bibtex/bin at main · astrochun/academic-ads-bibtex,1,1
+2023-01-05,/astrochun/Extract1D,astrochun/Extract1D: Python 2.7 code for 1-D extraction of 2-D spectra,4,1
+2023-01-05,/astrochun/Extract1D/search,Search · Extract1d-jwst,3,1
+2023-01-05,/astrochun/Extract1D/blob/master/extract.py,Extract1D/extract.py at master · astrochun/Extract1D,2,1
+2023-01-05,/astrochun/Extract1D/blob/master/__init__.py,Extract1D/__init__.py at master · astrochun/Extract1D,1,1
+2023-01-05,/astrochun/Extract1D/commit/c3718a386076683ac740e7231f469e3b860957ce,plotting.plt_1d.main: Documentation · astrochun/Extract1D@c3718a3,1,1
+2023-01-05,/astrochun/Extract1D/tree/master/plotting,Extract1D/plotting at master · astrochun/Extract1D,1,1
+2023-01-05,/astrochun/github-stats-pages,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,7,6
+2023-01-05,/astrochun/github-stats-pages/blob/main/Dockerfile,github-stats-pages/Dockerfile at main · astrochun/github-stats-pages,2,1
+2023-01-05,/astrochun/github-stats-pages/blob/main/README.md,github-stats-pages/README.md at main · astrochun/github-stats-pages,1,1
+2023-01-05,/astrochun/github-stats-pages/blob/main/scripts/__init__.py,github-stats-pages/__init__.py at main · astrochun/github-stats-pages,1,1
+2023-01-05,/astrochun/github-stats-pages/blob/main/setup.py,github-stats-pages/setup.py at main · astrochun/github-stats-pages,1,1
+2023-01-05,/astrochun/github-stats-pages/stargazers,Stargazers · astrochun/github-stats-pages,1,1
+2023-01-05,/astrochun/github-stats-pages/tree/main/scripts,github-stats-pages/scripts at main · astrochun/github-stats-pages,1,1
+2023-01-05,/astrochun/MMTtools,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,4,1
+2023-01-05,/astrochun/MMTtools/blob/master/mmirs_longslit_template.txt,MMTtools/mmirs_longslit_template.txt at master · astrochun/MMTtools · GitHub,2,1
+2023-01-05,/astrochun/MMTtools/blob/master/create_mmirs_obs_summary_table.py,MMTtools/create_mmirs_obs_summary_table.py at master · astrochun/MMTtools · G...,1,1
+2023-01-05,/astrochun/MMTtools/blob/master/Documentation_for_mmirs_pipeline_taskfile.pdf,MMTtools/Documentation_for_mmirs_pipeline_taskfile.pdf at master · astrochun/...,1,1
+2023-01-05,/astrochun/MMTtools/blob/master/mmirs_pipeline_nonlin_script.pro,MMTtools/mmirs_pipeline_nonlin_script.pro at master · astrochun/MMTtools · Gi...,1,1
+2023-01-05,/astrochun/MMTtools/blob/master/mmirs_pipeline_taskfile.py,MMTtools/mmirs_pipeline_taskfile.py at master · astrochun/MMTtools · GitHub,1,1
+2023-01-05,/astrochun/MMTtools/blob/master/mmirs_qrp.py,MMTtools/mmirs_qrp.py at master · astrochun/MMTtools · GitHub,1,1
+2023-01-05,/astrochun/MMTtools/blob/master/README.md,MMTtools/README.md at master · astrochun/MMTtools · GitHub,1,1
+2023-01-05,/astrochun/PeakFlows,astrochun/PeakFlows: Python code to analyze peak flows,1,1
+2023-01-05,/astrochun/PeakFlows/blob/master/plot.py,PeakFlows/plot.py at master · astrochun/PeakFlows,1,1
+2023-01-05,/astrochun/test-github-stats/actions/runs/3784874119,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@e02eed8,3,1
+2023-01-05,/astrochun/test-github-stats/actions/runs/3810370975,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@6003a40,3,1
+2023-01-05,/astrochun/test-github-stats/actions,Actions · astrochun/test-github-stats,1,1
+2023-01-05,/astrochun/test-github-stats/actions/runs/3784874119/jobs/6434507064,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@e02eed8,1,1
+2023-01-05,/astrochun/test-github-stats/actions/runs/3784874119/jobs/6434668089,Deploy GitHub pages with traffic stats · astrochun/test-github-stats@e02eed8,1,1
