@@ -254,6 +254,8 @@ Evolution-of-Galaxies,2022-09-03,github.com,8,1
 Evolution-of-Galaxies,2022-09-04,github.com,8,1
 Extract1D,2023-01-05,Bing,6,1
 Extract1D,2023-01-05,github.com,3,1
+Extract1D,2023-01-06,Bing,6,1
+Extract1D,2023-01-06,github.com,3,1
 GNIRSLongSlit,2021-05-02,github.com,1,1
 GNIRSLongSlit,2021-05-03,github.com,1,1
 GNIRSLongSlit,2021-05-04,github.com,1,1
@@ -967,6 +969,8 @@ MMTtools,2023-01-03,Google,10,1
 MMTtools,2023-01-03,astrochun.github.io,2,1
 MMTtools,2023-01-05,Google,10,1
 MMTtools,2023-01-05,astrochun.github.io,2,1
+MMTtools,2023-01-06,Google,10,1
+MMTtools,2023-01-06,astrochun.github.io,2,1
 MZEnv,2021-03-17,github.com,1,1
 MZEnv,2021-03-19,github.com,2,1
 MZEnv,2021-03-21,github.com,2,1
@@ -1221,6 +1225,7 @@ PeakFlows,2021-09-18,github.com,1,1
 PeakFlows,2021-09-19,github.com,1,1
 PeakFlows,2021-09-20,github.com,1,1
 PeakFlows,2023-01-05,github.com,2,1
+PeakFlows,2023-01-06,github.com,2,1
 PyEmLineFit,2021-03-17,github.com,1,1
 PyEmLineFit,2021-03-19,github.com,1,1
 PyEmLineFit,2021-03-21,github.com,1,1
@@ -4126,6 +4131,10 @@ github-stats-pages,2023-01-05,Bing,1,1
 github-stats-pages,2023-01-05,Google,2,2
 github-stats-pages,2023-01-05,github.com,6,1
 github-stats-pages,2023-01-05,pypi.org,5,2
+github-stats-pages,2023-01-06,Bing,1,1
+github-stats-pages,2023-01-06,Google,3,3
+github-stats-pages,2023-01-06,github.com,6,1
+github-stats-pages,2023-01-06,pypi.org,5,2
 old_website_nightsky,2021-07-11,github.com,1,1
 old_website_nightsky,2021-07-12,github.com,1,1
 old_website_nightsky,2021-07-13,github.com,1,1
@@ -6393,6 +6402,8 @@ uarizona-salary-app,2023-01-02,github.com,1,1
 uarizona-salary-app,2023-01-03,github.com,1,1
 uarizona-salary-app,2023-01-05,Google,1,1
 uarizona-salary-app,2023-01-05,github.com,1,1
+uarizona-salary-app,2023-01-06,Google,1,1
+uarizona-salary-app,2023-01-06,github.com,1,1
 voxcharta-my-voting-record,2021-01-17,cefca.voxcharta.org,1,1
 voxcharta-my-voting-record,2021-01-17,dawn-cph.voxcharta.org,1,1
 voxcharta-my-voting-record,2021-01-17,harvard.voxcharta.org,10,8

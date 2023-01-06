@@ -38,6 +38,7 @@ repository_name,date,clones,unique
 2018-09-01-steward,2022-12-01,1,1
 2018-09-01-steward,2022-12-03,1,1
 2018-09-01-steward,2022-12-07,2,1
+2018-09-01-steward,2023-01-05,3,2
 DarkData_Inventory,2021-03-15,1,1
 DarkData_Inventory,2021-03-20,1,1
 DarkData_Inventory,2021-05-18,1,1
@@ -80,6 +81,7 @@ DevOps_guide,2022-11-13,1,1
 DevOps_guide,2022-11-23,1,1
 DevOps_guide,2022-12-07,2,1
 DevOps_guide,2023-01-02,1,1
+DevOps_guide,2023-01-05,2,1
 Evolution-of-Galaxies,2021-02-24,4,4
 Evolution-of-Galaxies,2021-02-25,1,1
 Evolution-of-Galaxies,2021-02-26,1,1
@@ -1183,6 +1185,7 @@ figshare_actions,2022-11-12,1,1
 figshare_actions,2022-12-07,2,1
 figshare_actions,2022-12-12,1,1
 figshare_actions,2022-12-31,1,1
+figshare_actions,2023-01-06,2,1
 figshare_actions2,2021-03-03,1,1
 figshare_actions2,2021-03-27,1,1
 figshare_actions2,2021-04-28,1,1
@@ -1293,6 +1296,7 @@ figshare_test,2022-11-21,1,1
 figshare_test,2022-12-07,2,1
 figshare_test,2022-12-17,1,1
 figshare_test,2022-12-20,1,1
+figshare_test,2023-01-06,2,1
 figshare_test2,2021-03-06,1,1
 figshare_test2,2021-03-08,1,1
 figshare_test2,2021-06-02,1,1
@@ -1962,6 +1966,7 @@ github-stats,2023-01-01,4,3
 github-stats,2023-01-02,4,3
 github-stats,2023-01-03,11,5
 github-stats,2023-01-04,5,3
+github-stats,2023-01-05,3,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -2296,6 +2301,8 @@ overleaf_github_demo,2022-11-13,1,1
 overleaf_github_demo,2022-11-16,1,1
 overleaf_github_demo,2022-12-07,2,1
 overleaf_github_demo,2023-01-03,1,1
+overleaf_github_demo,2023-01-05,2,1
+overleaf_github_demo,2023-01-06,2,1
 simplenodeapp,2021-03-05,1,1
 simplenodeapp,2021-05-22,1,1
 simplenodeapp,2021-06-09,1,1
@@ -2403,6 +2410,7 @@ site-hugo-academic,2022-12-12,2,1
 site-hugo-academic,2022-12-18,1,1
 site-hugo-academic,2023-01-03,6,3
 site-hugo-academic,2023-01-04,2,1
+site-hugo-academic,2023-01-05,2,1
 sqlmodel-learning,2022-05-22,13,6
 sqlmodel-learning,2022-05-23,2,2
 sqlmodel-learning,2022-05-25,13,5
@@ -2605,6 +2613,8 @@ sqltest-github-stats,2023-01-01,3,2
 sqltest-github-stats,2023-01-02,5,3
 sqltest-github-stats,2023-01-03,11,7
 sqltest-github-stats,2023-01-04,11,6
+sqltest-github-stats,2023-01-05,3,2
+sqltest-github-stats,2023-01-06,1,1
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -3294,6 +3304,7 @@ test-github-stats,2023-01-01,3,2
 test-github-stats,2023-01-02,3,2
 test-github-stats,2023-01-03,8,5
 test-github-stats,2023-01-04,5,3
+test-github-stats,2023-01-05,2,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
@@ -3320,6 +3331,7 @@ test-stats,2022-11-10,1,1
 test-stats,2022-11-20,1,1
 test-stats,2022-12-07,2,1
 test-stats,2022-12-16,1,1
+test-stats,2023-01-05,2,1
 uarizona-salary-app,2021-05-13,2,2
 uarizona-salary-app,2021-05-14,1,1
 uarizona-salary-app,2021-05-15,1,1
