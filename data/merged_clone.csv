@@ -40,6 +40,7 @@ repository_name,date,clones,unique
 2018-09-01-steward,2022-12-07,2,1
 2018-09-01-steward,2023-01-05,3,2
 2018-09-01-steward,2023-01-07,2,1
+2018-09-01-steward,2023-01-09,1,1
 DarkData_Inventory,2021-03-15,1,1
 DarkData_Inventory,2021-03-20,1,1
 DarkData_Inventory,2021-05-18,1,1
@@ -61,6 +62,7 @@ DarkData_Inventory,2022-11-16,1,1
 DarkData_Inventory,2022-12-03,1,1
 DarkData_Inventory,2022-12-07,2,1
 DarkData_Inventory,2023-01-04,2,1
+DarkData_Inventory,2023-01-09,1,1
 DevOps_guide,2021-03-14,1,1
 DevOps_guide,2021-06-04,1,1
 DevOps_guide,2021-06-27,1,1
@@ -84,6 +86,7 @@ DevOps_guide,2022-12-07,2,1
 DevOps_guide,2023-01-02,1,1
 DevOps_guide,2023-01-05,2,1
 DevOps_guide,2023-01-07,2,1
+DevOps_guide,2023-01-09,1,1
 Evolution-of-Galaxies,2021-02-24,4,4
 Evolution-of-Galaxies,2021-02-25,1,1
 Evolution-of-Galaxies,2021-02-26,1,1
@@ -158,6 +161,7 @@ Evolution-of-Galaxies,2022-12-07,4,2
 Evolution-of-Galaxies,2022-12-24,1,1
 Evolution-of-Galaxies,2023-01-03,6,3
 Evolution-of-Galaxies,2023-01-04,4,2
+Evolution-of-Galaxies,2023-01-09,1,1
 Extract1D,2021-03-14,1,1
 Extract1D,2021-04-28,1,1
 Extract1D,2021-05-12,1,1
@@ -197,6 +201,7 @@ Extract1D,2022-12-04,1,1
 Extract1D,2022-12-07,2,1
 Extract1D,2022-12-21,1,1
 Extract1D,2023-01-03,2,1
+Extract1D,2023-01-09,1,1
 GNIRSLongSlit,2021-03-14,1,1
 GNIRSLongSlit,2021-05-10,1,1
 GNIRSLongSlit,2021-05-29,1,1
@@ -244,6 +249,7 @@ GNIRSLongSlit,2022-11-19,1,1
 GNIRSLongSlit,2022-12-03,1,1
 GNIRSLongSlit,2022-12-07,2,1
 GNIRSLongSlit,2023-01-03,4,2
+GNIRSLongSlit,2023-01-09,1,1
 IntroPythonAstronomy,2021-03-12,1,1
 IntroPythonAstronomy,2021-05-18,1,1
 IntroPythonAstronomy,2021-07-07,1,1
@@ -324,6 +330,7 @@ MMTtools,2022-12-08,1,1
 MMTtools,2023-01-03,6,3
 MMTtools,2023-01-04,4,2
 MMTtools,2023-01-07,2,1
+MMTtools,2023-01-09,1,1
 MZEnv,2021-05-08,1,1
 MZEnv,2021-06-03,1,1
 MZEnv,2021-07-19,1,1
@@ -356,6 +363,7 @@ MZEnv,2022-11-20,1,1
 MZEnv,2022-12-01,1,1
 MZEnv,2022-12-07,2,1
 MZEnv,2023-01-03,4,2
+MZEnv,2023-01-09,1,1
 MZEvolve,2021-05-05,1,1
 MZEvolve,2021-05-26,1,1
 MZEvolve,2021-07-09,1,1
@@ -380,6 +388,7 @@ MZEvolve,2022-11-22,1,1
 MZEvolve,2022-12-07,2,1
 MZEvolve,2023-01-03,1,1
 MZEvolve,2023-01-04,2,1
+MZEvolve,2023-01-09,1,1
 Metallicity_Stack_Commons,2021-01-09,1,1
 Metallicity_Stack_Commons,2021-01-16,22,9
 Metallicity_Stack_Commons,2021-01-17,1,1
@@ -453,6 +462,7 @@ Metallicity_Stack_Commons,2022-12-07,2,1
 Metallicity_Stack_Commons,2022-12-22,1,1
 Metallicity_Stack_Commons,2023-01-03,6,2
 Metallicity_Stack_Commons,2023-01-04,4,2
+Metallicity_Stack_Commons,2023-01-09,1,1
 MyExpressApp,2021-05-21,1,1
 MyExpressApp,2021-07-17,1,1
 MyExpressApp,2021-09-02,1,1
@@ -475,6 +485,7 @@ MyExpressApp,2022-12-01,1,1
 MyExpressApp,2022-12-07,2,1
 MyExpressApp,2023-01-03,1,1
 MyExpressApp,2023-01-06,2,1
+MyExpressApp,2023-01-09,2,2
 PeakFlows,2021-05-23,1,1
 PeakFlows,2021-06-09,1,1
 PeakFlows,2021-07-23,1,1
@@ -510,6 +521,7 @@ PeakFlows,2022-11-16,1,1
 PeakFlows,2022-12-07,2,1
 PeakFlows,2022-12-20,1,1
 PeakFlows,2023-01-04,2,1
+PeakFlows,2023-01-09,1,1
 PyEmLineFit,2021-05-06,1,1
 PyEmLineFit,2021-05-21,1,1
 PyEmLineFit,2021-05-29,1,1
@@ -554,6 +566,7 @@ PyEmLineFit,2022-12-07,2,1
 PyEmLineFit,2022-12-08,1,1
 PyEmLineFit,2022-12-27,1,1
 PyEmLineFit,2023-01-03,2,1
+PyEmLineFit,2023-01-09,1,1
 PyMontage,2021-05-02,1,1
 PyMontage,2021-06-02,1,1
 PyMontage,2021-07-13,1,1
@@ -591,6 +604,7 @@ PyMontage,2022-12-20,1,1
 PyMontage,2022-12-31,1,1
 PyMontage,2023-01-03,2,1
 PyMontage,2023-01-04,4,2
+PyMontage,2023-01-09,1,1
 Telluric_Flux,2021-05-14,1,1
 Telluric_Flux,2021-05-27,1,1
 Telluric_Flux,2021-07-22,1,1
@@ -624,6 +638,7 @@ Telluric_Flux,2022-12-04,1,1
 Telluric_Flux,2022-12-07,3,2
 Telluric_Flux,2022-12-21,1,1
 Telluric_Flux,2023-01-03,4,2
+Telluric_Flux,2023-01-09,1,1
 Zcalbase,2021-04-25,1,1
 Zcalbase,2021-05-21,1,1
 Zcalbase,2021-07-11,1,1
@@ -675,6 +690,7 @@ Zcalbase,2022-12-02,2,2
 Zcalbase,2022-12-06,1,1
 Zcalbase,2022-12-07,2,1
 Zcalbase,2023-01-04,4,2
+Zcalbase,2023-01-09,1,1
 Zcalbase_gal,2021-02-07,19,11
 Zcalbase_gal,2021-02-08,1,1
 Zcalbase_gal,2021-02-10,5,5
@@ -804,6 +820,7 @@ Zcalbase_gal,2022-12-30,1,1
 Zcalbase_gal,2023-01-03,6,3
 Zcalbase_gal,2023-01-04,4,2
 Zcalbase_gal,2023-01-07,2,1
+Zcalbase_gal,2023-01-09,1,1
 academic-ads-bibtex,2021-01-06,5,4
 academic-ads-bibtex,2021-01-09,1,1
 academic-ads-bibtex,2021-01-11,1,1
@@ -874,6 +891,7 @@ academic-ads-bibtex,2022-11-20,1,1
 academic-ads-bibtex,2022-12-03,1,1
 academic-ads-bibtex,2022-12-07,2,1
 academic-ads-bibtex,2023-01-03,4,2
+academic-ads-bibtex,2023-01-09,1,1
 astrochun,2021-02-21,1,1
 astrochun,2021-04-14,1,1
 astrochun,2021-04-18,1,1
@@ -907,6 +925,7 @@ astrochun,2022-12-07,2,1
 astrochun,2022-12-10,1,1
 astrochun,2022-12-12,2,1
 astrochun,2023-01-03,2,1
+astrochun,2023-01-09,1,1
 astrochun.github.io,2021-02-23,1,1
 astrochun.github.io,2021-03-25,2,2
 astrochun.github.io,2021-03-26,1,1
@@ -987,6 +1006,7 @@ astrochun.github.io,2022-12-19,1,1
 astrochun.github.io,2022-12-21,1,1
 astrochun.github.io,2023-01-03,2,1
 astrochun.github.io,2023-01-04,4,2
+astrochun.github.io,2023-01-09,1,1
 chun_codes,2021-01-09,1,1
 chun_codes,2021-01-10,1,1
 chun_codes,2021-01-16,12,1
@@ -1059,6 +1079,7 @@ chun_codes,2022-12-08,2,2
 chun_codes,2022-12-23,1,1
 chun_codes,2023-01-03,2,1
 chun_codes,2023-01-04,2,1
+chun_codes,2023-01-09,1,1
 closed-discussion-message,2021-08-28,6,5
 closed-discussion-message,2021-09-19,1,1
 closed-discussion-message,2021-09-21,1,1
@@ -1096,6 +1117,7 @@ closed-discussion-message,2022-12-03,1,1
 closed-discussion-message,2022-12-07,2,1
 closed-discussion-message,2022-12-12,2,1
 closed-discussion-message,2023-01-04,2,1
+closed-discussion-message,2023-01-09,1,1
 containeraction,2021-04-28,1,1
 containeraction,2021-05-21,1,1
 containeraction,2021-07-15,1,1
@@ -1120,6 +1142,7 @@ containeraction,2022-12-01,1,1
 containeraction,2022-12-05,1,1
 containeraction,2022-12-07,2,1
 containeraction,2023-01-07,2,1
+containeraction,2023-01-09,1,1
 d3js-learning,2022-05-25,1,1
 d3js-learning,2022-05-26,1,1
 d3js-learning,2022-06-08,1,1
@@ -1135,6 +1158,7 @@ d3js-learning,2022-12-13,1,1
 d3js-learning,2022-12-29,1,1
 d3js-learning,2022-12-30,1,1
 d3js-learning,2023-01-04,2,1
+d3js-learning,2023-01-09,1,1
 figshare-actions-publish-test,2021-06-10,12,7
 figshare-actions-publish-test,2021-06-11,1,1
 figshare-actions-publish-test,2021-06-18,1,1
@@ -1166,6 +1190,7 @@ figshare-actions-publish-test,2022-11-10,1,1
 figshare-actions-publish-test,2022-12-07,2,1
 figshare-actions-publish-test,2023-01-03,2,1
 figshare-actions-publish-test,2023-01-04,2,1
+figshare-actions-publish-test,2023-01-09,1,1
 figshare_actions,2021-02-27,1,1
 figshare_actions,2021-03-22,1,1
 figshare_actions,2021-05-27,1,1
@@ -1192,6 +1217,7 @@ figshare_actions,2022-12-07,2,1
 figshare_actions,2022-12-12,1,1
 figshare_actions,2022-12-31,1,1
 figshare_actions,2023-01-06,2,1
+figshare_actions,2023-01-09,1,1
 figshare_actions2,2021-03-03,1,1
 figshare_actions2,2021-03-27,1,1
 figshare_actions2,2021-04-28,1,1
@@ -1219,6 +1245,7 @@ figshare_actions2,2022-11-10,1,1
 figshare_actions2,2022-11-13,1,1
 figshare_actions2,2022-12-07,2,1
 figshare_actions2,2023-01-04,4,2
+figshare_actions2,2023-01-09,1,1
 figshare_autosync_check,2021-03-13,1,1
 figshare_autosync_check,2021-04-28,1,1
 figshare_autosync_check,2021-05-22,1,1
@@ -1242,6 +1269,7 @@ figshare_autosync_check,2022-11-20,1,1
 figshare_autosync_check,2022-12-07,2,1
 figshare_autosync_check,2023-01-03,2,1
 figshare_autosync_check,2023-01-04,2,1
+figshare_autosync_check,2023-01-09,1,1
 figshare_autosync_check_queue,2021-02-24,1,1
 figshare_autosync_check_queue,2021-04-28,1,1
 figshare_autosync_check_queue,2021-05-18,3,3
@@ -1276,6 +1304,7 @@ figshare_autosync_check_queue,2022-12-06,1,1
 figshare_autosync_check_queue,2022-12-07,2,1
 figshare_autosync_check_queue,2022-12-29,1,1
 figshare_autosync_check_queue,2023-01-04,2,1
+figshare_autosync_check_queue,2023-01-09,1,1
 figshare_test,2021-02-19,1,1
 figshare_test,2021-03-06,1,1
 figshare_test,2021-06-01,1,1
@@ -1303,6 +1332,7 @@ figshare_test,2022-12-07,2,1
 figshare_test,2022-12-17,1,1
 figshare_test,2022-12-20,1,1
 figshare_test,2023-01-06,6,3
+figshare_test,2023-01-09,1,1
 figshare_test2,2021-03-06,1,1
 figshare_test2,2021-03-08,1,1
 figshare_test2,2021-06-02,1,1
@@ -1331,6 +1361,7 @@ figshare_test2,2022-12-07,2,1
 figshare_test2,2022-12-29,1,1
 figshare_test2,2023-01-01,1,1
 figshare_test2,2023-01-04,4,2
+figshare_test2,2023-01-09,1,1
 github-stats,2021-03-31,1,1
 github-stats,2021-04-04,2,2
 github-stats,2021-04-05,2,2
@@ -1976,6 +2007,7 @@ github-stats,2023-01-05,3,2
 github-stats,2023-01-06,3,2
 github-stats,2023-01-07,4,3
 github-stats,2023-01-08,3,2
+github-stats,2023-01-09,5,4
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -2254,6 +2286,7 @@ github-stats-pages,2023-01-03,4,2
 github-stats-pages,2023-01-04,1,1
 github-stats-pages,2023-01-06,1,1
 github-stats-pages,2023-01-08,1,1
+github-stats-pages,2023-01-09,1,1
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -2280,6 +2313,7 @@ manifests_with_flux,2022-11-10,1,1
 manifests_with_flux,2022-11-17,1,1
 manifests_with_flux,2022-12-07,2,1
 manifests_with_flux,2023-01-04,2,1
+manifests_with_flux,2023-01-09,1,1
 old_website_nightsky,2021-10-02,1,1
 old_website_nightsky,2022-03-04,2,2
 old_website_nightsky,2022-04-20,2,2
@@ -2290,6 +2324,7 @@ old_website_nightsky,2022-09-08,1,1
 old_website_nightsky,2022-11-10,1,1
 old_website_nightsky,2022-11-27,2,1
 old_website_nightsky,2022-12-26,1,1
+old_website_nightsky,2023-01-09,1,1
 overleaf_github_demo,2021-05-15,1,1
 overleaf_github_demo,2021-07-16,1,1
 overleaf_github_demo,2021-09-09,1,1
@@ -2314,6 +2349,7 @@ overleaf_github_demo,2022-12-07,2,1
 overleaf_github_demo,2023-01-03,1,1
 overleaf_github_demo,2023-01-05,2,1
 overleaf_github_demo,2023-01-06,2,1
+overleaf_github_demo,2023-01-09,1,1
 simplenodeapp,2021-03-05,1,1
 simplenodeapp,2021-05-22,1,1
 simplenodeapp,2021-06-09,1,1
@@ -2343,6 +2379,7 @@ simplenodeapp,2022-12-07,2,1
 simplenodeapp,2022-12-21,1,1
 simplenodeapp,2022-12-24,1,1
 simplenodeapp,2023-01-03,2,1
+simplenodeapp,2023-01-09,1,1
 site-hugo-academic,2021-03-13,1,1
 site-hugo-academic,2021-03-25,1,1
 site-hugo-academic,2021-03-26,1,1
@@ -2422,6 +2459,7 @@ site-hugo-academic,2022-12-18,1,1
 site-hugo-academic,2023-01-03,6,3
 site-hugo-academic,2023-01-04,2,1
 site-hugo-academic,2023-01-05,2,1
+site-hugo-academic,2023-01-09,1,1
 sqlmodel-learning,2022-05-22,13,6
 sqlmodel-learning,2022-05-23,2,2
 sqlmodel-learning,2022-05-25,13,5
@@ -2445,6 +2483,7 @@ sqlmodel-learning,2022-12-13,2,1
 sqlmodel-learning,2022-12-29,1,1
 sqlmodel-learning,2022-12-31,1,1
 sqlmodel-learning,2023-01-03,2,1
+sqlmodel-learning,2023-01-09,1,1
 sqltest-github-stats,2022-07-10,24,11
 sqltest-github-stats,2022-07-11,7,4
 sqltest-github-stats,2022-07-12,6,4
@@ -2628,6 +2667,7 @@ sqltest-github-stats,2023-01-05,3,2
 sqltest-github-stats,2023-01-06,4,3
 sqltest-github-stats,2023-01-07,3,2
 sqltest-github-stats,2023-01-08,1,1
+sqltest-github-stats,2023-01-09,6,5
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -2653,6 +2693,7 @@ system_profiler,2022-12-07,1,1
 system_profiler,2022-12-16,1,1
 system_profiler,2022-12-27,1,1
 system_profiler,2023-01-04,2,1
+system_profiler,2023-01-09,1,1
 tep-usage-analysis,2022-08-18,2,2
 tep-usage-analysis,2022-08-19,1,1
 tep-usage-analysis,2022-08-20,1,1
@@ -2675,6 +2716,7 @@ tep-usage-analysis,2022-12-07,2,1
 tep-usage-analysis,2022-12-12,2,1
 tep-usage-analysis,2022-12-26,1,1
 tep-usage-analysis,2023-01-03,2,1
+tep-usage-analysis,2023-01-09,1,1
 test-github-stats,2021-04-03,4,2
 test-github-stats,2021-04-04,11,7
 test-github-stats,2021-04-05,1,1
@@ -3321,6 +3363,7 @@ test-github-stats,2023-01-05,2,2
 test-github-stats,2023-01-06,3,2
 test-github-stats,2023-01-07,5,3
 test-github-stats,2023-01-08,4,2
+test-github-stats,2023-01-09,5,4
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
@@ -3349,6 +3392,7 @@ test-stats,2022-12-07,2,1
 test-stats,2022-12-16,1,1
 test-stats,2023-01-05,2,1
 test-stats,2023-01-06,2,1
+test-stats,2023-01-09,1,1
 uarizona-salary-app,2021-05-13,2,2
 uarizona-salary-app,2021-05-14,1,1
 uarizona-salary-app,2021-05-15,1,1
@@ -3555,6 +3599,7 @@ uarizona-salary-app,2022-12-26,1,1
 uarizona-salary-app,2022-12-29,2,1
 uarizona-salary-app,2022-12-31,1,1
 uarizona-salary-app,2023-01-03,4,2
+uarizona-salary-app,2023-01-09,1,1
 voxcharta-my-voting-record,2021-01-04,2,2
 voxcharta-my-voting-record,2021-01-07,1,1
 voxcharta-my-voting-record,2021-01-12,1,1
@@ -3642,3 +3687,4 @@ voxcharta-my-voting-record,2022-12-12,2,1
 voxcharta-my-voting-record,2022-12-14,1,1
 voxcharta-my-voting-record,2022-12-17,1,1
 voxcharta-my-voting-record,2023-01-03,6,3
+voxcharta-my-voting-record,2023-01-09,1,1
