@@ -253,6 +253,7 @@ GNIRSLongSlit,2022-12-07,2,1
 GNIRSLongSlit,2023-01-03,4,2
 GNIRSLongSlit,2023-01-09,1,1
 GNIRSLongSlit,2023-01-11,1,1
+GNIRSLongSlit,2023-01-19,1,1
 IntroPythonAstronomy,2021-03-12,1,1
 IntroPythonAstronomy,2021-05-18,1,1
 IntroPythonAstronomy,2021-07-07,1,1
@@ -392,6 +393,7 @@ MZEvolve,2022-12-07,2,1
 MZEvolve,2023-01-03,1,1
 MZEvolve,2023-01-04,2,1
 MZEvolve,2023-01-09,1,1
+MZEvolve,2023-01-19,1,1
 Metallicity_Stack_Commons,2021-01-09,1,1
 Metallicity_Stack_Commons,2021-01-16,22,9
 Metallicity_Stack_Commons,2021-01-17,1,1
@@ -611,6 +613,7 @@ PyMontage,2022-12-31,1,1
 PyMontage,2023-01-03,2,1
 PyMontage,2023-01-04,4,2
 PyMontage,2023-01-09,1,1
+PyMontage,2023-01-19,1,1
 Telluric_Flux,2021-05-14,1,1
 Telluric_Flux,2021-05-27,1,1
 Telluric_Flux,2021-07-22,1,1
@@ -1342,7 +1345,7 @@ figshare_test,2022-11-21,1,1
 figshare_test,2022-12-07,2,1
 figshare_test,2022-12-17,1,1
 figshare_test,2022-12-20,1,1
-figshare_test,2023-01-06,6,3
+figshare_test,2023-01-06,4,2
 figshare_test,2023-01-09,1,1
 figshare_test2,2021-03-06,1,1
 figshare_test2,2021-03-08,1,1
@@ -2027,6 +2030,7 @@ github-stats,2023-01-13,3,2
 github-stats,2023-01-15,3,2
 github-stats,2023-01-16,6,5
 github-stats,2023-01-17,3,2
+github-stats,2023-01-19,4,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -2700,6 +2704,7 @@ sqltest-github-stats,2023-01-15,7,4
 sqltest-github-stats,2023-01-16,4,3
 sqltest-github-stats,2023-01-17,4,3
 sqltest-github-stats,2023-01-18,5,3
+sqltest-github-stats,2023-01-19,3,3
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -3408,6 +3413,7 @@ test-github-stats,2023-01-15,6,4
 test-github-stats,2023-01-16,4,3
 test-github-stats,2023-01-17,3,2
 test-github-stats,2023-01-18,1,1
+test-github-stats,2023-01-19,6,4
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
