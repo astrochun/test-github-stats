@@ -1068,6 +1068,7 @@ astrochun.github.io,2023-01-30,1,1
 astrochun.github.io,2023-02-02,2,1
 astrochun.github.io,2023-02-08,1,1
 astrochun.github.io,2023-02-12,1,1
+astrochun.github.io,2023-02-14,1,1
 chun_codes,2021-01-09,1,1
 chun_codes,2021-01-10,1,1
 chun_codes,2021-01-16,12,1
@@ -1327,6 +1328,7 @@ figshare_actions2,2023-01-09,1,1
 figshare_actions2,2023-01-20,1,1
 figshare_actions2,2023-01-29,1,1
 figshare_actions2,2023-02-02,2,1
+figshare_actions2,2023-02-14,1,1
 figshare_autosync_check,2021-03-13,1,1
 figshare_autosync_check,2021-04-28,1,1
 figshare_autosync_check,2021-05-22,1,1
@@ -2119,7 +2121,7 @@ github-stats,2023-01-28,2,2
 github-stats,2023-01-29,2,2
 github-stats,2023-01-30,1,1
 github-stats,2023-01-31,1,1
-github-stats,2023-02-01,3,3
+github-stats,2023-02-01,1,1
 github-stats,2023-02-02,6,5
 github-stats,2023-02-03,2,2
 github-stats,2023-02-04,2,2
@@ -2132,6 +2134,7 @@ github-stats,2023-02-10,2,2
 github-stats,2023-02-11,2,2
 github-stats,2023-02-12,2,2
 github-stats,2023-02-13,3,3
+github-stats,2023-02-14,2,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -2420,6 +2423,7 @@ github-stats-pages,2023-01-27,1,1
 github-stats-pages,2023-02-02,2,1
 github-stats-pages,2023-02-03,1,1
 github-stats-pages,2023-02-10,1,1
+github-stats-pages,2023-02-14,1,1
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -2606,6 +2610,7 @@ site-hugo-academic,2023-01-24,1,1
 site-hugo-academic,2023-01-28,1,1
 site-hugo-academic,2023-02-02,2,1
 site-hugo-academic,2023-02-09,1,1
+site-hugo-academic,2023-02-14,1,1
 sqlmodel-learning,2022-05-22,13,6
 sqlmodel-learning,2022-05-23,2,2
 sqlmodel-learning,2022-05-25,13,5
@@ -2852,6 +2857,7 @@ sqltest-github-stats,2023-02-10,8,5
 sqltest-github-stats,2023-02-11,3,2
 sqltest-github-stats,2023-02-12,3,2
 sqltest-github-stats,2023-02-13,2,2
+sqltest-github-stats,2023-02-14,3,2
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -3575,7 +3581,7 @@ test-github-stats,2023-01-28,4,2
 test-github-stats,2023-01-29,3,2
 test-github-stats,2023-01-30,1,1
 test-github-stats,2023-01-31,2,1
-test-github-stats,2023-02-01,5,4
+test-github-stats,2023-02-01,2,2
 test-github-stats,2023-02-02,6,4
 test-github-stats,2023-02-03,1,1
 test-github-stats,2023-02-04,5,3
@@ -3588,6 +3594,7 @@ test-github-stats,2023-02-10,4,3
 test-github-stats,2023-02-11,9,5
 test-github-stats,2023-02-12,3,2
 test-github-stats,2023-02-13,9,6
+test-github-stats,2023-02-14,6,5
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
