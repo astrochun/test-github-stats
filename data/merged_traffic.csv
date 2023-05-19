@@ -666,6 +666,7 @@ github-stats,2023-02-25,2,1
 github-stats,2023-03-17,1,1
 github-stats,2023-04-07,1,1
 github-stats,2023-05-06,2,1
+github-stats,2023-05-18,3,1
 github-stats-pages,2021-02-12,4,1
 github-stats-pages,2021-02-13,1,1
 github-stats-pages,2021-02-19,3,1
@@ -1093,6 +1094,7 @@ github-stats-pages,2023-04-28,1,1
 github-stats-pages,2023-05-06,4,3
 github-stats-pages,2023-05-12,1,1
 github-stats-pages,2023-05-14,1,1
+github-stats-pages,2023-05-18,2,2
 manifests_with_flux,2021-05-21,1,1
 manifests_with_flux,2021-08-21,1,1
 old_website_nightsky,2021-07-10,1,1
@@ -1197,6 +1199,7 @@ tep-usage-analysis,2022-12-15,1,1
 tep-usage-analysis,2023-01-24,1,1
 tep-usage-analysis,2023-02-21,1,1
 tep-usage-analysis,2023-03-07,1,1
+tep-usage-analysis,2023-05-18,1,1
 test-github-stats,2021-04-03,19,1
 test-github-stats,2021-04-04,58,1
 test-github-stats,2021-04-05,1,1
