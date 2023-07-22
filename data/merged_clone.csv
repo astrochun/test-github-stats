@@ -2735,6 +2735,7 @@ github-stats,2023-07-17,1,1
 github-stats,2023-07-18,4,3
 github-stats,2023-07-19,4,3
 github-stats,2023-07-20,4,3
+github-stats,2023-07-21,4,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -3068,12 +3069,13 @@ github-stats-pages,2023-06-30,1,1
 github-stats-pages,2023-07-04,1,1
 github-stats-pages,2023-07-05,1,1
 github-stats-pages,2023-07-07,6,3
-github-stats-pages,2023-07-08,15,3
+github-stats-pages,2023-07-08,11,3
 github-stats-pages,2023-07-09,1,1
 github-stats-pages,2023-07-10,3,3
 github-stats-pages,2023-07-13,1,1
 github-stats-pages,2023-07-14,1,1
 github-stats-pages,2023-07-16,1,1
+github-stats-pages,2023-07-21,6,5
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -3739,6 +3741,7 @@ sqltest-github-stats,2023-07-17,5,4
 sqltest-github-stats,2023-07-18,4,3
 sqltest-github-stats,2023-07-19,4,3
 sqltest-github-stats,2023-07-20,3,2
+sqltest-github-stats,2023-07-21,3,2
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -4641,7 +4644,7 @@ test-github-stats,2023-07-04,3,2
 test-github-stats,2023-07-05,5,3
 test-github-stats,2023-07-06,1,1
 test-github-stats,2023-07-07,1,1
-test-github-stats,2023-07-08,5,3
+test-github-stats,2023-07-08,1,1
 test-github-stats,2023-07-09,5,4
 test-github-stats,2023-07-10,5,4
 test-github-stats,2023-07-11,4,3
@@ -4654,6 +4657,7 @@ test-github-stats,2023-07-17,2,2
 test-github-stats,2023-07-18,3,2
 test-github-stats,2023-07-19,3,3
 test-github-stats,2023-07-20,3,3
+test-github-stats,2023-07-21,2,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
