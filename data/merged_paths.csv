@@ -1843,6 +1843,16 @@ GNIRSLongSlit,2023-08-23,blob/master/cleanir.py.old,GNIRSLongSlit/cleanir.py.old
 GNIRSLongSlit,2023-08-23,blob/master/cleanir_script.py,GNIRSLongSlit/cleanir_script.py at master · astrochun/GNIRSLongSlit · GitHub,4,1
 GNIRSLongSlit,2023-08-23,blob/master/gnirsn_2012dec05_bpm.fits.gz,GNIRSLongSlit/gnirsn_2012dec05_bpm.fits.gz at master · astrochun/GNIRSLongSli...,4,1
 GNIRSLongSlit,2023-08-23,tree/master/GNIRSLongSlit,GNIRSLongSlit/GNIRSLongSlit at master · astrochun/GNIRSLongSlit · GitHub,13,3
+GNIRSLongSlit,2023-08-24,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,5,4
+GNIRSLongSlit,2023-08-24,blob/master/GNIRSLongSlit/iraf_get_subset.py,GNIRSLongSlit/GNIRSLongSlit/iraf_get_subset.py at master · astrochun/GNIRSLon...,5,2
+GNIRSLongSlit,2023-08-24,blob/master/GNIRSLongSlit/reduce.py,GNIRSLongSlit/GNIRSLongSlit/reduce.py at master · astrochun/GNIRSLongSlit · G...,6,1
+GNIRSLongSlit,2023-08-24,blob/master/README.md,GNIRSLongSlit/README.md at master · astrochun/GNIRSLongSlit · GitHub,7,2
+GNIRSLongSlit,2023-08-24,blob/master/cleanir.py,GNIRSLongSlit/cleanir.py at master · astrochun/GNIRSLongSlit · GitHub,4,1
+GNIRSLongSlit,2023-08-24,blob/master/cleanir.py.2017-Mar-11,GNIRSLongSlit/cleanir.py.2017-Mar-11 at master · astrochun/GNIRSLongSlit · Gi...,2,1
+GNIRSLongSlit,2023-08-24,blob/master/cleanir.py.old,GNIRSLongSlit/cleanir.py.old at master · astrochun/GNIRSLongSlit · GitHub,2,1
+GNIRSLongSlit,2023-08-24,blob/master/cleanir_script.py,GNIRSLongSlit/cleanir_script.py at master · astrochun/GNIRSLongSlit · GitHub,4,1
+GNIRSLongSlit,2023-08-24,blob/master/gnirsn_2012dec05_bpm.fits.gz,GNIRSLongSlit/gnirsn_2012dec05_bpm.fits.gz at master · astrochun/GNIRSLongSli...,4,1
+GNIRSLongSlit,2023-08-24,tree/master/GNIRSLongSlit,GNIRSLongSlit/GNIRSLongSlit at master · astrochun/GNIRSLongSlit · GitHub,13,3
 IntroPythonAstronomy,2021-06-22,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-23,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-24,,GitHub - astrochun/IntroPythonAstronomy,3,3
@@ -8386,6 +8396,8 @@ academic-ads-bibtex,2023-08-22,,GitHub - astrochun/academic-ads-bibtex: Construc
 academic-ads-bibtex,2023-08-22,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,2,1
 academic-ads-bibtex,2023-08-23,,GitHub - astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use...,1,1
 academic-ads-bibtex,2023-08-23,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,2,1
+academic-ads-bibtex,2023-08-24,,GitHub - astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use...,1,1
+academic-ads-bibtex,2023-08-24,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,2,1
 astrochun,2021-05-28,,astrochun/astrochun,1,1
 astrochun,2021-05-28,blob/5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861/README.md,astrochun/README.md at 5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861 · astrochun/a...,1,1
 astrochun,2021-05-29,,astrochun/astrochun,1,1
@@ -10993,6 +11005,7 @@ github-stats,2023-08-20,tree/main/.github/workflows,github-stats/.github/workflo
 github-stats,2023-08-21,,GitHub - astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-08-22,,GitHub - astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-08-23,,GitHub - astrochun/github-stats: My GitHub stats,1,1
+github-stats,2023-08-24,,GitHub - astrochun/github-stats: My GitHub stats,1,1
 github-stats-pages,2021-05-13,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,37,2
 github-stats-pages,2021-05-13,actions,Actions · astrochun/github-stats-pages,17,1
 github-stats-pages,2021-05-13,graphs/traffic,Traffic · astrochun/github-stats-pages,5,1
@@ -15486,6 +15499,9 @@ github-stats-pages,2023-08-22,issues/68,Docker messaging is incorrect · Issue #
 github-stats-pages,2023-08-23,,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,1,1
 github-stats-pages,2023-08-23,commit/7b3a48ca44f6115b468b92597114a76d1a3cb970,Add sleep time to address Docker log delay? #68 · astrochun/github-stats-page...,1,1
 github-stats-pages,2023-08-23,issues/68,Docker messaging is incorrect · Issue #68 · astrochun/github-stats-pages,1,1
+github-stats-pages,2023-08-24,,GitHub - astrochun/github-stats-pages: Retrieve statistics for a user's repos...,1,1
+github-stats-pages,2023-08-24,commit/7b3a48ca44f6115b468b92597114a76d1a3cb970,Add sleep time to address Docker log delay? #68 · astrochun/github-stats-page...,1,1
+github-stats-pages,2023-08-24,issues/68,Docker messaging is incorrect · Issue #68 · astrochun/github-stats-pages,1,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -16426,6 +16442,16 @@ site-hugo-academic,2023-08-23,edit/master/.github/workflows/hugo_deploy.yml,Edit
 site-hugo-academic,2023-08-23,tree/master/.github/workflows,site-hugo-academic/.github/workflows at master · astrochun/site-hugo-academic,2,1
 site-hugo-academic,2023-08-23,tree/master/static,site-hugo-academic/static at master · astrochun/site-hugo-academic,4,1
 site-hugo-academic,2023-08-23,tree/master/static/files,site-hugo-academic/static/files at master · astrochun/site-hugo-academic,4,1
+site-hugo-academic,2023-08-24,,astrochun/site-hugo-academic,4,1
+site-hugo-academic,2023-08-24,actions,Workflow Runs · astrochun/site-hugo-academic,5,1
+site-hugo-academic,2023-08-24,actions/runs/5884417325,Update CV and Bib 2023-08-13 · astrochun/site-hugo-academic@074a50f,2,1
+site-hugo-academic,2023-08-24,actions/runs/5884417325/job/15959089760,Update CV and Bib 2023-08-13 · astrochun/site-hugo-academic@074a50f,5,1
+site-hugo-academic,2023-08-24,actions/runs/5884417325/usage,Update CV and Bib 2023-08-13 · astrochun/site-hugo-academic@074a50f,1,1
+site-hugo-academic,2023-08-24,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/.github/workflows/hugo_deploy.yml at master · astrochun/si...,4,1
+site-hugo-academic,2023-08-24,edit/master/.github/workflows/hugo_deploy.yml,Editing site-hugo-academic/.github/workflows/hugo_deploy.yml at master · astr...,2,1
+site-hugo-academic,2023-08-24,tree/master/.github/workflows,site-hugo-academic/.github/workflows at master · astrochun/site-hugo-academic,2,1
+site-hugo-academic,2023-08-24,tree/master/static,site-hugo-academic/static at master · astrochun/site-hugo-academic,4,1
+site-hugo-academic,2023-08-24,tree/master/static/files,site-hugo-academic/static/files at master · astrochun/site-hugo-academic,4,1
 sqlmodel-learning,2022-05-23,,astrochun/sqlmodel-learning: A repo consisting of learning sqlite3 and sqlmodel,6,1
 sqlmodel-learning,2022-05-23,actions,Actions · astrochun/sqlmodel-learning,1,1
 sqlmodel-learning,2022-05-23,issues,Issues · astrochun/sqlmodel-learning,7,1
@@ -17723,6 +17749,8 @@ tep-usage-analysis,2023-08-17,,GitHub - astrochun/tep-usage-analysis: Analyze TE
 tep-usage-analysis,2023-08-18,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,1,1
 tep-usage-analysis,2023-08-23,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,1,1
 tep-usage-analysis,2023-08-23,releases,Releases · astrochun/tep-usage-analysis · GitHub,1,1
+tep-usage-analysis,2023-08-24,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,2,2
+tep-usage-analysis,2023-08-24,releases,Releases · astrochun/tep-usage-analysis · GitHub,1,1
 test-github-stats,2021-05-13,,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-clone-stats.csv,test-github-stats/2021-01-17-00h-46m-clone-stats.csv at main · astrochun/test...,1,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-referrer-stats.csv,test-github-stats/2021-01-17-00h-46m-referrer-stats.csv at main · astrochun/t...,3,1
