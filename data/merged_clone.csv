@@ -247,6 +247,7 @@ Evolution-of-Galaxies,2023-08-08,1,1
 Evolution-of-Galaxies,2023-08-10,3,3
 Evolution-of-Galaxies,2023-08-11,2,2
 Evolution-of-Galaxies,2023-08-12,1,1
+Evolution-of-Galaxies,2023-08-27,1,1
 Extract1D,2021-03-14,1,1
 Extract1D,2021-04-28,1,1
 Extract1D,2021-05-12,1,1
@@ -2871,7 +2872,7 @@ github-stats,2023-08-10,4,3
 github-stats,2023-08-11,4,3
 github-stats,2023-08-12,5,4
 github-stats,2023-08-13,1,1
-github-stats,2023-08-14,5,4
+github-stats,2023-08-14,1,1
 github-stats,2023-08-15,5,4
 github-stats,2023-08-16,4,3
 github-stats,2023-08-17,4,3
@@ -2884,6 +2885,8 @@ github-stats,2023-08-23,4,3
 github-stats,2023-08-24,4,3
 github-stats,2023-08-25,2,2
 github-stats,2023-08-26,4,3
+github-stats,2023-08-27,5,4
+github-stats,2023-08-28,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -3240,6 +3243,8 @@ github-stats-pages,2023-08-18,1,1
 github-stats-pages,2023-08-20,1,1
 github-stats-pages,2023-08-24,1,1
 github-stats-pages,2023-08-25,1,1
+github-stats-pages,2023-08-27,1,1
+github-stats-pages,2023-08-28,3,3
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -3952,7 +3957,7 @@ sqltest-github-stats,2023-08-10,1,1
 sqltest-github-stats,2023-08-11,1,1
 sqltest-github-stats,2023-08-12,3,2
 sqltest-github-stats,2023-08-13,1,1
-sqltest-github-stats,2023-08-14,5,4
+sqltest-github-stats,2023-08-14,2,2
 sqltest-github-stats,2023-08-15,4,3
 sqltest-github-stats,2023-08-16,4,3
 sqltest-github-stats,2023-08-17,4,3
@@ -3965,7 +3970,7 @@ sqltest-github-stats,2023-08-23,3,2
 sqltest-github-stats,2023-08-24,5,3
 sqltest-github-stats,2023-08-25,5,3
 sqltest-github-stats,2023-08-26,3,2
-sqltest-github-stats,2023-08-27,2,1
+sqltest-github-stats,2023-08-27,7,4
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -4910,7 +4915,7 @@ test-github-stats,2023-08-10,1,1
 test-github-stats,2023-08-11,3,3
 test-github-stats,2023-08-12,1,1
 test-github-stats,2023-08-13,1,1
-test-github-stats,2023-08-14,4,4
+test-github-stats,2023-08-14,2,2
 test-github-stats,2023-08-15,6,5
 test-github-stats,2023-08-16,4,4
 test-github-stats,2023-08-17,4,4
@@ -4923,6 +4928,7 @@ test-github-stats,2023-08-23,4,3
 test-github-stats,2023-08-24,4,3
 test-github-stats,2023-08-25,5,4
 test-github-stats,2023-08-26,7,5
+test-github-stats,2023-08-27,5,4
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
