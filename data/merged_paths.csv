@@ -7220,6 +7220,9 @@ Zcalbase_gal,2023-10-16,tree/master/analysis,Zcalbase_gal/analysis at master · 
 Zcalbase_gal,2023-10-17,,GitHub - astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration...,1,1
 Zcalbase_gal,2023-10-17,blob/master/analysis/deep2_r23_o32/zoom_and_gauss_general.py,Zcalbase_gal/analysis/deep2_r23_o32/zoom_and_gauss_general.py at master · ast...,8,1
 Zcalbase_gal,2023-10-17,tree/master/analysis,Zcalbase_gal/analysis at master · astrochun/Zcalbase_gal · GitHub,2,1
+Zcalbase_gal,2023-10-18,,GitHub - astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration...,1,1
+Zcalbase_gal,2023-10-18,blob/master/analysis/deep2_r23_o32/zoom_and_gauss_general.py,Zcalbase_gal/analysis/deep2_r23_o32/zoom_and_gauss_general.py at master · ast...,4,1
+Zcalbase_gal,2023-10-18,tree/master/analysis,Zcalbase_gal/analysis at master · astrochun/Zcalbase_gal · GitHub,2,1
 academic-ads-bibtex,2021-05-13,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
 academic-ads-bibtex,2021-05-14,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
 academic-ads-bibtex,2021-05-15,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
@@ -11376,6 +11379,7 @@ github-stats,2023-09-20,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-09-21,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-10-16,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-10-17,,astrochun/github-stats: My GitHub stats,1,1
+github-stats,2023-10-18,,astrochun/github-stats: My GitHub stats,1,1
 github-stats-pages,2021-05-13,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,37,2
 github-stats-pages,2021-05-13,actions,Actions · astrochun/github-stats-pages,17,1
 github-stats-pages,2021-05-13,graphs/traffic,Traffic · astrochun/github-stats-pages,5,1
@@ -15964,6 +15968,9 @@ github-stats-pages,2023-10-16,,astrochun/github-stats-pages: Retrieve statistics
 github-stats-pages,2023-10-17,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,2,2
 github-stats-pages,2023-10-17,actions,Python package · Workflow runs · astrochun/github-stats-pages,1,1
 github-stats-pages,2023-10-17,issues,Issues · astrochun/github-stats-pages,1,1
+github-stats-pages,2023-10-18,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,2,2
+github-stats-pages,2023-10-18,actions,Python package · Workflow runs · astrochun/github-stats-pages,1,1
+github-stats-pages,2023-10-18,issues,Issues · astrochun/github-stats-pages,1,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -17901,6 +17908,7 @@ sqltest-github-stats,2023-10-14,,astrochun/sqltest-github-stats,1,1
 sqltest-github-stats,2023-10-15,,astrochun/sqltest-github-stats,2,2
 sqltest-github-stats,2023-10-16,,astrochun/sqltest-github-stats,2,2
 sqltest-github-stats,2023-10-17,,astrochun/sqltest-github-stats,1,1
+sqltest-github-stats,2023-10-18,,astrochun/sqltest-github-stats,1,1
 system_profiler,2021-10-28,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-01,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-02,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
@@ -17995,6 +18003,8 @@ system_profiler,2023-10-16,,GitHub - astrochun/system_profiler: Wrapper library 
 system_profiler,2023-10-16,blob/master/system_profiler.py,system_profiler/system_profiler.py at master · astrochun/system_profiler · Gi...,2,1
 system_profiler,2023-10-17,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2023-10-17,blob/master/system_profiler.py,system_profiler/system_profiler.py at master · astrochun/system_profiler · Gi...,2,1
+system_profiler,2023-10-18,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
+system_profiler,2023-10-18,blob/master/system_profiler.py,system_profiler/system_profiler.py at master · astrochun/system_profiler · Gi...,2,1
 tep-usage-analysis,2022-08-19,,astrochun/tep-usage-analysis: Analyze TEP usage,2,1
 tep-usage-analysis,2022-08-19,issues,Issues · astrochun/tep-usage-analysis,1,1
 tep-usage-analysis,2022-08-20,,astrochun/tep-usage-analysis: Analyze TEP usage,2,1
@@ -25003,6 +25013,7 @@ uarizona-salary-app,2023-10-14,,GitHub - astrochun/uarizona-salary-app: Streamli
 uarizona-salary-app,2023-10-15,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,2,2
 uarizona-salary-app,2023-10-16,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,2,2
 uarizona-salary-app,2023-10-17,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,2,2
+uarizona-salary-app,2023-10-18,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,2,2
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
