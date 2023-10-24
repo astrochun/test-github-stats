@@ -1915,6 +1915,7 @@ GNIRSLongSlit,2023-09-26,tree/master/GNIRSLongSlit,GNIRSLongSlit/GNIRSLongSlit a
 GNIRSLongSlit,2023-09-27,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,1,1
 GNIRSLongSlit,2023-09-27,tree/master/GNIRSLongSlit,GNIRSLongSlit/GNIRSLongSlit at master · astrochun/GNIRSLongSlit · GitHub,2,1
 GNIRSLongSlit,2023-10-23,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,1,1
+GNIRSLongSlit,2023-10-24,,GitHub - astrochun/GNIRSLongSlit: Python 2.7 codes to reduce Longslit data fr...,1,1
 IntroPythonAstronomy,2021-06-22,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-23,,GitHub - astrochun/IntroPythonAstronomy,3,3
 IntroPythonAstronomy,2021-06-24,,GitHub - astrochun/IntroPythonAstronomy,3,3
@@ -11401,6 +11402,7 @@ github-stats,2023-10-20,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-10-21,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-10-22,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-10-23,,astrochun/github-stats: My GitHub stats,1,1
+github-stats,2023-10-24,,astrochun/github-stats: My GitHub stats,1,1
 github-stats-pages,2021-05-13,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,37,2
 github-stats-pages,2021-05-13,actions,Actions · astrochun/github-stats-pages,17,1
 github-stats-pages,2021-05-13,graphs/traffic,Traffic · astrochun/github-stats-pages,5,1
@@ -16012,6 +16014,10 @@ github-stats-pages,2023-10-23,,astrochun/github-stats-pages: Retrieve statistics
 github-stats-pages,2023-10-23,actions,Python package · Workflow runs · astrochun/github-stats-pages,1,1
 github-stats-pages,2023-10-23,issues,Issues · astrochun/github-stats-pages,1,1
 github-stats-pages,2023-10-23,issues/68,Docker messaging is incorrect · Issue #68 · astrochun/github-stats-pages,1,1
+github-stats-pages,2023-10-24,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,2,2
+github-stats-pages,2023-10-24,actions,Python package · Workflow runs · astrochun/github-stats-pages,1,1
+github-stats-pages,2023-10-24,issues,Issues · astrochun/github-stats-pages,1,1
+github-stats-pages,2023-10-24,issues/68,Docker messaging is incorrect · Issue #68 · astrochun/github-stats-pages,1,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -17955,6 +17961,7 @@ sqltest-github-stats,2023-10-20,,astrochun/sqltest-github-stats,1,1
 sqltest-github-stats,2023-10-21,,astrochun/sqltest-github-stats,1,1
 sqltest-github-stats,2023-10-22,,astrochun/sqltest-github-stats,1,1
 sqltest-github-stats,2023-10-23,,astrochun/sqltest-github-stats,1,1
+sqltest-github-stats,2023-10-24,,astrochun/sqltest-github-stats,1,1
 system_profiler,2021-10-28,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-01,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-02,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
@@ -25069,6 +25076,7 @@ uarizona-salary-app,2023-10-20,,GitHub - astrochun/uarizona-salary-app: Streamli
 uarizona-salary-app,2023-10-21,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,2,2
 uarizona-salary-app,2023-10-22,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,2,2
 uarizona-salary-app,2023-10-23,,astrochun/uarizona-salary-app: Streamlit app to illustrate University of Ariz...,1,1
+uarizona-salary-app,2023-10-24,,astrochun/uarizona-salary-app: Streamlit app to illustrate University of Ariz...,1,1
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
