@@ -1443,6 +1443,7 @@ academic-ads-bibtex,2023-10-10,2,1
 academic-ads-bibtex,2023-10-20,1,1
 academic-ads-bibtex,2023-10-22,1,1
 academic-ads-bibtex,2023-10-23,1,1
+academic-ads-bibtex,2023-10-25,1,1
 astrochun,2021-02-21,1,1
 astrochun,2021-04-14,1,1
 astrochun,2021-04-18,1,1
@@ -3162,7 +3163,7 @@ github-stats,2023-10-08,4,3
 github-stats,2023-10-09,5,3
 github-stats,2023-10-10,4,3
 github-stats,2023-10-11,4,3
-github-stats,2023-10-12,3,3
+github-stats,2023-10-12,1,1
 github-stats,2023-10-13,4,3
 github-stats,2023-10-14,4,3
 github-stats,2023-10-15,4,3
@@ -3175,6 +3176,7 @@ github-stats,2023-10-21,2,2
 github-stats,2023-10-22,3,3
 github-stats,2023-10-23,4,4
 github-stats,2023-10-24,4,4
+github-stats,2023-10-25,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -3845,6 +3847,7 @@ site-hugo-academic,2023-09-24,3,1
 site-hugo-academic,2023-10-05,1,1
 site-hugo-academic,2023-10-08,2,1
 site-hugo-academic,2023-10-10,4,2
+site-hugo-academic,2023-10-25,1,1
 sqlmodel-learning,2022-05-22,13,6
 sqlmodel-learning,2022-05-23,2,2
 sqlmodel-learning,2022-05-25,13,5
@@ -4368,6 +4371,7 @@ sqltest-github-stats,2023-10-21,3,3
 sqltest-github-stats,2023-10-22,3,3
 sqltest-github-stats,2023-10-23,4,4
 sqltest-github-stats,2023-10-24,3,3
+sqltest-github-stats,2023-10-25,3,3
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -5386,7 +5390,7 @@ test-github-stats,2023-10-08,2,2
 test-github-stats,2023-10-09,3,2
 test-github-stats,2023-10-10,2,2
 test-github-stats,2023-10-11,2,2
-test-github-stats,2023-10-12,4,3
+test-github-stats,2023-10-12,2,1
 test-github-stats,2023-10-13,4,3
 test-github-stats,2023-10-14,4,3
 test-github-stats,2023-10-15,2,2
@@ -5399,6 +5403,7 @@ test-github-stats,2023-10-21,4,3
 test-github-stats,2023-10-22,2,2
 test-github-stats,2023-10-23,3,3
 test-github-stats,2023-10-24,2,2
+test-github-stats,2023-10-25,2,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
@@ -5858,3 +5863,4 @@ voxcharta-my-voting-record,2023-10-10,2,1
 voxcharta-my-voting-record,2023-10-15,1,1
 voxcharta-my-voting-record,2023-10-20,1,1
 voxcharta-my-voting-record,2023-10-24,2,2
+voxcharta-my-voting-record,2023-10-25,1,1
