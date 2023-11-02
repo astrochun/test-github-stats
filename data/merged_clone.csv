@@ -276,6 +276,7 @@ Evolution-of-Galaxies,2023-10-10,4,2
 Evolution-of-Galaxies,2023-10-16,1,1
 Evolution-of-Galaxies,2023-10-23,1,1
 Evolution-of-Galaxies,2023-10-24,1,1
+Evolution-of-Galaxies,2023-11-01,1,1
 Extract1D,2021-03-14,1,1
 Extract1D,2021-04-28,1,1
 Extract1D,2021-05-12,1,1
@@ -423,6 +424,7 @@ GNIRSLongSlit,2023-10-08,1,1
 GNIRSLongSlit,2023-10-09,2,1
 GNIRSLongSlit,2023-10-12,1,1
 GNIRSLongSlit,2023-10-14,1,1
+GNIRSLongSlit,2023-11-01,1,1
 IntroPythonAstronomy,2021-03-12,1,1
 IntroPythonAstronomy,2021-05-18,1,1
 IntroPythonAstronomy,2021-07-07,1,1
@@ -557,6 +559,7 @@ MMTtools,2023-10-09,2,1
 MMTtools,2023-10-10,2,1
 MMTtools,2023-10-14,2,1
 MMTtools,2023-10-17,1,1
+MMTtools,2023-11-01,2,2
 MZEnv,2021-05-08,1,1
 MZEnv,2021-06-03,1,1
 MZEnv,2021-07-19,1,1
@@ -3189,6 +3192,7 @@ github-stats,2023-10-28,2,2
 github-stats,2023-10-29,3,3
 github-stats,2023-10-30,4,4
 github-stats,2023-10-31,3,3
+github-stats,2023-11-01,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -3675,6 +3679,7 @@ overleaf_github_demo,2023-08-31,2,1
 overleaf_github_demo,2023-09-28,1,1
 overleaf_github_demo,2023-10-08,1,1
 overleaf_github_demo,2023-10-10,2,1
+overleaf_github_demo,2023-11-01,1,1
 simplenodeapp,2021-03-05,1,1
 simplenodeapp,2021-05-22,1,1
 simplenodeapp,2021-06-09,1,1
@@ -4378,7 +4383,7 @@ sqltest-github-stats,2023-10-15,2,1
 sqltest-github-stats,2023-10-16,2,2
 sqltest-github-stats,2023-10-17,2,1
 sqltest-github-stats,2023-10-18,3,3
-sqltest-github-stats,2023-10-19,5,4
+sqltest-github-stats,2023-10-19,2,1
 sqltest-github-stats,2023-10-20,3,3
 sqltest-github-stats,2023-10-21,3,3
 sqltest-github-stats,2023-10-22,3,3
@@ -4391,6 +4396,7 @@ sqltest-github-stats,2023-10-28,3,3
 sqltest-github-stats,2023-10-29,3,2
 sqltest-github-stats,2023-10-30,4,4
 sqltest-github-stats,2023-10-31,3,3
+sqltest-github-stats,2023-11-01,7,5
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -5416,7 +5422,7 @@ test-github-stats,2023-10-15,2,2
 test-github-stats,2023-10-16,4,3
 test-github-stats,2023-10-17,2,1
 test-github-stats,2023-10-18,2,1
-test-github-stats,2023-10-19,4,3
+test-github-stats,2023-10-19,2,1
 test-github-stats,2023-10-20,2,2
 test-github-stats,2023-10-21,4,3
 test-github-stats,2023-10-22,2,2
@@ -5429,6 +5435,7 @@ test-github-stats,2023-10-28,3,2
 test-github-stats,2023-10-29,4,3
 test-github-stats,2023-10-30,3,3
 test-github-stats,2023-10-31,2,2
+test-github-stats,2023-11-01,4,3
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
