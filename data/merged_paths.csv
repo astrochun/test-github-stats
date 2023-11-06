@@ -3224,6 +3224,7 @@ MMTtools,2023-08-07,,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x co
 MMTtools,2023-08-08,,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,1,1
 MMTtools,2023-11-04,,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,1,1
 MMTtools,2023-11-05,,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,1,1
+MMTtools,2023-11-06,,GitHub - astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with da...,1,1
 MZEnv,2021-06-22,,astrochun/MZEnv: Python 2.7 repository for environmental study of the M-Z rel...,4,1
 MZEnv,2021-06-22,graphs/traffic,Traffic · astrochun/MZEnv,2,1
 MZEnv,2021-06-22,pulse,Pulse · astrochun/MZEnv,2,1
@@ -4677,6 +4678,7 @@ Metallicity_Stack_Commons,2023-11-02,,astrochun/Metallicity_Stack_Commons: Set o
 Metallicity_Stack_Commons,2023-11-03,,astrochun/Metallicity_Stack_Commons: Set of common codes used in metallicity ...,1,1
 Metallicity_Stack_Commons,2023-11-04,,astrochun/Metallicity_Stack_Commons: Set of common codes used in metallicity ...,1,1
 Metallicity_Stack_Commons,2023-11-05,,astrochun/Metallicity_Stack_Commons: Set of common codes used in metallicity ...,1,1
+Metallicity_Stack_Commons,2023-11-06,,astrochun/Metallicity_Stack_Commons: Set of common codes used in metallicity ...,1,1
 MyExpressApp,2021-05-24,,GitHub - astrochun/MyExpressApp,1,1
 MyExpressApp,2021-05-25,,GitHub - astrochun/MyExpressApp,1,1
 MyExpressApp,2021-05-26,,GitHub - astrochun/MyExpressApp,1,1
@@ -8731,6 +8733,8 @@ academic-ads-bibtex,2023-11-04,,astrochun/academic-ads-bibtex: Construct a prope
 academic-ads-bibtex,2023-11-04,releases,Releases · astrochun/academic-ads-bibtex,1,1
 academic-ads-bibtex,2023-11-05,,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,3,3
 academic-ads-bibtex,2023-11-05,releases,Releases · astrochun/academic-ads-bibtex,1,1
+academic-ads-bibtex,2023-11-06,,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,3,3
+academic-ads-bibtex,2023-11-06,releases,Releases · astrochun/academic-ads-bibtex,1,1
 astrochun,2021-05-28,,astrochun/astrochun,1,1
 astrochun,2021-05-28,blob/5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861/README.md,astrochun/README.md at 5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861 · astrochun/a...,1,1
 astrochun,2021-05-29,,astrochun/astrochun,1,1
@@ -11444,6 +11448,7 @@ github-stats,2023-11-02,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-11-03,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-11-04,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-11-05,,astrochun/github-stats: My GitHub stats,1,1
+github-stats,2023-11-06,,astrochun/github-stats: My GitHub stats,1,1
 github-stats-pages,2021-05-13,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,37,2
 github-stats-pages,2021-05-13,actions,Actions · astrochun/github-stats-pages,17,1
 github-stats-pages,2021-05-13,graphs/traffic,Traffic · astrochun/github-stats-pages,5,1
@@ -16087,6 +16092,7 @@ github-stats-pages,2023-11-02,,astrochun/github-stats-pages: Retrieve statistics
 github-stats-pages,2023-11-03,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,4,4
 github-stats-pages,2023-11-04,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,4,4
 github-stats-pages,2023-11-05,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,4,4
+github-stats-pages,2023-11-06,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,4,4
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -18527,6 +18533,7 @@ tep-usage-analysis,2023-09-04,,GitHub - astrochun/tep-usage-analysis: Analyze TE
 tep-usage-analysis,2023-11-03,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,1,1
 tep-usage-analysis,2023-11-04,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,1,1
 tep-usage-analysis,2023-11-05,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,1,1
+tep-usage-analysis,2023-11-06,,GitHub - astrochun/tep-usage-analysis: Analyze TEP usage,1,1
 test-github-stats,2021-05-13,,astrochun/test-github-stats: Testing of GitHub action for GitHub pages deploy...,2,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-clone-stats.csv,test-github-stats/2021-01-17-00h-46m-clone-stats.csv at main · astrochun/test...,1,1
 test-github-stats,2021-05-13,blob/main/data/2021-01-17-00h-46m-referrer-stats.csv,test-github-stats/2021-01-17-00h-46m-referrer-stats.csv at main · astrochun/t...,3,1
@@ -25179,6 +25186,11 @@ uarizona-salary-app,2023-11-05,issues/86,Raw data is gone · Issue #86 · astroc
 uarizona-salary-app,2023-11-05,issues/87,Memory Leak During Execution Resulted in System32 Folder Corruption · Issue #...,2,1
 uarizona-salary-app,2023-11-05,tree/main/assets,uarizona-salary-app/assets at main · astrochun/uarizona-salary-app · GitHub,2,1
 uarizona-salary-app,2023-11-05,tree/main/salary_app,uarizona-salary-app/salary_app at main · astrochun/uarizona-salary-app · GitHub,3,1
+uarizona-salary-app,2023-11-06,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,1,1
+uarizona-salary-app,2023-11-06,issues/86,Raw data is gone · Issue #86 · astrochun/uarizona-salary-app,1,1
+uarizona-salary-app,2023-11-06,issues/87,Memory Leak During Execution Resulted in System32 Folder Corruption · Issue #...,2,1
+uarizona-salary-app,2023-11-06,tree/main/assets,uarizona-salary-app/assets at main · astrochun/uarizona-salary-app · GitHub,2,1
+uarizona-salary-app,2023-11-06,tree/main/salary_app,uarizona-salary-app/salary_app at main · astrochun/uarizona-salary-app · GitHub,3,1
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
