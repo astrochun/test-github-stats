@@ -1336,6 +1336,7 @@ Zcalbase_gal,2023-10-23,1,1
 Zcalbase_gal,2023-10-24,1,1
 Zcalbase_gal,2023-10-30,1,1
 Zcalbase_gal,2023-11-06,1,1
+Zcalbase_gal,2023-11-10,1,1
 academic-ads-bibtex,2021-01-06,5,4
 academic-ads-bibtex,2021-01-09,1,1
 academic-ads-bibtex,2021-01-11,1,1
@@ -3226,6 +3227,7 @@ github-stats,2023-11-06,4,4
 github-stats,2023-11-07,3,3
 github-stats,2023-11-08,3,3
 github-stats,2023-11-09,3,3
+github-stats,2023-11-10,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -3605,6 +3607,7 @@ github-stats-pages,2023-10-27,1,1
 github-stats-pages,2023-11-03,1,1
 github-stats-pages,2023-11-04,2,2
 github-stats-pages,2023-11-05,1,1
+github-stats-pages,2023-11-10,2,2
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -4441,6 +4444,7 @@ sqltest-github-stats,2023-11-06,8,6
 sqltest-github-stats,2023-11-07,5,4
 sqltest-github-stats,2023-11-08,5,4
 sqltest-github-stats,2023-11-09,5,4
+sqltest-github-stats,2023-11-10,3,3
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -5489,6 +5493,7 @@ test-github-stats,2023-11-06,5,4
 test-github-stats,2023-11-07,4,3
 test-github-stats,2023-11-08,4,3
 test-github-stats,2023-11-09,4,3
+test-github-stats,2023-11-10,4,3
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
