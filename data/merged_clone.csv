@@ -1652,6 +1652,7 @@ astrochun.github.io,2023-10-11,1,1
 astrochun.github.io,2023-10-23,1,1
 astrochun.github.io,2023-10-26,1,1
 astrochun.github.io,2023-11-04,2,2
+astrochun.github.io,2023-11-20,1,1
 chun_codes,2021-01-09,1,1
 chun_codes,2021-01-10,1,1
 chun_codes,2021-01-16,12,1
@@ -3241,6 +3242,7 @@ github-stats,2023-11-16,3,3
 github-stats,2023-11-17,3,3
 github-stats,2023-11-18,3,3
 github-stats,2023-11-19,3,3
+github-stats,2023-11-20,4,4
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -4459,7 +4461,7 @@ sqltest-github-stats,2023-11-03,2,1
 sqltest-github-stats,2023-11-04,2,1
 sqltest-github-stats,2023-11-05,2,1
 sqltest-github-stats,2023-11-06,3,2
-sqltest-github-stats,2023-11-07,5,4
+sqltest-github-stats,2023-11-07,2,1
 sqltest-github-stats,2023-11-08,5,4
 sqltest-github-stats,2023-11-09,5,4
 sqltest-github-stats,2023-11-10,3,3
@@ -4472,6 +4474,7 @@ sqltest-github-stats,2023-11-16,3,3
 sqltest-github-stats,2023-11-17,5,4
 sqltest-github-stats,2023-11-18,3,3
 sqltest-github-stats,2023-11-19,1,1
+sqltest-github-stats,2023-11-20,2,2
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -5517,7 +5520,7 @@ test-github-stats,2023-11-03,4,1
 test-github-stats,2023-11-04,2,1
 test-github-stats,2023-11-05,4,1
 test-github-stats,2023-11-06,3,2
-test-github-stats,2023-11-07,4,3
+test-github-stats,2023-11-07,2,1
 test-github-stats,2023-11-08,4,3
 test-github-stats,2023-11-09,4,3
 test-github-stats,2023-11-10,4,3
@@ -5530,6 +5533,7 @@ test-github-stats,2023-11-16,5,4
 test-github-stats,2023-11-17,5,4
 test-github-stats,2023-11-18,7,5
 test-github-stats,2023-11-19,5,4
+test-github-stats,2023-11-20,7,6
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
