@@ -1074,6 +1074,7 @@ Telluric_Flux,2023-09-29,1,1
 Telluric_Flux,2023-10-08,1,1
 Telluric_Flux,2023-10-10,2,1
 Telluric_Flux,2023-10-12,2,1
+Telluric_Flux,2023-11-29,1,1
 Zcalbase,2021-04-25,1,1
 Zcalbase,2021-05-21,1,1
 Zcalbase,2021-07-11,1,1
@@ -3260,6 +3261,7 @@ github-stats,2023-11-25,3,3
 github-stats,2023-11-26,2,2
 github-stats,2023-11-27,4,4
 github-stats,2023-11-28,2,2
+github-stats,2023-11-29,2,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -4505,6 +4507,7 @@ sqltest-github-stats,2023-11-25,1,1
 sqltest-github-stats,2023-11-26,1,1
 sqltest-github-stats,2023-11-27,1,1
 sqltest-github-stats,2023-11-28,1,1
+sqltest-github-stats,2023-11-29,1,1
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -5560,7 +5563,7 @@ test-github-stats,2023-11-12,2,2
 test-github-stats,2023-11-13,3,2
 test-github-stats,2023-11-14,2,1
 test-github-stats,2023-11-15,2,1
-test-github-stats,2023-11-16,5,4
+test-github-stats,2023-11-16,2,1
 test-github-stats,2023-11-17,5,4
 test-github-stats,2023-11-18,7,5
 test-github-stats,2023-11-19,5,4
@@ -5573,6 +5576,7 @@ test-github-stats,2023-11-25,6,4
 test-github-stats,2023-11-26,5,4
 test-github-stats,2023-11-27,6,5
 test-github-stats,2023-11-28,5,4
+test-github-stats,2023-11-29,4,3
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
