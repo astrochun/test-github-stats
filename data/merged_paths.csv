@@ -11637,6 +11637,10 @@ github-stats,2023-11-30,,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-11-30,blob/main/.github/workflows/gh-pages-deploy.yml,github-stats/.github/workflows/gh-pages-deploy.yml at main · astrochun/github...,3,1
 github-stats,2023-11-30,tree/main,astrochun/github-stats: My GitHub stats,1,1
 github-stats,2023-11-30,tree/main/.github/workflows,github-stats/.github/workflows at main · astrochun/github-stats,4,1
+github-stats,2023-12-01,,astrochun/github-stats: My GitHub stats,1,1
+github-stats,2023-12-01,blob/main/.github/workflows/gh-pages-deploy.yml,github-stats/.github/workflows/gh-pages-deploy.yml at main · astrochun/github...,3,1
+github-stats,2023-12-01,tree/main,astrochun/github-stats: My GitHub stats,1,1
+github-stats,2023-12-01,tree/main/.github/workflows,github-stats/.github/workflows at main · astrochun/github-stats,4,1
 github-stats-pages,2021-05-13,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,37,2
 github-stats-pages,2021-05-13,actions,Actions · astrochun/github-stats-pages,17,1
 github-stats-pages,2021-05-13,graphs/traffic,Traffic · astrochun/github-stats-pages,5,1
@@ -16324,6 +16328,10 @@ github-stats-pages,2023-11-30,,GitHub - astrochun/github-stats-pages: Retrieve s
 github-stats-pages,2023-11-30,fork,Fork astrochun/github-stats-pages,2,1
 github-stats-pages,2023-11-30,issues,Issues · astrochun/github-stats-pages,3,1
 github-stats-pages,2023-11-30,pulls,Pull requests · astrochun/github-stats-pages,1,1
+github-stats-pages,2023-12-01,,astrochun/github-stats-pages: Retrieve statistics for a user's repositories a...,5,2
+github-stats-pages,2023-12-01,fork,Fork astrochun/github-stats-pages,2,1
+github-stats-pages,2023-12-01,issues,Issues · astrochun/github-stats-pages,3,1
+github-stats-pages,2023-12-01,pulls,Pull requests · astrochun/github-stats-pages,1,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
@@ -17358,6 +17366,7 @@ site-hugo-academic,2023-09-26,actions,Workflow runs · astrochun/site-hugo-acade
 site-hugo-academic,2023-09-26,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/.github/workflows/hugo_deploy.yml at master · astrochun/si...,4,2
 site-hugo-academic,2023-09-27,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/.github/workflows/hugo_deploy.yml at master · astrochun/si...,2,1
 site-hugo-academic,2023-11-30,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/.github/workflows/hugo_deploy.yml at master · astrochun/si...,2,1
+site-hugo-academic,2023-12-01,blob/master/.github/workflows/hugo_deploy.yml,site-hugo-academic/.github/workflows/hugo_deploy.yml at master · astrochun/si...,2,1
 sqlmodel-learning,2022-05-23,,astrochun/sqlmodel-learning: A repo consisting of learning sqlite3 and sqlmodel,6,1
 sqlmodel-learning,2022-05-23,actions,Actions · astrochun/sqlmodel-learning,1,1
 sqlmodel-learning,2022-05-23,issues,Issues · astrochun/sqlmodel-learning,7,1
@@ -18291,6 +18300,10 @@ sqltest-github-stats,2023-11-30,actions/runs/6925055133,Deploy GitHub pages with
 sqltest-github-stats,2023-11-30,actions/runs/6925055133/job/18835156399,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@e1456...,1,1
 sqltest-github-stats,2023-11-30,actions/runs/7013721636,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@e1456...,1,1
 sqltest-github-stats,2023-11-30,actions/runs/7013721636/job/19080315331,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@e1456...,1,1
+sqltest-github-stats,2023-12-01,actions/runs/6925055133,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@e1456...,1,1
+sqltest-github-stats,2023-12-01,actions/runs/6925055133/job/18835156399,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@e1456...,1,1
+sqltest-github-stats,2023-12-01,actions/runs/7013721636,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@e1456...,1,1
+sqltest-github-stats,2023-12-01,actions/runs/7013721636/job/19080315331,Deploy GitHub pages with traffic stats · astrochun/sqltest-github-stats@e1456...,1,1
 system_profiler,2021-10-28,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-01,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
 system_profiler,2021-11-02,,GitHub - astrochun/system_profiler: Wrapper library for OS X system_profiler,1,1
@@ -25518,6 +25531,7 @@ uarizona-salary-app,2023-11-29,commits/main,Commits · astrochun/uarizona-salary
 uarizona-salary-app,2023-11-30,,GitHub - astrochun/uarizona-salary-app: Streamlit app to illustrate Universit...,3,2
 uarizona-salary-app,2023-11-30,blob/main/README.md,uarizona-salary-app/README.md at main · astrochun/uarizona-salary-app · GitHub,2,1
 uarizona-salary-app,2023-11-30,commits/main,Commits · astrochun/uarizona-salary-app · GitHub,1,1
+uarizona-salary-app,2023-12-01,,astrochun/uarizona-salary-app: Streamlit app to illustrate University of Ariz...,2,1
 voxcharta-my-voting-record,2021-05-13,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-14,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
 voxcharta-my-voting-record,2021-05-15,,GitHub - astrochun/voxcharta-my-voting-record: A Python tool to extract infor...,1,1
