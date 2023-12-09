@@ -2318,6 +2318,7 @@ figshare_test2,2023-10-08,1,1
 figshare_test2,2023-10-09,2,1
 figshare_test2,2023-10-17,1,1
 figshare_test2,2023-11-03,1,1
+figshare_test2,2023-12-08,1,1
 github-stats,2021-03-31,1,1
 github-stats,2021-04-04,2,2
 github-stats,2021-04-05,2,2
@@ -3288,6 +3289,7 @@ github-stats,2023-12-04,3,3
 github-stats,2023-12-05,4,4
 github-stats,2023-12-06,3,3
 github-stats,2023-12-07,3,3
+github-stats,2023-12-08,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -3676,6 +3678,7 @@ github-stats-pages,2023-11-26,2,1
 github-stats-pages,2023-11-27,2,2
 github-stats-pages,2023-11-30,1,1
 github-stats-pages,2023-12-04,1,1
+github-stats-pages,2023-12-08,1,1
 manifests_with_flux,2021-02-27,1,1
 manifests_with_flux,2021-03-13,1,1
 manifests_with_flux,2021-05-07,1,1
@@ -4547,6 +4550,7 @@ sqltest-github-stats,2023-12-04,1,1
 sqltest-github-stats,2023-12-05,1,1
 sqltest-github-stats,2023-12-06,1,1
 sqltest-github-stats,2023-12-07,1,1
+sqltest-github-stats,2023-12-08,1,1
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -5612,7 +5616,7 @@ test-github-stats,2023-11-21,2,1
 test-github-stats,2023-11-22,3,3
 test-github-stats,2023-11-23,2,1
 test-github-stats,2023-11-24,2,1
-test-github-stats,2023-11-25,6,4
+test-github-stats,2023-11-25,2,1
 test-github-stats,2023-11-26,5,4
 test-github-stats,2023-11-27,6,5
 test-github-stats,2023-11-28,5,4
@@ -5625,6 +5629,7 @@ test-github-stats,2023-12-04,7,6
 test-github-stats,2023-12-05,6,5
 test-github-stats,2023-12-06,5,4
 test-github-stats,2023-12-07,4,3
+test-github-stats,2023-12-08,6,5
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
@@ -5943,6 +5948,7 @@ uarizona-salary-app,2023-10-09,2,1
 uarizona-salary-app,2023-10-23,1,1
 uarizona-salary-app,2023-11-04,1,1
 uarizona-salary-app,2023-11-06,1,1
+uarizona-salary-app,2023-12-08,1,1
 voxcharta-my-voting-record,2021-01-04,2,2
 voxcharta-my-voting-record,2021-01-07,1,1
 voxcharta-my-voting-record,2021-01-12,1,1
