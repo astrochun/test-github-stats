@@ -3340,6 +3340,8 @@ MMTtools,2023-12-31,,astrochun/MMTtools: A set of Python 2.7 and 3.x codes to us
 MMTtools,2023-12-31,blob/master/Documentation_for_mmirs_pipeline_taskfile.pdf,MMTtools/Documentation_for_mmirs_pipeline_taskfile.pdf at master · astrochun/...,6,1
 MMTtools,2024-01-01,,astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with data from MMT,3,1
 MMTtools,2024-01-01,blob/master/Documentation_for_mmirs_pipeline_taskfile.pdf,MMTtools/Documentation_for_mmirs_pipeline_taskfile.pdf at master · astrochun/...,6,1
+MMTtools,2024-01-02,,astrochun/MMTtools: A set of Python 2.7 and 3.x codes to use with data from MMT,3,1
+MMTtools,2024-01-02,blob/master/Documentation_for_mmirs_pipeline_taskfile.pdf,MMTtools/Documentation_for_mmirs_pipeline_taskfile.pdf at master · astrochun/...,6,1
 MZEnv,2021-06-22,,astrochun/MZEnv: Python 2.7 repository for environmental study of the M-Z rel...,4,1
 MZEnv,2021-06-22,graphs/traffic,Traffic · astrochun/MZEnv,2,1
 MZEnv,2021-06-22,pulse,Pulse · astrochun/MZEnv,2,1
@@ -7551,6 +7553,7 @@ Zcalbase_gal,2023-12-31,tree/master/analysis/deep2_r23_o32,Zcalbase_gal/analysis
 Zcalbase_gal,2023-12-31,tree/master/analysis/deep2_r23_o32/binning,Zcalbase_gal/analysis/deep2_r23_o32/binning at master · astrochun/Zcalbase_gal,2,1
 Zcalbase_gal,2023-12-31,tree/master/analysis/deep2_r23_o32/plotting,Zcalbase_gal/analysis/deep2_r23_o32/plotting at master · astrochun/Zcalbase_gal,2,1
 Zcalbase_gal,2024-01-01,,GitHub - astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration...,1,1
+Zcalbase_gal,2024-01-02,,GitHub - astrochun/Zcalbase_gal: Python 3.x codes for Metallicity Calibration...,1,1
 academic-ads-bibtex,2021-05-13,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
 academic-ads-bibtex,2021-05-14,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
 academic-ads-bibtex,2021-05-15,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,1,1
@@ -9167,6 +9170,16 @@ academic-ads-bibtex,2024-01-01,blob/main/setup.py,academic-ads-bibtex/setup.py a
 academic-ads-bibtex,2024-01-01,tree/main/academic_ads_bibtex,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibtex,11,1
 academic-ads-bibtex,2024-01-01,tree/main/academic_ads_bibtex/database,academic-ads-bibtex/academic_ads_bibtex/database at main · astrochun/academic...,3,1
 academic-ads-bibtex,2024-01-01,tree/main/bin,academic-ads-bibtex/bin at main · astrochun/academic-ads-bibtex,9,1
+academic-ads-bibtex,2024-01-02,blob/main/academic_ads_bibtex/__init__.py,academic-ads-bibtex/academic_ads_bibtex/__init__.py at main · astrochun/acade...,2,1
+academic-ads-bibtex,2024-01-02,blob/main/academic_ads_bibtex/converter.py,academic-ads-bibtex/academic_ads_bibtex/converter.py at main · astrochun/acad...,4,1
+academic-ads-bibtex,2024-01-02,blob/main/academic_ads_bibtex/database/bibtex_journals.db,academic-ads-bibtex/academic_ads_bibtex/database/bibtex_journals.db at main ·...,2,1
+academic-ads-bibtex,2024-01-02,blob/main/academic_ads_bibtex/logger.py,academic-ads-bibtex/academic_ads_bibtex/logger.py at main · astrochun/academi...,2,1
+academic-ads-bibtex,2024-01-02,blob/main/bin/academic_ads_bibtex,academic-ads-bibtex/bin/academic_ads_bibtex at main · astrochun/academic-ads-...,6,1
+academic-ads-bibtex,2024-01-02,blob/main/setup.py,academic-ads-bibtex/setup.py at main · astrochun/academic-ads-bibtex,4,1
+academic-ads-bibtex,2024-01-02,tree/main,astrochun/academic-ads-bibtex: Construct a proper BibTeX file to use with Hug...,1,1
+academic-ads-bibtex,2024-01-02,tree/main/academic_ads_bibtex,academic-ads-bibtex/academic_ads_bibtex at main · astrochun/academic-ads-bibtex,11,1
+academic-ads-bibtex,2024-01-02,tree/main/academic_ads_bibtex/database,academic-ads-bibtex/academic_ads_bibtex/database at main · astrochun/academic...,3,1
+academic-ads-bibtex,2024-01-02,tree/main/bin,academic-ads-bibtex/bin at main · astrochun/academic-ads-bibtex,9,1
 astrochun,2021-05-28,,astrochun/astrochun,1,1
 astrochun,2021-05-28,blob/5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861/README.md,astrochun/README.md at 5b1c1fcf48936d19a4bed71f7ac9370ae8fbd861 · astrochun/a...,1,1
 astrochun,2021-05-29,,astrochun/astrochun,1,1
@@ -16676,6 +16689,7 @@ github-stats-pages,2023-12-29,blob/main/README.md,github-stats-pages/README.md a
 github-stats-pages,2023-12-30,blob/main/README.md,github-stats-pages/README.md at main · astrochun/github-stats-pages,2,1
 github-stats-pages,2023-12-31,blob/main/README.md,github-stats-pages/README.md at main · astrochun/github-stats-pages,2,1
 github-stats-pages,2024-01-01,blob/main/README.md,github-stats-pages/README.md at main · astrochun/github-stats-pages,2,1
+github-stats-pages,2024-01-02,blob/main/README.md,github-stats-pages/README.md at main · astrochun/github-stats-pages,2,1
 manifests_with_flux,2021-05-22,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-23,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
 manifests_with_flux,2021-05-24,,GitHub - astrochun/manifests_with_flux: GitOps Sample Lab,1,1
