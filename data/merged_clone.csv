@@ -591,6 +591,7 @@ MMTtools,2023-12-12,1,1
 MMTtools,2023-12-14,1,1
 MMTtools,2023-12-17,1,1
 MMTtools,2023-12-29,4,2
+MMTtools,2024-01-06,1,1
 MZEnv,2021-05-08,1,1
 MZEnv,2021-06-03,1,1
 MZEnv,2021-07-19,1,1
@@ -1524,6 +1525,7 @@ academic-ads-bibtex,2023-12-12,1,1
 academic-ads-bibtex,2023-12-15,1,1
 academic-ads-bibtex,2023-12-25,1,1
 academic-ads-bibtex,2023-12-29,2,1
+academic-ads-bibtex,2024-01-06,1,1
 astrochun,2021-02-21,1,1
 astrochun,2021-04-14,1,1
 astrochun,2021-04-18,1,1
@@ -1585,6 +1587,7 @@ astrochun,2023-10-10,2,1
 astrochun,2023-11-05,1,1
 astrochun,2023-12-10,2,1
 astrochun,2023-12-29,2,1
+astrochun,2024-01-06,1,1
 astrochun.github.io,2021-02-23,1,1
 astrochun.github.io,2021-03-25,2,2
 astrochun.github.io,2021-03-26,1,1
@@ -1841,6 +1844,7 @@ chun_codes,2023-12-11,1,1
 chun_codes,2023-12-17,1,1
 chun_codes,2023-12-19,1,1
 chun_codes,2024-01-01,2,1
+chun_codes,2024-01-06,1,1
 closed-discussion-message,2021-08-28,6,5
 closed-discussion-message,2021-09-19,1,1
 closed-discussion-message,2021-09-21,1,1
@@ -3382,6 +3386,7 @@ github-stats,2024-01-02,3,3
 github-stats,2024-01-03,3,3
 github-stats,2024-01-04,3,3
 github-stats,2024-01-05,3,3
+github-stats,2024-01-06,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -4688,6 +4693,7 @@ sqltest-github-stats,2024-01-02,1,1
 sqltest-github-stats,2024-01-03,1,1
 sqltest-github-stats,2024-01-04,1,1
 sqltest-github-stats,2024-01-05,1,1
+sqltest-github-stats,2024-01-06,2,2
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -5798,6 +5804,7 @@ test-github-stats,2024-01-02,9,6
 test-github-stats,2024-01-03,9,6
 test-github-stats,2024-01-04,7,5
 test-github-stats,2024-01-05,5,4
+test-github-stats,2024-01-06,11,7
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
