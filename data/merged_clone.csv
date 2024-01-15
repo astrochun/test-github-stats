@@ -298,6 +298,7 @@ Evolution-of-Galaxies,2024-01-01,2,1
 Evolution-of-Galaxies,2024-01-03,1,1
 Evolution-of-Galaxies,2024-01-11,1,1
 Evolution-of-Galaxies,2024-01-13,2,2
+Evolution-of-Galaxies,2024-01-14,1,1
 Extract1D,2021-03-14,1,1
 Extract1D,2021-04-28,1,1
 Extract1D,2021-05-12,1,1
@@ -1410,6 +1411,7 @@ Zcalbase_gal,2023-12-09,1,1
 Zcalbase_gal,2023-12-30,2,1
 Zcalbase_gal,2024-01-11,1,1
 Zcalbase_gal,2024-01-13,1,1
+Zcalbase_gal,2024-01-14,2,2
 academic-ads-bibtex,2021-01-06,5,4
 academic-ads-bibtex,2021-01-09,1,1
 academic-ads-bibtex,2021-01-11,1,1
@@ -1874,6 +1876,7 @@ chun_codes,2023-12-19,1,1
 chun_codes,2024-01-01,2,1
 chun_codes,2024-01-06,1,1
 chun_codes,2024-01-13,1,1
+chun_codes,2024-01-14,2,2
 closed-discussion-message,2021-08-28,6,5
 closed-discussion-message,2021-09-19,1,1
 closed-discussion-message,2021-09-21,1,1
@@ -2149,6 +2152,7 @@ figshare_actions,2023-11-04,1,1
 figshare_actions,2023-12-07,1,1
 figshare_actions,2023-12-29,2,1
 figshare_actions,2024-01-13,1,1
+figshare_actions,2024-01-14,1,1
 figshare_actions2,2021-03-03,1,1
 figshare_actions2,2021-03-27,1,1
 figshare_actions2,2021-04-28,1,1
@@ -3424,7 +3428,7 @@ github-stats,2023-12-28,3,3
 github-stats,2023-12-29,2,2
 github-stats,2023-12-30,3,3
 github-stats,2023-12-31,3,3
-github-stats,2024-01-01,7,6
+github-stats,2024-01-01,4,3
 github-stats,2024-01-02,3,3
 github-stats,2024-01-03,3,3
 github-stats,2024-01-04,3,3
@@ -3437,6 +3441,7 @@ github-stats,2024-01-10,3,3
 github-stats,2024-01-11,3,3
 github-stats,2024-01-12,4,4
 github-stats,2024-01-13,5,5
+github-stats,2024-01-14,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -4153,6 +4158,7 @@ site-hugo-academic,2024-01-01,4,2
 site-hugo-academic,2024-01-02,1,1
 site-hugo-academic,2024-01-12,1,1
 site-hugo-academic,2024-01-13,1,1
+site-hugo-academic,2024-01-14,1,1
 sqlmodel-learning,2022-05-22,13,6
 sqlmodel-learning,2022-05-23,2,2
 sqlmodel-learning,2022-05-25,13,5
@@ -4762,6 +4768,7 @@ sqltest-github-stats,2024-01-10,1,1
 sqltest-github-stats,2024-01-11,1,1
 sqltest-github-stats,2024-01-12,2,2
 sqltest-github-stats,2024-01-13,2,2
+sqltest-github-stats,2024-01-14,1,1
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -5869,7 +5876,7 @@ test-github-stats,2023-12-28,16,8
 test-github-stats,2023-12-29,2,1
 test-github-stats,2023-12-30,6,4
 test-github-stats,2023-12-31,3,3
-test-github-stats,2024-01-01,8,5
+test-github-stats,2024-01-01,5,2
 test-github-stats,2024-01-02,9,6
 test-github-stats,2024-01-03,9,6
 test-github-stats,2024-01-04,7,5
@@ -5882,6 +5889,7 @@ test-github-stats,2024-01-10,5,4
 test-github-stats,2024-01-11,3,3
 test-github-stats,2024-01-12,3,3
 test-github-stats,2024-01-13,8,6
+test-github-stats,2024-01-14,2,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
