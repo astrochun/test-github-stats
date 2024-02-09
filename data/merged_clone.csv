@@ -462,7 +462,7 @@ GNIRSLongSlit,2024-01-10,1,1
 GNIRSLongSlit,2024-01-13,1,1
 GNIRSLongSlit,2024-01-15,1,1
 GNIRSLongSlit,2024-01-21,1,1
-GNIRSLongSlit,2024-01-26,2,2
+GNIRSLongSlit,2024-01-26,1,1
 IntroPythonAstronomy,2021-03-12,1,1
 IntroPythonAstronomy,2021-05-18,1,1
 IntroPythonAstronomy,2021-07-07,1,1
@@ -2130,6 +2130,7 @@ figshare-actions-publish-test,2023-10-10,2,1
 figshare-actions-publish-test,2024-01-01,3,2
 figshare-actions-publish-test,2024-01-11,1,1
 figshare-actions-publish-test,2024-01-13,1,1
+figshare-actions-publish-test,2024-02-08,1,1
 figshare_actions,2021-02-27,1,1
 figshare_actions,2021-03-22,1,1
 figshare_actions,2021-05-27,1,1
@@ -3500,6 +3501,7 @@ github-stats,2024-02-04,3,3
 github-stats,2024-02-05,4,4
 github-stats,2024-02-06,3,3
 github-stats,2024-02-07,3,3
+github-stats,2024-02-08,3,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -4858,6 +4860,7 @@ sqltest-github-stats,2024-02-04,1,1
 sqltest-github-stats,2024-02-05,1,1
 sqltest-github-stats,2024-02-06,1,1
 sqltest-github-stats,2024-02-07,1,1
+sqltest-github-stats,2024-02-08,1,1
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -5992,7 +5995,7 @@ test-github-stats,2024-01-22,4,3
 test-github-stats,2024-01-23,2,1
 test-github-stats,2024-01-24,2,1
 test-github-stats,2024-01-25,1,1
-test-github-stats,2024-01-26,5,4
+test-github-stats,2024-01-26,2,1
 test-github-stats,2024-01-27,5,4
 test-github-stats,2024-01-28,3,3
 test-github-stats,2024-01-29,9,7
@@ -6005,6 +6008,7 @@ test-github-stats,2024-02-04,3,3
 test-github-stats,2024-02-05,5,5
 test-github-stats,2024-02-06,5,4
 test-github-stats,2024-02-07,3,3
+test-github-stats,2024-02-08,5,4
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
