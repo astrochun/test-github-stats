@@ -51,6 +51,7 @@ Evolution-of-Galaxies,2022-10-02,1,1
 Evolution-of-Galaxies,2023-01-11,2,1
 Evolution-of-Galaxies,2023-02-18,1,1
 Evolution-of-Galaxies,2023-03-21,1,1
+Evolution-of-Galaxies,2024-05-28,15,1
 Extract1D,2023-01-04,12,1
 Extract1D,2023-01-10,1,1
 GNIRSLongSlit,2021-03-02,10,7
@@ -792,6 +793,7 @@ github-stats,2024-01-31,1,1
 github-stats,2024-02-25,1,1
 github-stats,2024-03-29,5,1
 github-stats,2024-05-10,1,1
+github-stats,2024-05-28,2,1
 github-stats-pages,2021-02-12,4,1
 github-stats-pages,2021-02-13,1,1
 github-stats-pages,2021-02-19,3,1
@@ -1304,6 +1306,7 @@ github-stats-pages,2024-05-20,1,1
 github-stats-pages,2024-05-23,1,1
 github-stats-pages,2024-05-24,1,1
 github-stats-pages,2024-05-26,1,1
+github-stats-pages,2024-05-28,7,3
 manifests_with_flux,2021-05-21,1,1
 manifests_with_flux,2021-08-21,1,1
 old_website_nightsky,2021-07-10,1,1
